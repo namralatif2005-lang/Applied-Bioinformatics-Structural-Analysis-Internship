@@ -1,1 +1,8 @@
-
+DEFINITION  TP53, partial [Homo sapiens].
+ TITLE     Molecular and In Silico Analysis of Novel Single Nucleotide
+            Polymorphism Met160Val Targeting Human TP53 Gene in Sudanese
+            Esophageal Cancer Patients
+ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
