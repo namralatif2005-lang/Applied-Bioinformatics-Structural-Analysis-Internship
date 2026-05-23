@@ -1,1 +1,7 @@
-
+DEFINITION  BRCAI, partial [Homo sapiens].
+ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+TITLE     Novel mutations in the BRCA1 and BRCA2 genes in Iranian women with
+            early-onset breast cancer
