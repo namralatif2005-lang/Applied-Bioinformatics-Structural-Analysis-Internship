@@ -1,0 +1,58 @@
+LOCUS       KU325497                 512 bp    DNA     linear   PRI 05-JUL-2016
+DEFINITION  Homo sapiens CFTR (CFTR) gene, partial cds.
+ACCESSION   KU325497
+VERSION     KU325497.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 512)
+  AUTHORS   Gajbhiye,R., Shah,R. and Gaikwad,A.
+  TITLE     Novel CFTR gene mutation in the 5' UTR promoter region in Indian
+            men having congenital bilateral absence of vas deferens
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 512)
+  AUTHORS   Gajbhiye,R., Shah,R. and Gaikwad,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-DEC-2015) Department of Reproductive endocrinology
+            and Infertility, National Institute for Research in Reproductive
+            Health, J M Street, Parel, Mumbai, Maharashtra 400012, India
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..512
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolate="c.1-30C>G"
+                     /db_xref="taxon:9606"
+                     /chromosome="7"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /geo_loc_name="India"
+                     /collection_date="28-May-2012"
+     gene            <235..>512
+                     /gene="CFTR"
+     mRNA            <235..>287
+                     /gene="CFTR"
+                     /product="CFTR"
+     CDS             235..>287
+                     /gene="CFTR"
+                     /codon_start=1
+                     /product="CFTR"
+                     /protein_id="ANO46461.1"
+                     /translation="MQRSPLEKASVVSKLLF"
+ORIGIN      
+        1 tcacccggac tatttcgcaa ttcgggcttt taacatgggc agtgaaggcg ggggaagagc
+       61 aaaaggaagg ggtggtgtgc gtgagtaggg gtgggtgggg ggaattggaa gcaaatgaca
+      121 tcacagcagg tcagagaaaa agggttgagc ggcaggcacc cagagtagta ggtctttggc
+      181 attaggagct tgagcccaga cgggcctagc agggacccca gcgcccgaga gaccatgcag
+      241 aggtcgcctc tggaaaaggc cagcgttgtc tccaaacttt tgttcaggtg agaagggggc
+      301 caaccgagct tcggaaagat cagcgcccac gaaagaggag ggcgtgtgta tgggttgggt
+      361 ttggggtaaa ggaataagca gtttttaaaa agatgcgcta tcattcattg ttttgaaaga
+      421 aaatgtgggt attgtagaat aaaacagaaa gcattaagaa gagatggaag aatgaactga
+      481 agctgattga tagagagccc ctcctacttg ca
+//
+
