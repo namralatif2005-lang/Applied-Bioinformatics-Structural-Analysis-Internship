@@ -1,1 +1,7 @@
-
+DEFINITION  apolipoprotein E isoform a precursor [Homo sapiens].
+ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+TITLE     APOE contributes to longitudinal impulse control disorders
+            progression in Parkinson's disease
