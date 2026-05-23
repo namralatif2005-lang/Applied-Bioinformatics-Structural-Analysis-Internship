@@ -21,6 +21,7 @@ Refine and validate predicted protein models
 Interpret structural and functional relationships
 
 **Workflow**
+
 Sequence Retrieval ↓ BLAST Analysis ↓ Multiple Sequence Alignment ↓ Domain & Motif Analysis ↓ Secondary Structure Prediction ↓ Tertiary Structure Prediction ↓ Structure Refinement ↓ Structure Validation ↓ Functional Interpretation
 
 
