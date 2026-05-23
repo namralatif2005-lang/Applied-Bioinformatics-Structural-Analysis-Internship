@@ -1,1 +1,5 @@
-
+DEFINITION  Synthetic construct Homo sapiens clone ccsbBroadEn_14543 APOE gene,
+            encodes complete protein.
+ORGANISM  synthetic construct
+            other sequences; artificial sequences.
+ TITLE     A public genome-scale lentiviral expression library of human ORFs
