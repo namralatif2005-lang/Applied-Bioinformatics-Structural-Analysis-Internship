@@ -1,1 +1,22 @@
+Protein: Serine/threonine-protein kinase mTOR
 
+Organism: Homo-sapiens
+
+Function: Serine/threonine protein kinase which is a central regulator of cellular metabolism, growth and survival in response to hormones,
+growth factors, nutrients, energy and stress signals (PubMed:12087098, PubMed:12150925, PubMed:12150926, PubMed:12231510, PubMed:12718876,
+PubMed:14651849, PubMed:15268862, PubMed:15467718, PubMed:15545625, PubMed:15718470, PubMed:18497260, PubMed:18762023, PubMed:18925875,
+PubMed:20516213, PubMed:20537536, PubMed:21659604, PubMed:23429703, PubMed:23429704, PubMed:25799227, PubMed:26018084, PubMed:29150432,
+PubMed:29236692, PubMed:31112131, PubMed:31601708, PubMed:32561715, PubMed:34519269, PubMed:37751742).
+MTOR directly or indirectly regulates the phosphorylation of at least 800 proteins (PubMed:15268862, PubMed:15467718, PubMed:17517883,
+PubMed:18372248, PubMed:18497260, PubMed:18925875, PubMed:20516213, PubMed:21576368, PubMed:21659604, PubMed:23429704, PubMed:30171069, 
+PubMed:29236692, PubMed:37751742).
+Functions as part of 2 structurally and functionally distinct signaling complexes mTORC1 and mTORC2 (mTOR complex 1 and 2) (PubMed:15268862,
+PubMed:15467718, PubMed:18497260, PubMed:18925875, PubMed:20516213, PubMed:21576368,PubMed:21659604, PubMed:23429704, PubMed:29424687, 
+PubMed:29567957,PubMed:35926713).
+In response to nutrients, growth factors or amino acids, mTORC1 is recruited to the lysosome membrane and promotes protein, lipid and 
+nucleotide synthesis by phosphorylating key regulators of mRNA translation and ribosome synthesis (PubMed:12087098, PubMed:12150925,
+PubMed:12150926, PubMed:12231510, PubMed:12718876, PubMed:14651849, PubMed:15268862, PubMed:15467718, PubMed:15545625, PubMed:15718470,
+PubMed:18497260, PubMed:18762023, PubMed:18925875, PubMed:20516213, PubMed:20537536, PubMed:21659604, PubMed:23429703, PubMed:23429704,
+PubMed:25799227, PubMed:26018084, PubMed:29150432, PubMed:29236692, PubMed:31112131, PubMed:34519269).
+This includes phosphorylation of EIF4EBP1 and release of its inhibition toward the elongation initiation factor 4E (eiF4E) (PubMed:24403073,
+PubMed:29236692).
