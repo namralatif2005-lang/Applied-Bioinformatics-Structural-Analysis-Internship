@@ -1,1 +1,26 @@
+# Nucleotide Sequence Retrieval
 
+This repository section contains nucleotide sequence datasets retrieved from NCBI for practical bioinformatics analysis and computational biology workflows.
+
+## Contents
+
+The folder currently contains:
+
+- FASTA format nucleotide sequences
+- GenBank annotation files
+- Sequence-specific subdirectories
+- NCBI accession-based organization structure
+
+## Applications
+
+These nucleotide sequences can be utilized for:
+
+- BLAST analysis
+- Multiple sequence alignment
+- Mutation and variant analysis
+- Phylogenetic tree construction
+- Gene annotation studies
+
+## Data Source
+
+NCBI Nucleotide Database
