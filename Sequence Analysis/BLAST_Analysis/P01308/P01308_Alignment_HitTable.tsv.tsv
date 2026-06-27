@@ -1,0 +1,251 @@
+Hit	DB	Accession	Description	Organism	Length	Score(Bits)	Identities(%)	Positives(%)	E()
+1	TR	I3WAC9	Insulin OS=Homo sapiens OX=9606 GN=INS PE=1 SV=1	Homo sapiens	110	589	100.0	100.0	4.9e-77
+2	SP	P01308	Insulin OS=Homo sapiens OX=9606 GN=INS PE=1 SV=1	Homo sapiens	110	589	100.0	100.0	4.9e-77
+3	SP	Q6YK33	Insulin OS=Gorilla gorilla gorilla OX=9595 GN=INS PE=3 SV=1	Gorilla gorilla gorilla	110	589	100.0	100.0	4.9e-77
+4	TR	A0A2R9C3W5	Insulin OS=Pan paniscus OX=9597 PE=3 SV=1	Pan paniscus	110	586	99.1	100.0	1.4e-76
+5	SP	Q8HXV2	Insulin OS=Pongo pygmaeus OX=9600 GN=INS PE=3 SV=1	Pongo pygmaeus	110	584	99.1	99.1	2.8e-76
+6	SP	P30410	Insulin OS=Pan troglodytes OX=9598 GN=INS PE=1 SV=1	Pan troglodytes	110	582	98.2	99.1	5.8e-76
+7	TR	A0A2K6CQQ5	Insulin OS=Macaca nemestrina OX=9545 PE=3 SV=1	Macaca nemestrina	110	577	98.2	98.2	3.3e-75
+8	TR	A0A2I3HNQ8	Insulin OS=Nomascus leucogenys OX=61853 GN=INS PE=3 SV=1	Nomascus leucogenys	110	577	98.2	98.2	3.3e-75
+9	TR	F7AUL3	Insulin OS=Macaca mulatta OX=9544 GN=INS PE=3 SV=3	Macaca mulatta	110	577	98.2	98.2	3.3e-75
+10	SP	P30406	Insulin OS=Macaca fascicularis OX=9541 GN=INS PE=3 SV=1	Macaca fascicularis	110	577	98.2	98.2	3.3e-75
+11	TR	A0A8I5TQT5	Insulin OS=Pongo abelii OX=9601 GN=INS PE=3 SV=1	Pongo abelii	109	573	99.1	99.1	1.3e-74
+12	TR	A0A2K5JZH7	Insulin OS=Colobus angolensis palliatus OX=336983 PE=3 SV=1	Colobus angolensis palliatus	110	573	97.3	97.3	1.4e-74
+13	TR	A0ACF8NUL6	Uncharacterized protein OS=Nasalis larvatus OX=43780 GN=H8958_012456 PE=4 SV=1	Nasalis larvatus	110	573	97.3	97.3	1.4e-74
+14	TR	A0ACF8I7F6	Uncharacterized protein OS=Semnopithecus entellus OX=88029 GN=H8957_009813 PE=4 SV=1	Semnopithecus entellus	110	573	97.3	97.3	1.4e-74
+15	TR	A0AAJ7MUG7	Insulin OS=Rhinopithecus bieti OX=61621 PE=3 SV=1	Rhinopithecus bieti	110	573	97.3	97.3	1.4e-74
+16	TR	A0A2K5YKV7	Insulin OS=Mandrillus leucophaeus OX=9568 PE=3 SV=1	Mandrillus leucophaeus	110	573	97.3	97.3	1.4e-74
+17	TR	A0A0D9RBQ0	Insulin OS=Chlorocebus sabaeus OX=60711 PE=3 SV=1	Chlorocebus sabaeus	110	573	97.3	97.3	1.4e-74
+18	TR	A0A096MTW9	Insulin OS=Papio anubis OX=9555 PE=3 SV=2	Papio anubis	110	573	97.3	97.3	1.4e-74
+19	SP	P30407	Insulin OS=Chlorocebus aethiops OX=9534 GN=INS PE=1 SV=1	Chlorocebus aethiops	110	573	97.3	97.3	1.4e-74
+20	TR	A0A2K5P2L3	Insulin OS=Cercocebus atys OX=9531 PE=3 SV=1	Cercocebus atys	110	570	96.4	97.3	3.9e-74
+21	TR	A0A8C9LMF1	Insulin OS=Piliocolobus tephrosceles OX=591936 GN=INS PE=3 SV=1	Piliocolobus tephrosceles	110	569	96.4	96.4	5.5e-74
+22	TR	A0A8D2GB84	Insulin OS=Theropithecus gelada OX=9565 GN=INS PE=3 SV=1	Theropithecus gelada	110	565	96.4	96.4	2.3e-73
+23	TR	A0A2K6R041	Insulin OS=Rhinopithecus roxellana OX=61622 GN=INS PE=3 SV=1	Rhinopithecus roxellana	110	560	96.4	96.4	1.3e-72
+24	TR	A0A805PSZ0	Insulin OS=Macaca fascicularis OX=9541 PE=3 SV=1	Macaca fascicularis	109	543	95.5	95.5	5e-70
+25	TR	L9LDU9	Insulin OS=Tupaia chinensis OX=246437 GN=TREES_T100008383 PE=3 SV=1	Tupaia chinensis	110	539	91.8	92.7	2.1e-69
+26	TR	A0ABD2F9B8	Insulin OS=Daubentonia madagascariensis OX=31869 GN=WCI35_002262 PE=3 SV=1	Daubentonia madagascariensis	110	530	90.0	91.8	4.9e-68
+27	TR	A0ABM2FLU6	Insulin OS=Equus przewalskii OX=9798 GN=INS PE=3 SV=1	Equus przewalskii	110	521	88.2	89.1	1.2e-66
+28	TR	A0A8C4KSY9	Insulin OS=Equus asinus OX=9793 GN=INS PE=3 SV=1	Equus asinus	110	520	88.2	89.1	1.7e-66
+29	TR	A0A811Y131	Insulin OS=Nyctereutes procyonoides OX=34880 GN=NYPRO_LOCUS2706 PE=3 SV=1	Nyctereutes procyonoides	110	520	88.2	89.1	1.7e-66
+30	TR	A0A8C0R307	Insulin OS=Canis lupus dingo OX=286419 GN=INS PE=3 SV=1	Canis lupus dingo	110	520	88.2	89.1	1.7e-66
+31	TR	A0A3Q7SVW3	Insulin OS=Vulpes vulpes OX=9627 GN=INS PE=3 SV=1	Vulpes vulpes	110	520	88.2	89.1	1.7e-66
+32	SP	P01321	Insulin OS=Canis lupus familiaris OX=9615 GN=INS PE=1 SV=1	Canis lupus familiaris	110	520	88.2	89.1	1.7e-66
+33	TR	A0ABM5AJ60	Insulin OS=Vulpes vulpes OX=9627 GN=INS PE=3 SV=1	Vulpes vulpes	124	520	88.2	89.1	2.6e-66
+34	TR	A0A8C6R9K2	Insulin OS=Nannospalax galili OX=1026970 GN=Ins PE=3 SV=1	Nannospalax galili	110	518	87.3	91.8	3.3e-66
+35	TR	A0A8B8Y4P9	Insulin OS=Balaenoptera musculus OX=9771 GN=INS PE=3 SV=1	Balaenoptera musculus	110	517	88.2	89.1	4.7e-66
+36	TR	A0A7J7EMI1	Insulin OS=Diceros bicornis minor OX=77932 GN=HPG69_013814 PE=3 SV=1	Diceros bicornis minor	110	515	88.2	89.1	9.6e-66
+37	TR	A0A2Y9SAK9	Insulin OS=Physeter macrocephalus OX=9755 GN=INS PE=3 SV=1	Physeter macrocephalus	110	515	88.2	88.2	9.6e-66
+38	SP	Q91XI3	Insulin OS=Ictidomys tridecemlineatus OX=43179 GN=INS PE=3 SV=1	Ictidomys tridecemlineatus	110	515	89.1	91.8	9.6e-66
+39	TR	A0A8C9A648	Insulin OS=Prolemur simus OX=1328070 GN=INS PE=3 SV=1	Prolemur simus	110	514	88.2	90.0	1.4e-65
+40	TR	F6MZK5	Insulin (Fragment) OS=Homo sapiens OX=9606 GN=INS PE=2 SV=1	Homo sapiens	94	512	100.0	100.0	1.7e-65
+41	TR	A0A8D2GYI5	Insulin OS=Urocitellus parryii OX=9999 GN=INS PE=3 SV=1	Urocitellus parryii	110	512	88.2	91.8	2.7e-65
+42	TR	A0A8C6FC86	Insulin OS=Monodon monoceros OX=40151 GN=INS PE=3 SV=1	Monodon monoceros	110	512	87.3	88.2	2.7e-65
+43	TR	A0A2Y9PTW5	Insulin OS=Delphinapterus leucas OX=9749 GN=INS PE=3 SV=1	Delphinapterus leucas	110	512	87.3	88.2	2.7e-65
+44	TR	A0A8B7UZI3	Insulin OS=Castor canadensis OX=51338 GN=Ins PE=3 SV=1	Castor canadensis	110	511	86.4	90.0	3.9e-65
+45	TR	A0A8C9B9L9	Insulin OS=Phocoena sinus OX=42100 GN=INS PE=3 SV=1	Phocoena sinus	110	509	86.4	88.2	7.9e-65
+46	TR	A0A8B7TGN6	Insulin OS=Hipposideros armiger OX=186990 GN=INS PE=3 SV=1	Hipposideros armiger	110	509	86.4	88.2	7.9e-65
+47	TR	A0A341BTK8	Insulin OS=Neophocaena asiaeorientalis asiaeorientalis OX=1706337 GN=INS PE=3 SV=1	Neophocaena asiaeorientalis asiaeorientalis	110	509	86.4	88.2	7.9e-65
+48	TR	A0A8C5YXC1	Insulin OS=Marmota marmota marmota OX=9994 GN=INS PE=3 SV=1	Marmota marmota marmota	110	508	87.3	90.9	1.1e-64
+49	TR	A0A5E4CFR0	Insulin OS=Marmota monax OX=9995 GN=MONAX_5E026117 PE=3 SV=1	Marmota monax	110	508	87.3	90.9	1.1e-64
+50	TR	A0A2U3Z329	Insulin OS=Leptonychotes weddellii OX=9713 GN=INS PE=3 SV=1	Leptonychotes weddellii	110	508	86.4	88.2	1.1e-64
+51	TR	A0ABM1DHN8	Insulin OS=Ceratotherium simum simum OX=73337 GN=LOC101397808 PE=3 SV=1	Ceratotherium simum simum	110	508	87.3	88.2	1.1e-64
+52	TR	A0A061ICE0	Insulin OS=Cricetulus griseus OX=10029 GN=Ins PE=3 SV=1	Cricetulus griseus	110	505	86.4	90.9	3.2e-64
+53	TR	A0A2U3W6R9	Insulin OS=Odobenus rosmarus divergens OX=9708 GN=INS PE=3 SV=1	Odobenus rosmarus divergens	110	505	85.5	87.3	3.2e-64
+54	TR	A0A6J2M1G9	Insulin OS=Phyllostomus discolor OX=89673 GN=INS PE=3 SV=1	Phyllostomus discolor	110	505	84.5	89.1	3.2e-64
+55	TR	A0A673TPJ0	Insulin OS=Suricata suricatta OX=37032 GN=INS PE=3 SV=1	Suricata suricatta	110	505	86.4	87.3	3.2e-64
+56	TR	A0A6J2BZI3	Insulin OS=Zalophus californianus OX=9704 GN=INS PE=3 SV=1	Zalophus californianus	110	505	85.5	87.3	3.2e-64
+57	TR	A0A3Q7PNJ8	Insulin OS=Callorhinus ursinus OX=34884 GN=INS PE=3 SV=1	Callorhinus ursinus	110	505	85.5	87.3	3.2e-64
+58	TR	A0A2K5DMS7	Insulin OS=Aotus nancymaae OX=37293 PE=3 SV=1	Aotus nancymaae	108	504	86.4	90.0	4.3e-64
+59	TR	F6UNL6	Insulin OS=Homo sapiens OX=9606 GN=INS PE=1 SV=1	Homo sapiens	98	503	89.1	89.1	4.4e-64
+60	TR	A6XGL2	Insulin OS=Homo sapiens OX=9606 PE=1 SV=1	Homo sapiens	98	503	89.1	89.1	4.4e-64
+61	TR	A0A8B7EXV1	Insulin OS=Microcebus murinus OX=30608 GN=INS PE=3 SV=1	Microcebus murinus	110	504	86.4	89.1	4.6e-64
+62	TR	A0ELZ1	Insulin OS=Alexandromys kikuchii OX=3369700 GN=Ins PE=3 SV=1	Alexandromys kikuchii	110	503	85.5	90.0	6.5e-64
+63	TR	A0A383Z7M6	Insulin OS=Balaenoptera acutorostrata OX=9767 GN=INS PE=3 SV=3	Balaenoptera acutorostrata	110	503	85.5	88.2	6.5e-64
+64	TR	A0A2U3V333	Insulin OS=Tursiops truncatus OX=9739 GN=INS PE=3 SV=1	Tursiops truncatus	110	503	86.4	87.3	6.5e-64
+65	SP	P67972	Insulin OS=Aotus trivirgatus OX=9505 GN=INS PE=3 SV=1	Aotus trivirgatus	108	502	85.5	90.0	8.6e-64
+66	TR	A0A8C5KCT1	Insulin OS=Jaculus jaculus OX=51337 GN=Ins PE=3 SV=1	Jaculus jaculus	110	502	85.5	89.1	9.2e-64
+67	TR	A0A340Y3F2	Insulin OS=Lipotes vexillifer OX=118797 GN=INS PE=3 SV=1	Lipotes vexillifer	110	502	86.4	88.2	9.2e-64
+68	TR	A0A2Y9GUC3	Insulin OS=Neomonachus schauinslandi OX=29088 GN=INS PE=3 SV=1	Neomonachus schauinslandi	110	502	84.5	87.3	9.2e-64
+69	TR	A0AAU9ZLA2	Insulin OS=Phodopus roborovskii OX=109678 GN=Ins PE=3 SV=1	Phodopus roborovskii	110	501	85.5	90.0	1.3e-63
+70	TR	A0A6I9LDU9	Insulin OS=Peromyscus maniculatus bairdii OX=230844 GN=Ins PE=3 SV=1	Peromyscus maniculatus bairdii	110	501	85.5	89.1	1.3e-63
+71	TR	A0A2K5R3V4	Insulin OS=Cebus imitator OX=2715852 GN=INS PE=3 SV=1	Cebus imitator	108	500	85.5	89.1	1.7e-63
+72	TR	A0A6J3H310	Insulin OS=Sapajus apella OX=9515 GN=INS PE=3 SV=1	Sapajus apella	108	500	85.5	89.1	1.7e-63
+73	TR	M3Y2P2	Insulin OS=Mustela putorius furo OX=9669 GN=INS PE=3 SV=1	Mustela putorius furo	109	499	86.4	88.2	2.6e-63
+74	TR	A0ABM0KRX8	Insulin OS=Microtus ochrogaster OX=79684 GN=Ins PE=3 SV=1	Microtus ochrogaster	110	498	84.5	90.0	3.8e-63
+75	TR	A0A8C7EMM5	Insulin OS=Neogale vison OX=452646 GN=INS PE=3 SV=1	Neogale vison	109	495	85.5	87.3	1e-62
+76	TR	A0A2Y9JQV6	Insulin OS=Enhydra lutris kenyoni OX=391180 GN=LOC111150279 PE=3 SV=1	Enhydra lutris kenyoni	109	495	85.5	87.3	1e-62
+77	TR	A0A6J3BR31	Insulin OS=Vicugna pacos OX=30538 GN=INS PE=3 SV=1	Vicugna pacos	110	495	84.5	86.4	1.1e-62
+78	TR	B5FWC2	Insulin OS=Otolemur garnettii OX=30611 GN=INS PE=3 SV=1	Otolemur garnettii	110	495	84.5	88.2	1.1e-62
+79	TR	A0ACF6GZK7	Insulin II OS=Sigmodon hispidus OX=42415 GN=HispidOSU_019699 PE=4 SV=1	Sigmodon hispidus	110	494	83.6	89.1	1.5e-62
+80	TR	A0AAW0HKD6	Insulin OS=Myodes glareolus OX=447135 GN=U0070_013151 PE=3 SV=1	Myodes glareolus	135	496	84.5	89.1	1.7e-62
+81	TR	L5KR12	Insulin OS=Pteropus alecto OX=9402 GN=PAL_GLEAN10011204 PE=3 SV=1	Pteropus alecto	110	493	84.5	87.3	2.2e-62
+82	TR	F6YAF3	Insulin OS=Callithrix jacchus OX=9483 GN=INS PE=3 SV=1	Callithrix jacchus	108	492	85.5	89.1	2.9e-62
+83	TR	A0A1U8BPF3	Insulin OS=Mesocricetus auratus OX=10036 GN=Ins PE=3 SV=1	Mesocricetus auratus	110	492	83.6	88.2	3.1e-62
+84	TR	A0A2K6FAA5	Insulin OS=Propithecus coquereli OX=379532 PE=3 SV=1	Propithecus coquereli	110	490	84.5	87.3	6.2e-62
+85	TR	A0ABQ0F0X3	Insulin OS=Apodemus speciosus OX=105296 GN=APTSU1_000817000 PE=3 SV=1	Apodemus speciosus	110	488	82.7	87.3	1.3e-61
+86	TR	A0ELY7	Insulin OS=Apodemus semotus OX=105299 GN=Ins2 PE=3 SV=1	Apodemus semotus	110	488	82.7	87.3	1.3e-61
+87	SP	P01313	Insulin OS=Cricetulus longicaudatus OX=10030 GN=INS PE=1 SV=2	Cricetulus longicaudatus	110	488	82.7	87.3	1.3e-61
+88	TR	A0A2K6UJQ4	Insulin OS=Saimiri boliviensis boliviensis OX=39432 PE=3 SV=1	Saimiri boliviensis boliviensis	108	487	83.6	88.2	1.7e-61
+89	TR	A0AC58QZ59	Insulin OS=Camelus bactrianus OX=9837 GN=INS PE=3 SV=1	Camelus bactrianus	110	486	83.6	84.5	2.5e-61
+90	TR	A0A8B8TW19	Insulin OS=Camelus ferus OX=419612 GN=INS PE=3 SV=1	Camelus ferus	110	486	83.6	84.5	2.5e-61
+91	TR	A0A5N4BXJ1	Insulin OS=Camelus dromedarius OX=9838 GN=Insulin PE=3 SV=1	Camelus dromedarius	110	486	83.6	84.5	2.5e-61
+92	SP	P01323	Insulin-2 OS=Rattus norvegicus OX=10116 GN=Ins2 PE=1 SV=1	Rattus norvegicus	110	486	82.7	87.3	2.5e-61
+93	TR	G1TTU1	Insulin OS=Oryctolagus cuniculus OX=9986 GN=INS PE=3 SV=3	Oryctolagus cuniculus	164	490	86.2	89.0	3.6e-61
+94	TR	A0ELY6	Insulin OS=Rattus losea OX=69075 GN=Ins2 PE=3 SV=1	Rattus losea	110	483	82.7	86.4	7.3e-61
+95	SP	P01322	Insulin-1 OS=Rattus norvegicus OX=10116 GN=Ins1 PE=1 SV=1	Rattus norvegicus	110	483	82.7	86.4	7.3e-61
+96	SP	P01315	Insulin OS=Sus scrofa OX=9823 GN=INS PE=1 SV=2	Sus scrofa	108	482	85.5	86.4	9.7e-61
+97	TR	A0ELY9	Insulin OS=Niviventer coninga OX=357352 GN=Ins2 PE=3 SV=1	Niviventer coninga	110	482	81.8	86.4	1e-60
+98	TR	A0A8C3WAF9	Insulin OS=Catagonus wagneri OX=51154 GN=INS PE=3 SV=1	Catagonus wagneri	108	481	84.5	85.5	1.4e-60
+99	TR	A0ELZ0	Insulin OS=Meriones unguiculatus OX=10047 GN=Ins PE=3 SV=1	Meriones unguiculatus	110	480	82.7	85.5	2.1e-60
+100	TR	A0A9V1EZY1	Insulin OS=Panthera pardus OX=9691 GN=INS PE=3 SV=1	Panthera pardus	110	480	81.8	84.5	2.1e-60
+101	TR	A0A8C8XQC8	Insulin OS=Panthera leo OX=9689 GN=INS PE=3 SV=1	Panthera leo	110	480	81.8	84.5	2.1e-60
+102	TR	A0A6J1Y9M9	Insulin OS=Acinonyx jubatus OX=32536 GN=INS PE=3 SV=1	Acinonyx jubatus	110	480	81.8	84.5	2.1e-60
+103	TR	A0ELY5	Insulin OS=Niviventer coninga OX=357352 GN=Ins1 PE=3 SV=1	Niviventer coninga	110	479	81.8	86.4	3e-60
+104	SP	P01311	Insulin OS=Oryctolagus cuniculus OX=9986 GN=INS PE=1 SV=2	Oryctolagus cuniculus	110	479	84.5	87.3	3e-60
+105	TR	Q5EEX1	Insulin OS=Mus musculus OX=10090 GN=Ins2 PE=1 SV=1	Mus musculus	110	478	81.8	85.5	4.2e-60
+106	SP	P01326	Insulin-2 OS=Mus musculus OX=10090 GN=Ins2 PE=1 SV=1	Mus musculus	110	478	81.8	85.5	4.2e-60
+107	TR	A0ELY8	Insulin OS=Mus caroli OX=10089 GN=Ins2 PE=3 SV=1	Mus caroli	110	475	80.9	85.5	1.2e-59
+108	TR	A0A667HLH0	Insulin OS=Lynx canadensis OX=61383 GN=INS PE=3 SV=1	Lynx canadensis	170	480	81.8	84.5	1.4e-59
+109	TR	A0ELY2	Insulin OS=Rattus losea OX=69075 GN=Ins1 PE=3 SV=1	Rattus losea	110	474	80.9	85.5	1.7e-59
+110	SP	Q62587	Insulin OS=Psammomys obesus OX=48139 GN=INS PE=3 SV=1	Psammomys obesus	110	474	80.9	85.5	1.7e-59
+111	TR	A0A7J8EQT1	Insulin OS=Molossus molossus OX=27622 GN=HJG59_006839 PE=3 SV=1	Molossus molossus	104	473	82.7	85.5	2e-59
+112	TR	D0EY27	Insulin (Fragment) OS=Mus musculus OX=10090 GN=Ins2 PE=2 SV=1	Mus musculus	109	472	81.7	85.3	3.4e-59
+113	SP	P06306	Insulin OS=Felis catus OX=9685 GN=INS PE=1 SV=2	Felis catus	110	471	80.9	83.6	4.9e-59
+114	TR	A0A8C6GMX7	Insulin OS=Mus spicilegus OX=10103 PE=3 SV=1	Mus spicilegus	122	472	80.9	84.5	5.1e-59
+115	TR	A0A6P5QAY7	Insulin OS=Mus caroli OX=10089 GN=LOC110299132 PE=3 SV=1	Mus caroli	110	470	80.0	84.5	7e-59
+116	TR	A0ABI7W3H0	Insulin OS=Felis catus OX=9685 PE=3 SV=1	Felis catus	170	471	80.9	83.6	3.4e-58
+117	TR	A0A8J6ANK6	Insulin OS=Galemys pyrenaicus OX=202257 GN=J0S82_014537 PE=3 SV=1	Galemys pyrenaicus	109	463	81.8	82.7	7.9e-58
+118	TR	A0A6J0WQD5	Insulin OS=Odocoileus virginianus OX=9874 GN=INS PE=3 SV=1	Odocoileus virginianus	105	462	82.7	83.6	9.9e-58
+119	TR	A0ABN8Z0K3	Insulin OS=Rangifer tarandus platyrhynchus OX=3082113 GN=MRATA1EN1_LOCUS16340 PE=3 SV=1	Rangifer tarandus platyrhynchus	105	462	82.7	83.6	9.9e-58
+120	TR	A0A452E6C9	Insulin OS=Capra hircus OX=9925 GN=INS PE=3 SV=1	Capra hircus	105	460	80.0	82.7	2e-57
+121	TR	A0A8C6ECF7	Insulin OS=Moschus moschiferus OX=68415 GN=INS PE=3 SV=1	Moschus moschiferus	105	460	80.0	81.8	2e-57
+122	TR	A0A8D2JNQ5	Insulin OS=Sciurus vulgaris OX=55149 GN=INS PE=3 SV=1	Sciurus vulgaris	106	460	81.8	85.5	2.1e-57
+123	TR	A0A6P5B0C5	Insulin OS=Bos indicus OX=9915 GN=INS PE=3 SV=1	Bos indicus	105	459	80.0	81.8	2.8e-57
+124	TR	F6QZM8	Insulin OS=Bos taurus OX=9913 GN=INS PE=4 SV=1	Bos taurus	105	459	80.0	81.8	2.8e-57
+125	TR	A5PJB2	Insulin OS=Bos taurus OX=9913 GN=INS PE=2 SV=1	Bos taurus	105	459	80.0	81.8	2.8e-57
+126	TR	A0ACI6QB14	Insulin OS=Ovis aries OX=9940 GN=INS PE=4 SV=1	Ovis aries	105	457	79.1	81.8	5.7e-57
+127	SP	P01317	Insulin OS=Bos taurus OX=9913 GN=INS PE=1 SV=2	Bos taurus	105	457	80.0	81.8	5.7e-57
+128	TR	G5C2F2	Insulin OS=Heterocephalus glaber OX=10181 GN=Ins PE=3 SV=1	Heterocephalus glaber	110	457	79.1	85.5	6.7e-57
+129	TR	A0A1S3FKC1	Insulin OS=Dipodomys ordii OX=10020 GN=Ins PE=3 SV=1	Dipodomys ordii	102	456	80.9	85.5	7.4e-57
+130	SP	P01318	Insulin OS=Ovis aries OX=9940 GN=INS PE=1 SV=2	Ovis aries	105	456	79.1	81.8	8.1e-57
+131	TR	A0AA41SZW3	Insulin OS=Sciurus carolinensis OX=30640 GN=SUZIE_172040 PE=3 SV=1	Sciurus carolinensis	106	456	81.8	84.5	8.4e-57
+132	TR	A0A212DH70	Insulin OS=Cervus elaphus hippelaphus OX=46360 GN=Celaphus_00013118 PE=3 SV=1	Cervus elaphus hippelaphus	105	455	80.9	82.7	1.2e-56
+133	TR	A0A4W2C5I5	Insulin OS=Bos indicus x Bos taurus OX=30522 PE=3 SV=1	Bos indicus x Bos taurus	104	450	80.0	81.8	6.5e-56
+134	TR	G3TLG9	Insulin OS=Loxodonta africana OX=9785 GN=INS PE=3 SV=1	Loxodonta africana	105	450	79.1	81.8	6.7e-56
+135	TR	A0ELY3	Insulin OS=Apodemus semotus OX=105299 GN=Ins1 PE=3 SV=1	Apodemus semotus	110	449	77.3	83.6	1.1e-55
+136	TR	A0A5N3XR98	Insulin OS=Muntiacus reevesi OX=9886 GN=FD755_011001 PE=3 SV=1	Muntiacus reevesi	105	448	80.0	81.8	1.4e-55
+137	TR	A0A5N3WKI9	Insulin OS=Muntiacus muntjak OX=9888 GN=FD754_006407 PE=3 SV=1	Muntiacus muntjak	105	448	80.0	81.8	1.4e-55
+138	TR	A0A8M1GIS7	Insulin OS=Ursus maritimus OX=29073 GN=INS PE=3 SV=1	Ursus maritimus	109	448	79.1	80.9	1.5e-55
+139	TR	A0A8C2W4I8	Insulin OS=Chinchilla lanigera OX=34839 GN=INS PE=3 SV=1	Chinchilla lanigera	110	446	77.3	85.5	3.2e-55
+140	TR	A0A9B0T8C7	Insulin OS=Chrysochloris asiatica OX=185453 GN=INS PE=3 SV=1	Chrysochloris asiatica	106	445	78.2	83.6	4e-55
+141	TR	A0A2Y9EA78	Insulin OS=Trichechus manatus latirostris OX=127582 GN=INS PE=3 SV=1	Trichechus manatus latirostris	106	444	78.2	81.8	5.7e-55
+142	TR	A0A7N5JXI9	Insulin OS=Ailuropoda melanoleuca OX=9646 GN=INS PE=3 SV=1	Ailuropoda melanoleuca	148	446	79.3	82.0	1.1e-54
+143	TR	A0A6P5P2Y0	Insulin OS=Mus caroli OX=10089 GN=LOC110286053 PE=3 SV=1	Mus caroli	108	441	78.2	83.6	1.7e-54
+144	TR	A0A8C6IK92	Insulin OS=Mus spicilegus OX=10103 PE=3 SV=1	Mus spicilegus	108	440	78.2	82.7	2.5e-54
+145	SP	P01325	Insulin-1 OS=Mus musculus OX=10090 GN=Ins1 PE=1 SV=1	Mus musculus	108	440	78.2	82.7	2.5e-54
+146	TR	A0ELY4	Insulin OS=Mus caroli OX=10089 GN=Ins1 PE=3 SV=1	Mus caroli	108	438	77.3	83.6	5e-54
+147	TR	A0A091DCT1	Insulin OS=Fukomys damarensis OX=885580 GN=H920_10134 PE=3 SV=1	Fukomys damarensis	110	435	75.5	80.9	1.5e-53
+148	TR	A0A7J8H071	Insulin OS=Rousettus aegyptiacus OX=9407 GN=HJG63_006795 PE=3 SV=1	Rousettus aegyptiacus	112	435	75.9	80.4	1.6e-53
+149	TR	A0A452S4G8	Insulin OS=Ursus americanus OX=9643 GN=INS PE=3 SV=1	Ursus americanus	106	434	79.1	82.7	1.9e-53
+150	TR	A0A2Y9PLX6	Insulin OS=Delphinapterus leucas OX=9749 GN=INS PE=3 SV=1	Delphinapterus leucas	98	432	77.3	78.2	3e-53
+151	SP	P21563	Insulin OS=Rodentia sp. OX=69158 GN=INS PE=3 SV=1	Rodentia sp.	108	425	80.2	84.7	4.8e-52
+152	TR	A0ABM0J8J9	Insulin OS=Echinops telfairi OX=9371 GN=INS PE=3 SV=1	Echinops telfairi	108	422	75.0	79.5	1.4e-51
+153	TR	E0CXX7	Insulin OS=Mus musculus OX=10090 GN=Ins2 PE=1 SV=1	Mus musculus	98	401	72.7	75.5	1.6e-48
+154	SP	P01329	Insulin OS=Cavia porcellus OX=10141 GN=INS PE=1 SV=2	Cavia porcellus	110	402	69.1	80.0	1.6e-48
+155	SP	P01310	Insulin OS=Equus caballus OX=9796 GN=INS PE=1 SV=1	Equus caballus	86	394	84.9	86.0	1.3e-47
+156	TR	A0A1A6FUB4	Insulin-like domain-containing protein OS=Neotoma lepida OX=56216 GN=A6R68_11716 PE=3 SV=1	Neotoma lepida	108	391	83.5	86.8	7.3e-47
+157	TR	Q52PU3	Insulin (Fragment) OS=Felis catus OX=9685 PE=2 SV=1	Felis catus	86	388	83.7	86.0	1.1e-46
+158	TR	A0AA40LKB3	Insulin OS=Cnephaeus nilssonii OX=3371016 GN=QTO34_003113 PE=3 SV=1	Cnephaeus nilssonii	131	380	79.6	83.9	7e-45
+159	TR	I7CLV3	Insulin (Fragment) OS=Bos taurus OX=9913 PE=2 SV=1	Bos taurus	81	363	80.2	82.6	5.9e-43
+160	TR	Q25C78	Insulin (Fragment) OS=Bubalus bubalis OX=89462 GN=bpi PE=2 SV=1	Bubalus bubalis	81	363	80.2	82.6	5.9e-43
+161	TR	A0A1S3AJG7	Insulin OS=Erinaceus europaeus OX=9365 GN=INS PE=3 SV=1	Erinaceus europaeus	108	363	69.1	72.7	1.3e-42
+162	SP	P17715	Insulin OS=Octodon degus OX=10160 GN=INS PE=1 SV=2	Octodon degus	109	355	65.5	74.5	2.3e-41
+163	TR	A0A8D2NJX5	Insulin OS=Zonotrichia albicollis OX=44394 GN=INS PE=3 SV=1	Zonotrichia albicollis	107	351	66.4	69.9	8.7e-41
+164	TR	A0A7L0L7R9	Insulin (Fragment) OS=Sylvietta virens OX=208069 GN=Ins PE=3 SV=1	Sylvietta virens	107	349	66.4	69.9	1.8e-40
+165	TR	A0A7K5MGZ7	Insulin (Fragment) OS=Cardinalis cardinalis OX=98964 GN=Ins PE=3 SV=1	Cardinalis cardinalis	107	349	66.4	69.9	1.8e-40
+166	TR	A0A8C3MWJ7	Insulin OS=Geospiza parvula OX=87175 PE=3 SV=1	Geospiza parvula	107	348	66.4	69.9	2.5e-40
+167	TR	A0A7K8RJ27	Insulin (Fragment) OS=Rhodinocichla rosea OX=58203 GN=Ins PE=3 SV=1	Rhodinocichla rosea	107	348	66.4	69.9	2.5e-40
+168	TR	A0A7L2FDX8	Insulin (Fragment) OS=Quiscalus mexicanus OX=64278 GN=Ins PE=3 SV=1	Quiscalus mexicanus	107	348	66.4	69.9	2.5e-40
+169	TR	A0A8C5JB52	Insulin OS=Junco hyemalis OX=40217 PE=3 SV=1	Junco hyemalis	107	348	66.4	69.9	2.5e-40
+170	TR	A0A852CV17	Insulin (Fragment) OS=Passerina amoena OX=142471 GN=Ins PE=3 SV=1	Passerina amoena	107	348	66.4	69.9	2.5e-40
+171	TR	A0A7K4PE49	Insulin (Fragment) OS=Melospiza melodia OX=44397 GN=Ins PE=3 SV=1	Melospiza melodia	107	348	66.4	69.9	2.5e-40
+172	TR	A0A7L1RK71	Insulin (Fragment) OS=Helopsaltes ochotensis OX=3150915 GN=Ins PE=3 SV=1	Helopsaltes ochotensis	107	348	66.4	69.9	2.5e-40
+173	TR	A0A7K7K7L9	Insulin (Fragment) OS=Agelaius phoeniceus OX=39638 GN=Ins PE=3 SV=1	Agelaius phoeniceus	107	348	66.4	69.9	2.5e-40
+174	TR	A0A7L3V150	Insulin (Fragment) OS=Molothrus ater OX=84834 GN=Ins PE=3 SV=1	Molothrus ater	107	348	66.4	69.9	2.5e-40
+175	TR	A0A7L0QLM3	Insulin (Fragment) OS=Setophaga kirtlandii OX=298831 GN=Ins PE=3 SV=1	Setophaga kirtlandii	107	348	66.4	69.9	2.5e-40
+176	TR	A0A7K4VIJ3	Insulin (Fragment) OS=Emberiza fucata OX=337179 GN=Ins PE=3 SV=1	Emberiza fucata	107	348	66.4	69.9	2.5e-40
+177	TR	A0A7K9B4Z4	Insulin OS=Dromaius novaehollandiae OX=8790 GN=INS PE=3 SV=1	Dromaius novaehollandiae	107	347	64.6	69.9	3.6e-40
+178	TR	A0A3M0JH44	Insulin OS=Hirundo rustica rustica OX=333673 GN=DUI87_22795 PE=3 SV=1	Hirundo rustica rustica	107	347	65.5	69.0	3.6e-40
+179	TR	A0A851MWE5	Insulin (Fragment) OS=Campylorhamphus procurvoides OX=190295 GN=Ins PE=3 SV=1	Campylorhamphus procurvoides	107	346	65.5	69.0	5e-40
+180	TR	A0A6I9HRK2	Insulin OS=Geospiza fortis OX=48883 GN=INS PE=3 SV=1	Geospiza fortis	137	348	66.4	69.9	6.2e-40
+181	TR	A0A7K4Y1Z3	Insulin (Fragment) OS=Regulus satrapa OX=13245 GN=Ins PE=3 SV=1	Regulus satrapa	107	345	65.5	69.0	7.2e-40
+182	SP	P01327	Insulin OS=Chinchilla chinchilla OX=10152 GN=INS PE=1 SV=2	Chinchilla chinchilla	86	343	74.4	82.6	7.7e-40
+183	TR	H3ACE0	Insulin OS=Latimeria chalumnae OX=7897 PE=3 SV=1	Latimeria chalumnae	111	345	60.4	72.1	8.1e-40
+184	TR	A0A6P5IWP1	Insulin OS=Phascolarctos cinereus OX=38626 GN=INS PE=3 SV=1	Phascolarctos cinereus	103	344	63.6	68.2	9e-40
+185	TR	A0A7L3AF49	Insulin (Fragment) OS=Prunella fulvescens OX=670355 GN=Ins PE=3 SV=1	Prunella fulvescens	107	344	65.5	69.0	1e-39
+186	TR	A0A7L2QY69	Insulin (Fragment) OS=Oxylabes madagascariensis OX=98144 GN=Ins PE=3 SV=1	Oxylabes madagascariensis	107	344	65.5	69.0	1e-39
+187	TR	A0A7K5QBQ1	Insulin (Fragment) OS=Prunella himalayana OX=670356 GN=Ins PE=3 SV=1	Prunella himalayana	107	344	65.5	69.0	1e-39
+188	TR	A0A7K5WLX5	Insulin (Fragment) OS=Hylia prasina OX=208073 GN=Ins PE=3 SV=1	Hylia prasina	107	344	65.5	69.0	1e-39
+189	TR	A0A7L0Z690	Insulin (Fragment) OS=Ploceus nigricollis OX=441696 GN=Ins PE=3 SV=1	Ploceus nigricollis	107	344	65.5	69.0	1e-39
+190	TR	A0A850ZIW9	Insulin (Fragment) OS=Tichodroma muraria OX=237442 GN=Ins PE=3 SV=1	Tichodroma muraria	107	344	65.5	69.0	1e-39
+191	TR	A0A7L2N2R8	Insulin (Fragment) OS=Rhadina sibilatrix OX=2585818 GN=Ins PE=3 SV=1	Rhadina sibilatrix	107	344	65.5	69.0	1e-39
+192	TR	A0A851UW29	Insulin (Fragment) OS=Copsychus sechellarum OX=797021 GN=Ins PE=3 SV=1	Copsychus sechellarum	107	344	65.5	69.0	1e-39
+193	TR	A0A852HUE0	Insulin (Fragment) OS=Nicator chloris OX=237433 GN=Ins PE=3 SV=1	Nicator chloris	107	344	65.5	69.0	1e-39
+194	TR	A0A7K7D7T2	Insulin (Fragment) OS=Pheucticus melanocephalus OX=371919 GN=Ins PE=3 SV=1	Pheucticus melanocephalus	107	344	65.5	69.9	1e-39
+195	TR	A0A7K9JNZ7	Insulin (Fragment) OS=Dicaeum eximium OX=667154 GN=Ins PE=3 SV=1	Dicaeum eximium	107	344	65.5	69.0	1e-39
+196	TR	A0A7K5CBS9	Insulin (Fragment) OS=Motacilla alba OX=45807 GN=Ins PE=3 SV=1	Motacilla alba	107	344	65.5	69.0	1e-39
+197	TR	A0A851QQQ6	Insulin (Fragment) OS=Tychaedon coryphoeus OX=614051 GN=Ins PE=3 SV=1	Tychaedon coryphoeus	107	344	65.5	69.0	1e-39
+198	TR	A0A851J7Y6	Insulin (Fragment) OS=Donacobius atricapilla OX=237420 GN=Ins PE=3 SV=1	Donacobius atricapilla	107	344	65.5	69.0	1e-39
+199	TR	C9JNR5	Insulin (Fragment) OS=Homo sapiens OX=9606 GN=INS PE=3 SV=1	Homo sapiens	92	342	95.5	98.5	1.3e-39
+200	TR	A0A9E9AQX1	INS (Fragment) OS=Homo sapiens OX=9606 GN=INS PE=2 SV=1	Homo sapiens	94	342	95.5	98.5	1.4e-39
+201	TR	A0A7K8GT78	Insulin (Fragment) OS=Orthonyx spaldingii OX=38397 GN=Ins PE=3 SV=1	Orthonyx spaldingii	107	343	64.6	69.9	1.4e-39
+202	TR	A0A7L3NVH7	Insulin (Fragment) OS=Xiphorhynchus elegans OX=269412 GN=Ins PE=3 SV=1	Xiphorhynchus elegans	107	343	64.6	69.0	1.4e-39
+203	TR	A0A7K9H2U5	Insulin (Fragment) OS=Loxia leucoptera OX=96539 GN=Ins PE=3 SV=1	Loxia leucoptera	107	343	65.5	69.0	1.4e-39
+204	TR	A0A7K8YT57	Insulin (Fragment) OS=Sakesphorus luctuosus OX=419690 GN=Ins PE=3 SV=1	Sakesphorus luctuosus	107	343	65.5	70.9	1.4e-39
+205	TR	A0A7K7J6G6	Insulin (Fragment) OS=Loxia curvirostra OX=64802 GN=Ins PE=3 SV=1	Loxia curvirostra	107	343	65.5	69.0	1.4e-39
+206	TR	A0A850VS75	Insulin (Fragment) OS=Fregata magnificens OX=37042 GN=Ins PE=3 SV=1	Fregata magnificens	107	343	64.6	69.9	1.4e-39
+207	TR	A0A8C9MM83	Insulin OS=Serinus canaria OX=9135 GN=INS PE=3 SV=1	Serinus canaria	107	343	65.5	69.0	1.4e-39
+208	TR	A0A7K9HWY1	Insulin (Fragment) OS=Bucco capensis OX=135168 GN=Ins PE=3 SV=1	Bucco capensis	107	343	66.4	70.9	1.4e-39
+209	TR	A0A851KNV0	Insulin (Fragment) OS=Vidua chalybeata OX=81927 GN=Ins PE=3 SV=1	Vidua chalybeata	107	343	65.5	69.0	1.4e-39
+210	TR	A0A851ZRE7	Insulin (Fragment) OS=Calcarius ornatus OX=198940 GN=Ins PE=3 SV=1	Calcarius ornatus	107	343	65.5	69.0	1.4e-39
+211	TR	A0A7K8W2V3	Insulin (Fragment) OS=Sclerurus mexicanus OX=265632 GN=Ins PE=3 SV=1	Sclerurus mexicanus	107	343	64.6	69.0	1.4e-39
+212	TR	A0A7K7RKE0	Insulin (Fragment) OS=Nesospiza acunhae OX=381881 GN=Ins PE=3 SV=1	Nesospiza acunhae	107	342	65.5	69.0	2e-39
+213	TR	A0A7K9VTZ0	Insulin (Fragment) OS=Rhipidura dahli OX=667186 GN=Ins PE=3 SV=1	Rhipidura dahli	107	342	64.6	69.9	2e-39
+214	TR	A0A7L3DXR5	Insulin (Fragment) OS=Chaetops frenatus OX=221966 GN=Ins PE=3 SV=1	Chaetops frenatus	107	342	64.6	69.0	2e-39
+215	TR	A0A7L0IDM5	Insulin (Fragment) OS=Arenaria interpres OX=54971 GN=Ins PE=3 SV=1	Arenaria interpres	107	342	64.6	69.9	2e-39
+216	TR	A0A8C3KDK1	Insulin OS=Calidris pygmaea OX=425635 PE=3 SV=1	Calidris pygmaea	107	342	64.6	69.9	2e-39
+217	TR	A0A7K6UTL6	Insulin (Fragment) OS=Notiomystis cincta OX=366454 GN=Ins PE=3 SV=1	Notiomystis cincta	107	342	64.6	69.0	2e-39
+218	TR	A0A7K8NGG9	Insulin (Fragment) OS=Casuarius casuarius OX=8787 GN=Ins PE=3 SV=1	Casuarius casuarius	107	342	63.7	69.0	2e-39
+219	TR	A0A7K7YIQ6	Insulin (Fragment) OS=Thryothorus ludovicianus OX=74200 GN=Ins PE=3 SV=1	Thryothorus ludovicianus	107	342	65.5	69.0	2e-39
+220	TR	A0A7K5E3H3	Insulin (Fragment) OS=Polioptila caerulea OX=66707 GN=Ins PE=3 SV=1	Polioptila caerulea	107	342	65.5	69.0	2e-39
+221	TR	A0A7L3NPJ7	Insulin (Fragment) OS=Oreotrochilus melanogaster OX=689266 GN=Ins PE=3 SV=1	Oreotrochilus melanogaster	107	341	63.7	70.8	2.9e-39
+222	TR	A0A7L4LHS5	Insulin (Fragment) OS=Callaeas wilsoni OX=1347786 GN=Ins PE=3 SV=1	Callaeas wilsoni	107	341	64.6	69.0	2.9e-39
+223	TR	A0A7K6QPH4	Insulin (Fragment) OS=Climacteris rufus OX=47695 GN=Ins PE=3 SV=1	Climacteris rufus	107	341	64.6	69.0	2.9e-39
+224	TR	R0L6M4	Insulin (Fragment) OS=Anas platyrhynchos OX=8839 GN=Anapl_04120 PE=3 SV=1	Anas platyrhynchos	107	341	64.6	69.9	2.9e-39
+225	TR	A0A7L2YFS0	Insulin (Fragment) OS=Jacana jacana OX=54508 GN=Ins PE=3 SV=1	Jacana jacana	107	341	63.7	69.9	2.9e-39
+226	TR	A0A8B9NTZ5	Insulin OS=Apteryx owenii OX=8824 PE=3 SV=1	Apteryx owenii	107	341	63.7	69.0	2.9e-39
+227	TR	A0A7L1BR31	Insulin (Fragment) OS=Illadopsis cleaveri OX=201329 GN=Ins PE=3 SV=1	Illadopsis cleaveri	107	341	64.6	68.1	2.9e-39
+228	TR	A0A7K5B9W7	Insulin (Fragment) OS=Furnarius figulus OX=463165 GN=Ins PE=3 SV=1	Furnarius figulus	107	341	64.6	69.0	2.9e-39
+229	TR	A0A7K8M4A3	Insulin (Fragment) OS=Ptilorrhoa leucosticta OX=449384 GN=Ins PE=3 SV=1	Ptilorrhoa leucosticta	107	341	64.6	69.0	2.9e-39
+230	TR	A0A6J3CZF2	Insulin OS=Aythya fuligula OX=219594 GN=INS PE=3 SV=1	Aythya fuligula	107	341	64.6	69.9	2.9e-39
+231	TR	A0A8D2PDP1	Insulin OS=Zosterops lateralis melanops OX=1220523 PE=3 SV=1	Zosterops lateralis melanops	107	340	64.6	68.1	4.1e-39
+232	TR	A0A7L1ZPC8	Insulin (Fragment) OS=Leiothrix lutea OX=36275 GN=Ins PE=3 SV=1	Leiothrix lutea	107	340	64.6	68.1	4.1e-39
+233	TR	A0A7L2L311	Insulin (Fragment) OS=Zosterops hypoxanthus OX=2485327 GN=Ins PE=3 SV=1	Zosterops hypoxanthus	107	340	64.6	68.1	4.1e-39
+234	TR	A0A7L4GH44	Insulin (Fragment) OS=Podargus strigoides OX=8905 GN=Ins PE=3 SV=1	Podargus strigoides	107	340	63.7	69.9	4.1e-39
+235	TR	A0A7L0VHW6	Insulin (Fragment) OS=Leptocoma aspasia OX=2585812 GN=Ins PE=3 SV=1	Leptocoma aspasia	107	340	64.6	68.1	4.1e-39
+236	TR	A0A7L1QRD9	Insulin (Fragment) OS=Cisticola juncidis OX=52622 GN=Ins PE=3 SV=1	Cisticola juncidis	107	340	64.6	69.0	4.1e-39
+237	TR	A0A7K9RNX1	Insulin (Fragment) OS=Sterrhoptilus dennistouni OX=2585820 GN=Ins PE=3 SV=1	Sterrhoptilus dennistouni	107	340	64.6	68.1	4.1e-39
+238	TR	A0A8C3P0I8	Insulin OS=Cyanoderma ruficeps OX=181631 PE=3 SV=1	Cyanoderma ruficeps	107	340	64.6	68.1	4.1e-39
+239	TR	A0A7K9USJ9	Insulin (Fragment) OS=Anseranas semipalmata OX=8851 GN=Ins PE=3 SV=1	Anseranas semipalmata	107	340	63.7	69.0	4.1e-39
+240	TR	A0A7K8KNN1	Insulin (Fragment) OS=Ardeotis kori OX=89386 GN=Ins PE=3 SV=1	Ardeotis kori	107	340	65.5	70.0	4.1e-39
+241	TR	A0A8B9DA51	Insulin OS=Anser cygnoides OX=8845 GN=INS PE=3 SV=1	Anser cygnoides	107	340	64.6	69.9	4.1e-39
+242	TR	A0A7L3IS33	Insulin (Fragment) OS=Pardalotus punctatus OX=254575 GN=Ins PE=3 SV=1	Pardalotus punctatus	107	340	64.6	69.0	4.1e-39
+243	TR	A0A7K6DU13	Insulin (Fragment) OS=Origma solitaria OX=720586 GN=Ins PE=3 SV=1	Origma solitaria	107	340	64.6	69.0	4.1e-39
+244	TR	A0A091HNM6	Insulin OS=Calypte anna OX=9244 GN=N300_06482 PE=3 SV=1	Calypte anna	107	340	63.7	70.8	4.1e-39
+245	TR	A0A7K5JVQ0	Insulin (Fragment) OS=Mionectes macconnelli OX=254557 GN=Ins PE=3 SV=1	Mionectes macconnelli	107	340	64.6	69.0	4.1e-39
+246	TR	A0A7K5IH13	Insulin (Fragment) OS=Toxostoma redivivum OX=99882 GN=Ins PE=3 SV=1	Toxostoma redivivum	107	340	65.5	69.0	4.1e-39
+247	TR	A0A7L1TJR3	Insulin (Fragment) OS=Phainopepla nitens OX=161653 GN=Ins PE=3 SV=1	Phainopepla nitens	107	340	64.6	69.0	4.1e-39
+248	TR	A0A8K1LNR6	Insulin OS=Zosterops borbonicus OX=364589 GN=HGM15179_006699 PE=3 SV=1	Zosterops borbonicus	107	340	64.6	68.1	4.1e-39
+249	TR	A0A7L0NLX0	Insulin (Fragment) OS=Formicarius rufipectus OX=1118560 GN=Ins PE=3 SV=1	Formicarius rufipectus	107	340	64.6	69.0	4.1e-39
+250	TR	A0A7K6TVK5	Insulin (Fragment) OS=Aegotheles bennettii OX=48278 GN=Ins PE=3 SV=1	Aegotheles bennettii	107	340	66.4	70.9	4.1e-39
