@@ -1,0 +1,251 @@
+Hit	DB	Accession	Description	Organism	Length	Score(Bits)	Identities(%)	Positives(%)	E()
+1	TR	A0ACM8R4A4	Mechanistic target of rapamycin kinase OS=Pan troglodytes OX=9598 GN=MTOR PE=4 SV=1	Pan troglodytes	2549	13171	100.0	100.0	0.0
+2	TR	K7B4P2	Serine/threonine-protein kinase mTOR OS=Pan troglodytes OX=9598 GN=MTOR PE=2 SV=1	Pan troglodytes	2549	13171	100.0	100.0	0.0
+3	SP	P42345	Serine/threonine-protein kinase mTOR OS=Homo sapiens OX=9606 GN=MTOR PE=1 SV=1	Homo sapiens	2549	13171	100.0	100.0	0.0
+4	TR	A0A2R9BI87	Serine/threonine-protein kinase mTOR OS=Pan paniscus OX=9597 PE=3 SV=1	Pan paniscus	2549	13166	100.0	100.0	0.0
+5	TR	A0A2J8USH7	Serine/threonine-protein kinase mTOR OS=Pongo abelii OX=9601 GN=MTOR PE=3 SV=1	Pongo abelii	2549	13166	100.0	100.0	0.0
+6	TR	A0A2K5DVM4	Serine/threonine-protein kinase mTOR OS=Aotus nancymaae OX=37293 PE=3 SV=1	Aotus nancymaae	2549	13157	99.9	99.9	0.0
+7	TR	A0ACM8QVL5	Mechanistic target of rapamycin kinase OS=Callithrix jacchus OX=9483 GN=MTOR PE=4 SV=1	Callithrix jacchus	2549	13157	99.9	99.9	0.0
+8	TR	U3DA98	Serine/threonine-protein kinase mTOR OS=Callithrix jacchus OX=9483 GN=MTOR PE=2 SV=1	Callithrix jacchus	2549	13157	99.9	99.9	0.0
+9	TR	A0A8D2FQ72	Serine/threonine-protein kinase mTOR OS=Theropithecus gelada OX=9565 GN=MTOR PE=3 SV=1	Theropithecus gelada	2549	13156	99.9	99.9	0.0
+10	TR	A0A2K6UYA5	Serine/threonine-protein kinase mTOR OS=Saimiri boliviensis boliviensis OX=39432 PE=3 SV=1	Saimiri boliviensis boliviensis	2549	13156	99.9	99.9	0.0
+11	TR	A0A2K5WYX7	Serine/threonine-protein kinase mTOR OS=Macaca fascicularis OX=9541 PE=3 SV=1	Macaca fascicularis	2549	13156	99.9	99.9	0.0
+12	TR	A0A2K5XPX8	Serine/threonine-protein kinase mTOR OS=Mandrillus leucophaeus OX=9568 PE=3 SV=1	Mandrillus leucophaeus	2549	13156	99.9	99.9	0.0
+13	TR	A0A8C9IRH6	Serine/threonine-protein kinase mTOR OS=Piliocolobus tephrosceles OX=591936 GN=MTOR PE=3 SV=1	Piliocolobus tephrosceles	2549	13156	99.9	99.9	0.0
+14	TR	A0A096NRV8	Serine/threonine-protein kinase mTOR OS=Papio anubis OX=9555 PE=3 SV=3	Papio anubis	2549	13156	99.9	99.9	0.0
+15	TR	A0A2K5NEB0	Serine/threonine-protein kinase mTOR OS=Cercocebus atys OX=9531 PE=3 SV=1	Cercocebus atys	2549	13156	99.9	99.9	0.0
+16	TR	H9ENS2	Serine/threonine-protein kinase mTOR OS=Macaca mulatta OX=9544 GN=MTOR PE=2 SV=1	Macaca mulatta	2549	13156	99.9	99.9	0.0
+17	TR	A0A2K5IZ31	Serine/threonine-protein kinase mTOR OS=Colobus angolensis palliatus OX=336983 PE=3 SV=1	Colobus angolensis palliatus	2549	13152	99.8	99.8	0.0
+18	TR	A0A0D9S8M7	Serine/threonine-protein kinase mTOR OS=Chlorocebus sabaeus OX=60711 PE=3 SV=1	Chlorocebus sabaeus	2549	13152	99.8	99.8	0.0
+19	TR	A0A2K6Q8V6	Serine/threonine-protein kinase mTOR OS=Rhinopithecus roxellana OX=61622 GN=MTOR PE=3 SV=1	Rhinopithecus roxellana	2549	13152	99.8	99.8	0.0
+20	TR	A0ACI8TTE9	Mechanistic target of rapamycin kinase OS=Homo sapiens OX=9606 GN=MTOR PE=4 SV=1	Homo sapiens	2556	13150	99.7	99.7	0.0
+21	TR	A0ACI8PT32	Mechanistic target of rapamycin kinase OS=Homo sapiens OX=9606 GN=MTOR PE=4 SV=1	Homo sapiens	2546	13143	99.9	99.9	0.0
+22	TR	A0ACI8TTL2	Mechanistic target of rapamycin kinase OS=Homo sapiens OX=9606 GN=MTOR PE=4 SV=1	Homo sapiens	2567	13142	99.3	99.3	0.0
+23	TR	A0A6J3JQ05	Serine/threonine-protein kinase mTOR OS=Sapajus apella OX=9515 GN=MTOR PE=3 SV=1	Sapajus apella	2549	13136	99.6	99.8	0.0
+24	TR	A0A8C9AXJ2	Serine/threonine-protein kinase mTOR OS=Prolemur simus OX=1328070 GN=MTOR PE=3 SV=1	Prolemur simus	2549	13134	99.7	99.7	0.0
+25	TR	A0ABM4IRD7	Serine/threonine-protein kinase mTOR OS=Odocoileus virginianus OX=9874 GN=MTOR PE=3 SV=1	Odocoileus virginianus	2550	13131	99.7	99.8	0.0
+26	TR	A0A452FCH1	Serine/threonine-protein kinase mTOR OS=Capra hircus OX=9925 GN=MTOR PE=3 SV=1	Capra hircus	2550	13131	99.7	99.8	0.0
+27	TR	A0ABN8ZZL6	Serine/threonine-protein kinase mTOR OS=Rangifer tarandus platyrhynchus OX=3082113 GN=MRATA1EN1_LOCUS28400 PE=3 SV=1	Rangifer tarandus platyrhynchus	2550	13131	99.7	99.8	0.0
+28	TR	I3M6B0	Serine/threonine-protein kinase mTOR OS=Ictidomys tridecemlineatus OX=43179 GN=MTOR PE=3 SV=2	Ictidomys tridecemlineatus	2549	13127	99.6	99.7	0.0
+29	TR	A0A8C5ZRQ3	Serine/threonine-protein kinase mTOR OS=Marmota marmota marmota OX=9994 GN=MTOR PE=3 SV=1	Marmota marmota marmota	2549	13126	99.5	99.7	0.0
+30	TR	A0A8D2GPK6	Serine/threonine-protein kinase mTOR OS=Urocitellus parryii OX=9999 GN=MTOR PE=3 SV=1	Urocitellus parryii	2549	13123	99.5	99.6	0.0
+31	TR	A0A5E4BH87	Serine/threonine-protein kinase mTOR OS=Marmota monax OX=9995 GN=MONAX_5E027741 PE=3 SV=1	Marmota monax	2549	13123	99.6	99.7	0.0
+32	TR	A0A8C9P1G1	Serine/threonine-protein kinase mTOR OS=Spermophilus dauricus OX=99837 PE=3 SV=1	Spermophilus dauricus	2549	13123	99.5	99.7	0.0
+33	TR	A0ABM4QLZ7	Serine/threonine-protein kinase mTOR OS=Bos indicus OX=9915 GN=MTOR PE=3 SV=1	Bos indicus	2550	13123	99.6	99.8	0.0
+34	TR	A0A4W2CTG3	Serine/threonine-protein kinase mTOR OS=Bos indicus x Bos taurus OX=30522 GN=MTOR PE=3 SV=1	Bos indicus x Bos taurus	2550	13123	99.6	99.8	0.0
+35	TR	E1BFB4	Serine/threonine-protein kinase mTOR OS=Bos taurus OX=9913 GN=MTOR PE=3 SV=5	Bos taurus	2550	13123	99.6	99.8	0.0
+36	TR	A0ABM1CIG9	Serine/threonine-protein kinase mTOR OS=Ceratotherium simum simum OX=73337 GN=LOC101391567 PE=3 SV=1	Ceratotherium simum simum	2550	13123	99.6	99.7	0.0
+37	TR	H0VJM9	Serine/threonine-protein kinase mTOR OS=Cavia porcellus OX=10141 GN=MTOR PE=3 SV=2	Cavia porcellus	2549	13120	99.5	99.7	0.0
+38	TR	A0A671FBK8	Serine/threonine-protein kinase mTOR OS=Rhinolophus ferrumequinum OX=59479 GN=MTOR PE=3 SV=1	Rhinolophus ferrumequinum	2550	13118	99.6	99.8	0.0
+39	TR	B9VXW5	Serine/threonine-protein kinase mTOR OS=Ovis aries OX=9940 PE=2 SV=1	Ovis aries	2550	13118	99.6	99.8	0.0
+40	TR	A0A6P3I0I5	Serine/threonine-protein kinase mTOR OS=Bison bison bison OX=43346 GN=MTOR PE=3 SV=1	Bison bison bison	2550	13118	99.6	99.7	0.0
+41	TR	A0A8C2YPJ0	Serine/threonine-protein kinase mTOR OS=Chinchilla lanigera OX=34839 GN=MTOR PE=3 SV=1	Chinchilla lanigera	2549	13117	99.5	99.7	0.0
+42	TR	A0A8C4PST6	Serine/threonine-protein kinase mTOR OS=Equus asinus OX=9793 GN=MTOR PE=3 SV=2	Equus asinus	2550	13117	99.6	99.6	0.0
+43	TR	A0ABM2ESI7	Serine/threonine-protein kinase mTOR OS=Equus przewalskii OX=9798 GN=MTOR PE=3 SV=1	Equus przewalskii	2550	13117	99.6	99.6	0.0
+44	TR	A0ACF8NYG5	Uncharacterized protein OS=Nasalis larvatus OX=43780 GN=H8958_009989 PE=4 SV=1	Nasalis larvatus	2545	13116	99.8	99.8	0.0
+45	TR	A0AC58RG91	Serine/threonine-protein kinase mTOR OS=Camelus bactrianus OX=9837 GN=MTOR PE=3 SV=1	Camelus bactrianus	2550	13116	99.5	99.6	0.0
+46	TR	A0A1U7U6S9	Serine/threonine-protein kinase mTOR OS=Carlito syrichta OX=1868482 GN=MTOR PE=3 SV=1	Carlito syrichta	2548	13115	99.6	99.8	0.0
+47	TR	A0A8B7I792	Serine/threonine-protein kinase mTOR OS=Microcebus murinus OX=30608 GN=MTOR PE=3 SV=1	Microcebus murinus	2549	13114	99.5	99.6	0.0
+48	TR	A0A8B7K6R6	Serine/threonine-protein kinase mTOR OS=Camelus ferus OX=419612 GN=MTOR PE=3 SV=1	Camelus ferus	2550	13113	99.5	99.6	0.0
+49	TR	A0ACI6R8R6	Uncharacterized protein OS=Ovis aries OX=9940 GN=MTOR PE=4 SV=1	Ovis aries	2554	13112	99.5	99.6	0.0
+50	TR	H0X9K8	Serine/threonine-protein kinase mTOR OS=Otolemur garnettii OX=30611 GN=MTOR PE=3 SV=1	Otolemur garnettii	2549	13109	99.5	99.6	0.0
+51	TR	A0A3Q7MYG3	Serine/threonine-protein kinase mTOR OS=Callorhinus ursinus OX=34884 GN=MTOR PE=3 SV=1	Callorhinus ursinus	2550	13107	99.5	99.6	0.0
+52	TR	A0A6J2E0J8	Serine/threonine-protein kinase mTOR OS=Zalophus californianus OX=9704 GN=MTOR PE=3 SV=1	Zalophus californianus	2550	13107	99.5	99.6	0.0
+53	TR	A0ABM1CIG8	Serine/threonine-protein kinase mTOR OS=Ceratotherium simum simum OX=73337 GN=LOC101391567 PE=3 SV=1	Ceratotherium simum simum	2554	13105	99.4	99.6	0.0
+54	TR	A0A384CDN2	Serine/threonine-protein kinase mTOR OS=Ursus maritimus OX=29073 GN=MTOR PE=3 SV=2	Ursus maritimus	2550	13102	99.5	99.6	0.0
+55	TR	A0A3Q1MEZ6	Serine/threonine-protein kinase mTOR OS=Bos taurus OX=9913 GN=MTOR PE=3 SV=2	Bos taurus	2560	13102	99.3	99.4	0.0
+56	TR	A0A6I9HXM8	Serine/threonine-protein kinase mTOR OS=Vicugna pacos OX=30538 GN=MTOR PE=3 SV=2	Vicugna pacos	2550	13102	99.4	99.5	0.0
+57	TR	A0A3Q7TR17	Serine/threonine-protein kinase mTOR OS=Vulpes vulpes OX=9627 GN=MTOR PE=3 SV=1	Vulpes vulpes	2550	13101	99.4	99.6	0.0
+58	TR	A0A2Y9KGB8	Serine/threonine-protein kinase mTOR OS=Enhydra lutris kenyoni OX=391180 GN=LOC111154883 PE=3 SV=1	Enhydra lutris kenyoni	2550	13100	99.4	99.6	0.0
+59	TR	A0A2Y9E154	Serine/threonine-protein kinase mTOR OS=Trichechus manatus latirostris OX=127582 GN=MTOR PE=3 SV=1	Trichechus manatus latirostris	2550	13099	99.5	99.6	0.0
+60	TR	A0ABM4NPQ0	Serine/threonine-protein kinase mTOR OS=Equus przewalskii OX=9798 GN=MTOR PE=3 SV=1	Equus przewalskii	2554	13099	99.4	99.5	0.0
+61	TR	A0A5F8A945	Serine/threonine-protein kinase mTOR OS=Macaca mulatta OX=9544 GN=MTOR PE=3 SV=1	Macaca mulatta	2541	13098	99.6	99.6	0.0
+62	TR	A0A811YNR8	Serine/threonine-protein kinase mTOR OS=Nyctereutes procyonoides OX=34880 GN=NYPRO_LOCUS11086 PE=3 SV=1	Nyctereutes procyonoides	2548	13097	99.4	99.6	0.0
+63	TR	A0A2U4AZP3	Serine/threonine-protein kinase mTOR OS=Tursiops truncatus OX=9739 GN=MTOR PE=3 SV=1	Tursiops truncatus	2548	13097	99.4	99.6	0.0
+64	TR	A0A8B9X4U8	Serine/threonine-protein kinase mTOR OS=Bos grunniens OX=30521 GN=MTOR PE=3 SV=1	Bos grunniens	2549	13095	99.5	99.6	0.0
+65	TR	A0A8B7A0C2	Serine/threonine-protein kinase mTOR OS=Orycteropus afer afer OX=1230840 GN=MTOR PE=3 SV=1	Orycteropus afer afer	2550	13095	99.4	99.6	0.0
+66	TR	A0A8U0SQE6	Serine/threonine-protein kinase mTOR OS=Mustela putorius furo OX=9669 GN=MTOR PE=3 SV=1	Mustela putorius furo	2552	13094	99.2	99.5	0.0
+67	TR	A0A2Y9QA27	Serine/threonine-protein kinase mTOR OS=Delphinapterus leucas OX=9749 GN=MTOR PE=3 SV=1	Delphinapterus leucas	2548	13093	99.4	99.6	0.0
+68	TR	A0A8C9BR09	Serine/threonine-protein kinase mTOR OS=Phocoena sinus OX=42100 GN=MTOR PE=3 SV=1	Phocoena sinus	2548	13093	99.4	99.6	0.0
+69	TR	F1RHR8	Serine/threonine-protein kinase mTOR OS=Sus scrofa OX=9823 GN=MTOR PE=1 SV=4	Sus scrofa	2548	13093	99.4	99.6	0.0
+70	TR	A0A8C6B2Q5	Serine/threonine-protein kinase mTOR OS=Monodon monoceros OX=40151 GN=MTOR PE=3 SV=1	Monodon monoceros	2548	13093	99.4	99.6	0.0
+71	TR	A0A341BTF2	Serine/threonine-protein kinase mTOR OS=Neophocaena asiaeorientalis asiaeorientalis OX=1706337 GN=MTOR PE=3 SV=1	Neophocaena asiaeorientalis asiaeorientalis	2548	13093	99.4	99.6	0.0
+72	TR	A0A8B7UYY3	Serine/threonine-protein kinase mTOR OS=Castor canadensis OX=51338 GN=Mtor PE=3 SV=2	Castor canadensis	2548	13091	99.4	99.6	0.0
+73	TR	G1LST9	Serine/threonine-protein kinase mTOR OS=Ailuropoda melanoleuca OX=9646 GN=MTOR PE=3 SV=2	Ailuropoda melanoleuca	2548	13090	99.4	99.6	0.0
+74	TR	A0ABM3THS2	Serine/threonine-protein kinase mTOR OS=Balaenoptera acutorostrata OX=9767 GN=MTOR PE=3 SV=1	Balaenoptera acutorostrata	2548	13089	99.3	99.5	0.0
+75	TR	A0A7J8FAF1	Serine/threonine-protein kinase mTOR OS=Molossus molossus OX=27622 GN=HJG59_012609 PE=3 SV=1	Molossus molossus	2549	13089	99.2	99.5	0.0
+76	TR	A0A0P6JH97	Serine/threonine-protein kinase mTOR OS=Heterocephalus glaber OX=10181 GN=Mtor PE=3 SV=1	Heterocephalus glaber	2551	13088	99.3	99.6	0.0
+77	TR	A0A2Y9GKT9	Serine/threonine-protein kinase mTOR OS=Neomonachus schauinslandi OX=29088 GN=MTOR PE=3 SV=1	Neomonachus schauinslandi	2550	13087	99.3	99.5	0.0
+78	TR	A0A9V1G7S4	Serine/threonine-protein kinase mTOR OS=Panthera pardus OX=9691 GN=MTOR PE=3 SV=1	Panthera pardus	2550	13086	99.3	99.5	0.0
+79	TR	A0ABI8ALK7	Serine/threonine-protein kinase mTOR OS=Felis catus OX=9685 GN=MTOR PE=3 SV=1	Felis catus	2550	13086	99.3	99.5	0.0
+80	TR	A0A8C8WZ70	Serine/threonine-protein kinase mTOR OS=Panthera leo OX=9689 GN=MTOR PE=3 SV=1	Panthera leo	2550	13086	99.3	99.5	0.0
+81	TR	A0A6J0A376	Serine/threonine-protein kinase mTOR OS=Acinonyx jubatus OX=32536 GN=MTOR PE=3 SV=1	Acinonyx jubatus	2550	13086	99.3	99.5	0.0
+82	TR	A0A7J8KCW6	Serine/threonine-protein kinase mTOR OS=Rousettus aegyptiacus OX=9407 GN=HJG63_013697 PE=3 SV=1	Rousettus aegyptiacus	2550	13085	99.3	99.6	0.0
+83	TR	A0A3Q7MX27	Serine/threonine-protein kinase mTOR OS=Callorhinus ursinus OX=34884 GN=MTOR PE=3 SV=1	Callorhinus ursinus	2561	13085	99.1	99.2	0.0
+84	TR	A0ACI8R6Z1	Mechanistic target of rapamycin kinase OS=Homo sapiens OX=9606 GN=MTOR PE=4 SV=1	Homo sapiens	2537	13084	99.5	99.5	0.0
+85	TR	A0A485PLT7	Serine/threonine-protein kinase mTOR OS=Lynx pardinus OX=191816 GN=LYPA_23C012711 PE=3 SV=1	Lynx pardinus	2550	13081	99.3	99.5	0.0
+86	TR	A0A667IQF0	Serine/threonine-protein kinase mTOR OS=Lynx canadensis OX=61383 GN=MTOR PE=3 SV=1	Lynx canadensis	2550	13081	99.3	99.5	0.0
+87	TR	A0A2U3XVT2	Serine/threonine-protein kinase mTOR OS=Leptonychotes weddellii OX=9713 GN=MTOR PE=3 SV=1	Leptonychotes weddellii	2550	13080	99.3	99.5	0.0
+88	TR	A0AC55DTF1	Serine/threonine-protein kinase mTOR OS=Echinops telfairi OX=9371 GN=MTOR PE=3 SV=1	Echinops telfairi	2550	13079	99.3	99.5	0.0
+89	TR	A0A8C5KDC6	Serine/threonine-protein kinase mTOR OS=Jaculus jaculus OX=51337 GN=Mtor PE=3 SV=1	Jaculus jaculus	2544	13078	99.6	99.6	0.0
+90	TR	A0A6B0QWF2	Serine/threonine-protein kinase mTOR OS=Bos mutus OX=72004 GN=E5288_WYG004863 PE=3 SV=1	Bos mutus	2551	13077	99.4	99.6	0.0
+91	TR	A0A8C3W3Z0	Serine/threonine-protein kinase mTOR OS=Catagonus wagneri OX=51154 GN=MTOR PE=3 SV=1	Catagonus wagneri	2548	13072	99.4	99.6	0.0
+92	TR	A0A2Y9SVG2	Serine/threonine-protein kinase mTOR OS=Physeter macrocephalus OX=9755 GN=MTOR PE=3 SV=1	Physeter macrocephalus	2548	13071	99.2	99.5	0.0
+93	TR	A0A9B0TJD8	Serine/threonine-protein kinase mTOR OS=Chrysochloris asiatica OX=185453 GN=MTOR PE=3 SV=1	Chrysochloris asiatica	2550	13069	99.2	99.5	0.0
+94	TR	A0A8C6E205	Serine/threonine-protein kinase mTOR OS=Moschus moschiferus OX=68415 GN=MTOR PE=3 SV=1	Moschus moschiferus	2547	13067	99.3	99.6	0.0
+95	TR	A0ACF6G1Q1	Serine serine/threonine-protein kinase mTOR OS=Sigmodon hispidus OX=42415 GN=HispidOSU_018930 PE=4 SV=1	Sigmodon hispidus	2549	13064	99.1	99.4	0.0
+96	TR	A0A2K6BF26	Serine/threonine-protein kinase mTOR OS=Macaca nemestrina OX=9545 PE=3 SV=1	Macaca nemestrina	2546	13063	99.3	99.4	0.0
+97	TR	A0AC55DTE9	Serine/threonine-protein kinase mTOR OS=Echinops telfairi OX=9371 GN=MTOR PE=3 SV=1	Echinops telfairi	2554	13061	99.1	99.3	0.0
+98	TR	K9IQM6	Serine/threonine-protein kinase mTOR OS=Desmodus rotundus OX=9430 PE=2 SV=1	Desmodus rotundus	2549	13059	98.9	99.4	0.0
+99	TR	D9I5T4	Serine/threonine-protein kinase mTOR OS=Capra hircus OX=9925 GN=mTOR PE=2 SV=1	Capra hircus	2549	13059	99.1	99.5	0.0
+100	TR	A0A7J7ZYW2	Serine/threonine-protein kinase mTOR OS=Myotis myotis OX=51298 GN=mMyoMyo1_013466 PE=3 SV=1	Myotis myotis	2549	13058	98.9	99.3	0.0
+101	TR	A0ABN9ZWJ5	Serine/threonine-protein kinase mTOR OS=Pipistrellus nathusii OX=59473 GN=MPIPNATIZW_LOCUS8898 PE=3 SV=1	Pipistrellus nathusii	2550	13056	99.0	99.3	0.0
+102	TR	G3TFL3	Serine/threonine-protein kinase mTOR OS=Loxodonta africana OX=9785 GN=MTOR PE=3 SV=1	Loxodonta africana	2546	13055	99.4	99.5	0.0
+103	TR	A0A7J8FBH5	Serine/threonine-protein kinase mTOR OS=Molossus molossus OX=27622 GN=HJG59_012609 PE=3 SV=1	Molossus molossus	2545	13055	99.0	99.3	0.0
+104	TR	A0A6J2LJC4	Serine/threonine-protein kinase mTOR OS=Phyllostomus discolor OX=89673 GN=MTOR PE=3 SV=1	Phyllostomus discolor	2548	13054	99.1	99.4	0.0
+105	TR	A0A673UCA3	Serine/threonine-protein kinase mTOR OS=Suricata suricatta OX=37032 GN=MTOR PE=3 SV=1	Suricata suricatta	2550	13053	99.0	99.4	0.0
+106	TR	A0A8B8WJA4	Serine/threonine-protein kinase mTOR OS=Balaenoptera musculus OX=9771 GN=MTOR PE=3 SV=1	Balaenoptera musculus	2548	13052	99.1	99.3	0.0
+107	TR	A0ABM3THS9	Serine/threonine-protein kinase mTOR OS=Balaenoptera acutorostrata OX=9767 GN=MTOR PE=3 SV=1	Balaenoptera acutorostrata	2574	13049	98.3	98.5	0.0
+108	TR	A0A8C8TNT6	Serine/threonine-protein kinase mTOR OS=Peromyscus maniculatus bairdii OX=230844 PE=3 SV=1	Peromyscus maniculatus bairdii	2549	13046	98.9	99.3	0.0
+109	TR	A0A7J7T0X0	Serine/threonine-protein kinase mTOR OS=Pipistrellus kuhlii OX=59472 GN=mPipKuh1_011918 PE=3 SV=1	Pipistrellus kuhlii	2550	13046	98.9	99.2	0.0
+110	SP	P42346	Serine/threonine-protein kinase mTOR OS=Rattus norvegicus OX=10116 GN=Mtor PE=1 SV=1	Rattus norvegicus	2549	13045	98.9	99.3	0.0
+111	TR	A0A8C6GYQ1	Serine/threonine-protein kinase mTOR OS=Mus spicilegus OX=10103 PE=3 SV=1	Mus spicilegus	2549	13043	98.9	99.3	0.0
+112	TR	A0AA41MKW2	Exosome complex component 10 OS=Sciurus carolinensis OX=30640 GN=SUZIE_124885 PE=3 SV=1	Sciurus carolinensis	3977	13043	98.8	98.9	0.0
+113	SP	Q9JLN9	Serine/threonine-protein kinase mTOR OS=Mus musculus OX=10090 GN=Mtor PE=1 SV=2	Mus musculus	2549	13042	98.9	99.3	0.0
+114	TR	A0A6P5PQB2	Serine/threonine-protein kinase mTOR OS=Mus caroli OX=10089 GN=Mtor PE=3 SV=1	Mus caroli	2549	13040	98.9	99.3	0.0
+115	TR	A0A7J7ZYV4	Serine/threonine-protein kinase mTOR OS=Myotis myotis OX=51298 GN=mMyoMyo1_013466 PE=3 SV=1	Myotis myotis	2553	13040	98.7	99.1	0.0
+116	TR	A0A9J7F8T9	Serine/threonine-protein kinase mTOR OS=Cricetulus griseus OX=10029 GN=Mtor PE=3 SV=1	Cricetulus griseus	2549	13039	98.8	99.3	0.0
+117	TR	L5LPP5	Serine/threonine-protein kinase mTOR (Fragment) OS=Myotis davidii OX=225400 GN=MDA_GLEAN10024380 PE=3 SV=1	Myotis davidii	2595	13033	98.4	98.8	0.0
+118	TR	G1T4N5	Serine/threonine-protein kinase mTOR OS=Oryctolagus cuniculus OX=9986 GN=MTOR PE=3 SV=2	Oryctolagus cuniculus	2547	13031	98.9	99.3	0.0
+119	TR	K9J0U3	Serine/threonine-protein kinase mTOR OS=Desmodus rotundus OX=9430 PE=2 SV=1	Desmodus rotundus	2574	13023	98.0	98.4	0.0
+120	TR	A0A340XST0	Serine/threonine-protein kinase mTOR OS=Lipotes vexillifer OX=118797 GN=MTOR PE=3 SV=1	Lipotes vexillifer	2544	13020	99.1	99.4	0.0
+121	TR	A0A1U7R1Y1	Serine/threonine-protein kinase mTOR OS=Mesocricetus auratus OX=10036 GN=Mtor PE=3 SV=1	Mesocricetus auratus	2549	13013	98.6	99.3	0.0
+122	TR	A0A6G1AYX6	Serine/threonine-protein kinase mTOR (Fragment) OS=Crocuta crocuta OX=9678 GN=Mtor_1 PE=3 SV=1	Crocuta crocuta	2544	13008	99.1	99.4	0.0
+123	TR	A0AAJ7MV86	Serine/threonine-protein kinase mTOR OS=Rhinopithecus bieti OX=61621 PE=3 SV=1	Rhinopithecus bieti	2527	13004	98.9	99.0	0.0
+124	TR	A0A2K6Q8W9	Serine/threonine-protein kinase mTOR OS=Rhinopithecus roxellana OX=61622 GN=MTOR PE=3 SV=1	Rhinopithecus roxellana	2527	13004	98.9	99.0	0.0
+125	TR	A0A8I3WWL1	Serine/threonine-protein kinase mTOR OS=Callithrix jacchus OX=9483 GN=MTOR PE=3 SV=1	Callithrix jacchus	2530	13002	99.0	99.1	0.0
+126	TR	A0A8C6S6H1	Serine/threonine-protein kinase mTOR OS=Nannospalax galili OX=1026970 GN=Mtor PE=3 SV=1	Nannospalax galili	2549	12992	98.5	99.0	0.0
+127	TR	S7N7U1	Serine/threonine-protein kinase mTOR OS=Myotis brandtii OX=109478 GN=D623_10022009 PE=3 SV=1	Myotis brandtii	2634	12990	98.4	98.8	0.0
+128	TR	A0A0G2JX74	Serine/threonine-protein kinase mTOR OS=Rattus norvegicus OX=10116 GN=Mtor PE=1 SV=2	Rattus norvegicus	2553	12989	98.5	98.9	0.0
+129	TR	A0ACI8TTC9	Mechanistic target of rapamycin kinase OS=Homo sapiens OX=9606 GN=MTOR PE=4 SV=1	Homo sapiens	2520	12985	98.9	98.9	0.0
+130	TR	G1P265	Serine/threonine-protein kinase mTOR OS=Myotis lucifugus OX=59463 GN=MTOR PE=3 SV=1	Myotis lucifugus	2547	12982	98.7	99.2	0.0
+131	TR	A0A1U8CIG4	Serine/threonine-protein kinase mTOR OS=Mesocricetus auratus OX=10036 GN=Mtor PE=3 SV=1	Mesocricetus auratus	2543	12967	98.4	99.1	0.0
+132	TR	A0A2U3WPU6	Serine/threonine-protein kinase mTOR OS=Odobenus rosmarus divergens OX=9708 GN=MTOR PE=3 SV=1	Odobenus rosmarus divergens	2559	12965	98.4	98.7	0.0
+133	TR	F6Z3T6	Serine/threonine-protein kinase mTOR OS=Equus caballus OX=9796 GN=MTOR PE=3 SV=3	Equus caballus	2524	12948	98.5	98.6	0.0
+134	TR	A0A8C0K5V7	Serine/threonine-protein kinase mTOR OS=Canis lupus dingo OX=286419 GN=MTOR PE=3 SV=1	Canis lupus dingo	2528	12947	98.5	98.7	0.0
+135	TR	A0ABM0RSS4	Serine/threonine-protein kinase mTOR OS=Galeopterus variegatus OX=482537 GN=MTOR PE=3 SV=1	Galeopterus variegatus	2521	12941	98.5	98.6	0.0
+136	TR	A0ABM3VRD6	Serine/threonine-protein kinase mTOR OS=Erinaceus europaeus OX=9365 GN=MTOR PE=3 SV=1	Erinaceus europaeus	2544	12939	98.0	99.0	0.0
+137	TR	A0A8B8UA67	Serine/threonine-protein kinase mTOR OS=Camelus ferus OX=419612 GN=MTOR PE=3 SV=1	Camelus ferus	2523	12937	98.4	98.5	0.0
+138	TR	A0ABM1ALC0	Serine/threonine-protein kinase mTOR OS=Microtus ochrogaster OX=79684 GN=Mtor PE=3 SV=1	Microtus ochrogaster	2553	12926	98.0	98.7	0.0
+139	TR	A0A287BKJ8	Serine/threonine-protein kinase mTOR OS=Sus scrofa OX=9823 GN=MTOR PE=1 SV=2	Sus scrofa	2522	12912	98.5	98.7	0.0
+140	TR	A0A2U4AZQ0	Serine/threonine-protein kinase mTOR OS=Tursiops truncatus OX=9739 GN=MTOR PE=3 SV=1	Tursiops truncatus	2519	12911	98.3	98.4	0.0
+141	TR	A0A8C9BTI1	Serine/threonine-protein kinase mTOR OS=Phocoena sinus OX=42100 GN=MTOR PE=3 SV=1	Phocoena sinus	2519	12907	98.2	98.4	0.0
+142	TR	A0A341BRY8	Serine/threonine-protein kinase mTOR OS=Neophocaena asiaeorientalis asiaeorientalis OX=1706337 GN=MTOR PE=3 SV=1	Neophocaena asiaeorientalis asiaeorientalis	2519	12907	98.2	98.4	0.0
+143	TR	G3R506	Serine/threonine-protein kinase mTOR OS=Gorilla gorilla gorilla OX=9595 GN=MTOR PE=3 SV=2	Gorilla gorilla gorilla	2520	12885	98.4	98.5	0.0
+144	TR	A0A2K6EJ37	Serine/threonine-protein kinase mTOR OS=Propithecus coquereli OX=379532 PE=3 SV=1	Propithecus coquereli	2536	12872	98.2	98.4	0.0
+145	TR	A0A8C0K4V6	Serine/threonine-protein kinase mTOR OS=Canis lupus dingo OX=286419 GN=MTOR PE=3 SV=1	Canis lupus dingo	2550	12868	97.6	97.7	0.0
+146	TR	A0A2Y9GP98	Serine/threonine-protein kinase mTOR OS=Neomonachus schauinslandi OX=29088 GN=MTOR PE=3 SV=1	Neomonachus schauinslandi	2557	12863	99.4	99.5	0.0
+147	TR	A0A9L0SYL9	Serine/threonine-protein kinase mTOR OS=Equus caballus OX=9796 PE=3 SV=1	Equus caballus	2496	12860	99.6	99.7	0.0
+148	TR	A0A8C6GZ72	Serine/threonine-protein kinase mTOR OS=Mus spicilegus OX=10103 PE=3 SV=1	Mus spicilegus	2520	12857	97.8	98.2	0.0
+149	TR	A0A5F9CQR0	Serine/threonine-protein kinase mTOR OS=Oryctolagus cuniculus OX=9986 GN=MTOR PE=3 SV=1	Oryctolagus cuniculus	2520	12855	97.8	98.2	0.0
+150	TR	A0A6P6GZC9	Serine/threonine-protein kinase mTOR OS=Puma concolor OX=9696 GN=MTOR PE=3 SV=1	Puma concolor	2638	12836	99.1	99.4	0.0
+151	TR	A0A8L2Q797	Serine/threonine-protein kinase mTOR OS=Rattus norvegicus OX=10116 GN=Mtor PE=1 SV=1	Rattus norvegicus	2518	12804	99.0	99.4	0.0
+152	TR	A0A8C6RZX0	Serine/threonine-protein kinase mTOR OS=Nannospalax galili OX=1026970 GN=Mtor PE=3 SV=1	Nannospalax galili	2525	12782	97.4	98.0	0.0
+153	TR	F6S221	Serine/threonine-protein kinase mTOR OS=Ornithorhynchus anatinus OX=9258 GN=MTOR PE=3 SV=3	Ornithorhynchus anatinus	2542	12731	96.5	97.7	0.0
+154	TR	A0A8C0IXA2	Serine/threonine-protein kinase TOR OS=Chelonoidis abingdonii OX=106734 GN=MTOR PE=3 SV=1	Chelonoidis abingdonii	2535	12729	96.4	98.0	0.0
+155	TR	G1MZX7	Serine/threonine-protein kinase TOR OS=Meleagris gallopavo OX=9103 GN=MTOR PE=3 SV=3	Meleagris gallopavo	2536	12729	96.3	98.1	0.0
+156	TR	A0A8C2U1B8	Serine/threonine-protein kinase TOR OS=Coturnix japonica OX=93934 GN=MTOR PE=3 SV=1	Coturnix japonica	2535	12724	96.3	98.0	0.0
+157	TR	A0A4X2MC42	Serine/threonine-protein kinase mTOR OS=Vombatus ursinus OX=29139 GN=MTOR PE=3 SV=1	Vombatus ursinus	2521	12724	97.0	98.4	0.0
+158	TR	A0A8C3QS39	Serine/threonine-protein kinase TOR OS=Cyanoderma ruficeps OX=181631 PE=3 SV=1	Cyanoderma ruficeps	2541	12723	96.7	98.3	0.0
+159	TR	A0A8C3JYX3	Serine/threonine-protein kinase TOR OS=Calidris pygmaea OX=425635 PE=3 SV=1	Calidris pygmaea	2541	12718	96.3	97.9	0.0
+160	TR	A0A8B9NPV7	Serine/threonine-protein kinase TOR OS=Accipiter nisus OX=211598 PE=3 SV=1	Accipiter nisus	2535	12716	96.3	98.0	0.0
+161	TR	A0A8D2NZG0	Serine/threonine-protein kinase TOR OS=Zosterops lateralis melanops OX=1220523 PE=3 SV=1	Zosterops lateralis melanops	2530	12715	96.5	98.1	0.0
+162	TR	A0A6P5JET8	Serine/threonine-protein kinase mTOR OS=Phascolarctos cinereus OX=38626 GN=MTOR PE=3 SV=1	Phascolarctos cinereus	2520	12715	97.0	98.4	0.0
+163	TR	A0A8C5UCB8	Serine/threonine-protein kinase TOR OS=Malurus cyaneus samueli OX=2593467 PE=3 SV=1	Malurus cyaneus samueli	2535	12714	96.3	98.0	0.0
+164	TR	A0A8C2U4T2	Serine/threonine-protein kinase TOR OS=Coturnix japonica OX=93934 GN=MTOR PE=3 SV=1	Coturnix japonica	2530	12713	96.6	98.3	0.0
+165	TR	A0A8B9CN04	Serine/threonine-protein kinase TOR OS=Anser brachyrhynchus OX=132585 GN=MTOR PE=3 SV=1	Anser brachyrhynchus	2535	12712	96.3	98.0	0.0
+166	TR	A0A8C5X9Q6	Serine/threonine-protein kinase TOR OS=Malurus cyaneus samueli OX=2593467 PE=3 SV=1	Malurus cyaneus samueli	2534	12711	96.3	98.0	0.0
+167	TR	A0A8C6K336	Serine/threonine-protein kinase TOR OS=Melopsittacus undulatus OX=13146 GN=LOC101871662 PE=3 SV=2	Melopsittacus undulatus	2534	12711	96.5	98.1	0.0
+168	TR	A0A851FA14	Serine/threonine-protein kinase TOR (Fragment) OS=Pitta sordida OX=9163 GN=Mtor PE=3 SV=1	Pitta sordida	2522	12711	96.6	98.3	0.0
+169	TR	A0A8B9NJH5	Serine/threonine-protein kinase TOR OS=Accipiter nisus OX=211598 PE=3 SV=1	Accipiter nisus	2533	12710	96.3	98.0	0.0
+170	TR	F1NUX4	Serine/threonine-protein kinase TOR OS=Gallus gallus OX=9031 GN=MTOR PE=1 SV=2	Gallus gallus	2521	12710	96.7	98.3	0.0
+171	TR	A0A8C5UCR7	Serine/threonine-protein kinase TOR OS=Malurus cyaneus samueli OX=2593467 PE=3 SV=1	Malurus cyaneus samueli	2535	12709	96.4	98.0	0.0
+172	TR	A0A669R923	Serine/threonine-protein kinase TOR OS=Phasianus colchicus OX=9054 GN=MTOR PE=3 SV=1	Phasianus colchicus	2521	12709	96.7	98.3	0.0
+173	TR	A0A7K6G0R3	Serine/threonine-protein kinase TOR (Fragment) OS=Daphoenositta chrysoptera OX=254528 GN=Mtor PE=3 SV=1	Daphoenositta chrysoptera	2522	12709	96.6	98.2	0.0
+174	TR	U3K6Q8	Serine/threonine-protein kinase TOR OS=Ficedula albicollis OX=59894 GN=MTOR PE=3 SV=2	Ficedula albicollis	2531	12709	96.3	98.0	0.0
+175	TR	U3IIG0	Serine/threonine-protein kinase TOR OS=Anas platyrhynchos platyrhynchos OX=8840 GN=MTOR PE=3 SV=2	Anas platyrhynchos platyrhynchos	2538	12707	96.4	97.9	0.0
+176	TR	A0A8C3CSU0	Serine/threonine-protein kinase TOR OS=Cairina moschata OX=8855 PE=3 SV=1	Cairina moschata	2537	12707	96.3	97.9	0.0
+177	TR	A0A8C8B510	Serine/threonine-protein kinase TOR OS=Otus sunia OX=257818 PE=3 SV=1	Otus sunia	2521	12705	96.7	98.3	0.0
+178	TR	A0A663LMW0	Serine/threonine-protein kinase TOR OS=Athene cunicularia OX=194338 GN=MTOR PE=3 SV=1	Athene cunicularia	2521	12705	96.7	98.3	0.0
+179	TR	A0A8B9CL57	Serine/threonine-protein kinase TOR OS=Anser brachyrhynchus OX=132585 GN=MTOR PE=3 SV=1	Anser brachyrhynchus	2537	12705	96.3	97.9	0.0
+180	TR	A0A8C3GWM7	Serine/threonine-protein kinase TOR OS=Corvus moneduloides OX=1196302 GN=MTOR PE=3 SV=2	Corvus moneduloides	2521	12705	96.6	98.3	0.0
+181	TR	A0A8B9CPN4	Serine/threonine-protein kinase TOR OS=Anser brachyrhynchus OX=132585 GN=MTOR PE=3 SV=1	Anser brachyrhynchus	2537	12704	96.2	97.9	0.0
+182	TR	A0A7K8YJI6	Serine/threonine-protein kinase TOR (Fragment) OS=Sakesphorus luctuosus OX=419690 GN=Mtor PE=3 SV=1	Sakesphorus luctuosus	2522	12703	96.6	98.2	0.0
+183	TR	A0A6J0I3W8	Serine/threonine-protein kinase TOR OS=Lepidothrix coronata OX=321398 GN=MTOR PE=3 SV=1	Lepidothrix coronata	2521	12703	96.6	98.3	0.0
+184	TR	A0A8C2U6A1	Serine/threonine-protein kinase TOR OS=Coturnix japonica OX=93934 GN=MTOR PE=3 SV=1	Coturnix japonica	2530	12703	96.5	98.3	0.0
+185	TR	A0A8B9FI16	Serine/threonine-protein kinase TOR OS=Amazona collaria OX=241587 PE=3 SV=1	Amazona collaria	2521	12703	96.6	98.3	0.0
+186	TR	A0A8B9NJL7	Serine/threonine-protein kinase TOR OS=Accipiter nisus OX=211598 PE=3 SV=1	Accipiter nisus	2536	12702	96.6	98.2	0.0
+187	TR	A0A8C0I8B9	Serine/threonine-protein kinase TOR OS=Bubo bubo OX=30461 PE=3 SV=1	Bubo bubo	2521	12701	96.6	98.3	0.0
+188	TR	A0A8C4KJ78	Serine/threonine-protein kinase TOR OS=Dromaius novaehollandiae OX=8790 GN=MTOR PE=3 SV=1	Dromaius novaehollandiae	2521	12700	96.6	98.2	0.0
+189	TR	A0A663F6L4	Serine/threonine-protein kinase TOR OS=Aquila chrysaetos chrysaetos OX=223781 GN=MTOR PE=3 SV=1	Aquila chrysaetos chrysaetos	2521	12700	96.6	98.3	0.0
+190	TR	A0A8C0AS74	Serine/threonine-protein kinase TOR OS=Buteo japonicus OX=224669 PE=3 SV=1	Buteo japonicus	2521	12700	96.6	98.3	0.0
+191	TR	A0A8C3XBL9	Serine/threonine-protein kinase TOR OS=Cyanoderma ruficeps OX=181631 PE=3 SV=1	Cyanoderma ruficeps	2555	12698	96.2	97.7	0.0
+192	TR	A0A8C3SB14	Serine/threonine-protein kinase TOR OS=Chelydra serpentina OX=8475 PE=3 SV=1	Chelydra serpentina	2533	12698	96.2	97.9	0.0
+193	TR	A0A218UHR8	Serine/threonine-protein kinase TOR OS=Lonchura striata OX=40157 GN=MTOR PE=3 SV=1	Lonchura striata	2521	12698	96.6	98.2	0.0
+194	TR	A0A8B9UNC1	Serine/threonine-protein kinase TOR OS=Anas zonorhyncha OX=75864 PE=3 SV=1	Anas zonorhyncha	2537	12698	96.3	97.9	0.0
+195	TR	A0A8C3CQW8	Serine/threonine-protein kinase TOR OS=Cairina moschata OX=8855 PE=3 SV=1	Cairina moschata	2537	12697	96.3	97.9	0.0
+196	TR	A0ABM4FQU9	Serine/threonine-protein kinase TOR OS=Apteryx mantelli OX=2696672 GN=MTOR PE=3 SV=1	Apteryx mantelli	2521	12696	96.6	98.2	0.0
+197	TR	A0A7K6T1K5	Serine/threonine-protein kinase TOR (Fragment) OS=Caloenas nicobarica OX=187106 GN=Mtor PE=3 SV=1	Caloenas nicobarica	2521	12696	96.6	98.3	0.0
+198	TR	G3WIT3	Serine/threonine-protein kinase mTOR OS=Sarcophilus harrisii OX=9305 GN=MTOR PE=3 SV=2	Sarcophilus harrisii	2520	12695	96.8	98.2	0.0
+199	TR	A0A8C9MIP3	Serine/threonine-protein kinase TOR OS=Serinus canaria OX=9135 GN=MTOR PE=3 SV=1	Serinus canaria	2521	12694	96.6	98.2	0.0
+200	TR	A0A6J3E6X3	Serine/threonine-protein kinase TOR OS=Aythya fuligula OX=219594 GN=MTOR PE=3 SV=1	Aythya fuligula	2521	12694	96.6	98.2	0.0
+201	TR	A0A8C6K310	Serine/threonine-protein kinase TOR OS=Melopsittacus undulatus OX=13146 GN=LOC101871662 PE=3 SV=2	Melopsittacus undulatus	2539	12693	96.2	97.8	0.0
+202	TR	A0A8C5IKG0	Serine/threonine-protein kinase TOR OS=Junco hyemalis OX=40217 PE=3 SV=1	Junco hyemalis	2521	12691	96.5	98.2	0.0
+203	TR	A0A8B9E0A0	Serine/threonine-protein kinase TOR OS=Anser cygnoides OX=8845 GN=MTOR PE=3 SV=1	Anser cygnoides	2521	12691	96.6	98.2	0.0
+204	TR	A0A6I9HRW2	Serine/threonine-protein kinase TOR OS=Geospiza fortis OX=48883 GN=MTOR PE=3 SV=1	Geospiza fortis	2521	12691	96.5	98.2	0.0
+205	TR	A0A8C0K5M4	Serine/threonine-protein kinase mTOR OS=Canis lupus dingo OX=286419 GN=MTOR PE=3 SV=1	Canis lupus dingo	2527	12691	97.4	97.8	0.0
+206	TR	K7FIV2	Serine/threonine-protein kinase TOR OS=Pelodiscus sinensis OX=13735 GN=MTOR PE=3 SV=1	Pelodiscus sinensis	2522	12688	96.5	98.1	0.0
+207	TR	A0A8C4WBX8	Serine/threonine-protein kinase TOR OS=Gopherus evgoodei OX=1825980 GN=MTOR PE=3 SV=1	Gopherus evgoodei	2521	12687	96.5	98.2	0.0
+208	TR	A0A8C6K1X6	Serine/threonine-protein kinase TOR OS=Melopsittacus undulatus OX=13146 GN=LOC101871662 PE=3 SV=2	Melopsittacus undulatus	2537	12685	96.2	97.8	0.0
+209	TR	K7FIV9	Serine/threonine-protein kinase TOR OS=Pelodiscus sinensis OX=13735 GN=MTOR PE=3 SV=1	Pelodiscus sinensis	2521	12684	96.6	98.2	0.0
+210	TR	A0A7L1WAN8	Serine/threonine-protein kinase TOR (Fragment) OS=Certhia brachydactyla OX=73330 GN=Mtor PE=3 SV=1	Certhia brachydactyla	2518	12683	96.7	98.3	0.0
+211	TR	A0A7K8GZ98	Serine/threonine-protein kinase TOR (Fragment) OS=Orthonyx spaldingii OX=38397 GN=Mtor PE=3 SV=1	Orthonyx spaldingii	2518	12682	96.7	98.3	0.0
+212	TR	A0A7K6CD31	Serine/threonine-protein kinase TOR (Fragment) OS=Ptilonorhynchus violaceus OX=28724 GN=Mtor PE=3 SV=1	Ptilonorhynchus violaceus	2518	12682	96.7	98.3	0.0
+213	TR	A0A6J2HWC9	Serine/threonine-protein kinase TOR OS=Pipra filicauda OX=649802 GN=MTOR PE=3 SV=1	Pipra filicauda	2535	12682	96.1	97.8	0.0
+214	TR	A0A8C0IXD1	Serine/threonine-protein kinase TOR OS=Chelonoidis abingdonii OX=106734 GN=MTOR PE=3 SV=1	Chelonoidis abingdonii	2539	12682	96.2	97.8	0.0
+215	TR	A0A7L1DH89	Serine/threonine-protein kinase TOR (Fragment) OS=Serilophus lunatus OX=239386 GN=Mtor PE=3 SV=1	Serilophus lunatus	2518	12681	96.6	98.3	0.0
+216	TR	A0A851C2Q3	Serine/threonine-protein kinase TOR (Fragment) OS=Calyptomena viridis OX=135972 GN=Mtor PE=3 SV=1	Calyptomena viridis	2518	12681	96.6	98.3	0.0
+217	TR	A0A1V4KP20	Serine/threonine-protein kinase TOR OS=Patagioenas fasciata monilis OX=372326 GN=MTOR PE=3 SV=1	Patagioenas fasciata monilis	2574	12681	96.5	98.1	0.0
+218	TR	A0A8C8B9D6	Serine/threonine-protein kinase TOR OS=Otus sunia OX=257818 PE=3 SV=1	Otus sunia	2535	12680	96.2	97.7	0.0
+219	TR	A0A8C6K309	Serine/threonine-protein kinase TOR OS=Melopsittacus undulatus OX=13146 GN=LOC101871662 PE=3 SV=2	Melopsittacus undulatus	2534	12680	96.6	98.1	0.0
+220	TR	A0A7K5RRY0	Serine/threonine-protein kinase TOR (Fragment) OS=Lanius ludovicianus OX=28713 GN=Mtor PE=3 SV=1	Lanius ludovicianus	2518	12680	96.6	98.3	0.0
+221	TR	A0A851SAL9	Serine/threonine-protein kinase TOR (Fragment) OS=Certhia familiaris OX=73333 GN=Mtor PE=3 SV=1	Certhia familiaris	2518	12679	96.6	98.3	0.0
+222	TR	A0A7L0IY22	Serine/threonine-protein kinase TOR (Fragment) OS=Piprites chloris OX=114369 GN=Mtor PE=3 SV=1	Piprites chloris	2518	12679	96.6	98.3	0.0
+223	TR	A0A6J0I5Y3	Serine/threonine-protein kinase TOR OS=Lepidothrix coronata OX=321398 GN=MTOR PE=3 SV=1	Lepidothrix coronata	2535	12678	96.1	97.8	0.0
+224	TR	A0A7K9PGD4	Serine/threonine-protein kinase TOR (Fragment) OS=Pachycephala philippinensis OX=449367 GN=Mtor PE=3 SV=1	Pachycephala philippinensis	2518	12678	96.6	98.2	0.0
+225	TR	A0A0A0ASR0	Serine/threonine-protein kinase TOR OS=Charadrius vociferus OX=50402 GN=N301_11351 PE=3 SV=1	Charadrius vociferus	2517	12678	96.7	98.3	0.0
+226	TR	A0A8B9IW13	Serine/threonine-protein kinase TOR OS=Amazona collaria OX=241587 PE=3 SV=1	Amazona collaria	2535	12678	96.1	97.7	0.0
+227	TR	A0A7L1YQW3	Serine/threonine-protein kinase TOR (Fragment) OS=Scytalopus superciliaris OX=312124 GN=Mtor PE=3 SV=1	Scytalopus superciliaris	2518	12678	96.6	98.3	0.0
+228	TR	A0A7K8QIC9	Serine/threonine-protein kinase TOR (Fragment) OS=Smithornis capensis OX=363769 GN=Mtor PE=3 SV=1	Smithornis capensis	2518	12677	96.6	98.3	0.0
+229	TR	A0A7L2RR31	Serine/threonine-protein kinase TOR (Fragment) OS=Neodrepanis coruscans OX=254563 GN=Mtor PE=3 SV=1	Neodrepanis coruscans	2518	12677	96.6	98.3	0.0
+230	TR	A0A7K9IWQ1	Serine/threonine-protein kinase TOR (Fragment) OS=Myiagra hebetior OX=381031 GN=Mtor PE=3 SV=1	Myiagra hebetior	2518	12677	96.6	98.3	0.0
+231	TR	A0A7K7T4W8	Serine/threonine-protein kinase TOR (Fragment) OS=Sapayoa aenigma OX=239371 GN=Mtor PE=3 SV=1	Sapayoa aenigma	2518	12677	96.6	98.3	0.0
+232	TR	A0A091FPK8	Serine/threonine-protein kinase TOR (Fragment) OS=Corvus brachyrhynchos OX=85066 GN=N302_14838 PE=3 SV=1	Corvus brachyrhynchos	2518	12676	96.6	98.2	0.0
+233	TR	A0A087VGX9	Serine/threonine-protein kinase TOR OS=Balearica regulorum gibbericeps OX=100784 GN=N312_07948 PE=3 SV=1	Balearica regulorum gibbericeps	2517	12676	96.7	98.3	0.0
+234	TR	A0A8K1LTB2	Serine/threonine-protein kinase TOR OS=Zosterops borbonicus OX=364589 GN=HGM15179_001934 PE=3 SV=1	Zosterops borbonicus	2577	12676	96.7	98.3	0.0
+235	TR	A0A7K9EKS5	Serine/threonine-protein kinase TOR (Fragment) OS=Baryphthengus martii OX=176943 GN=Mtor PE=3 SV=1	Baryphthengus martii	2518	12676	96.6	98.2	0.0
+236	TR	A0A7K6PHC1	Serine/threonine-protein kinase TOR (Fragment) OS=Ifrita kowaldi OX=461245 GN=Mtor PE=3 SV=1	Ifrita kowaldi	2518	12676	96.6	98.2	0.0
+237	TR	A0A7K7Y2G4	Serine/threonine-protein kinase TOR (Fragment) OS=Thryothorus ludovicianus OX=74200 GN=Mtor PE=3 SV=1	Thryothorus ludovicianus	2518	12676	96.6	98.2	0.0
+238	TR	A0A8C0EE88	Serine/threonine-protein kinase TOR OS=Bubo bubo OX=30461 PE=3 SV=1	Bubo bubo	2535	12676	96.1	97.7	0.0
+239	TR	A0A7L0ZG57	Serine/threonine-protein kinase TOR (Fragment) OS=Oxyruncus cristatus OX=114331 GN=Mtor PE=3 SV=1	Oxyruncus cristatus	2518	12675	96.6	98.3	0.0
+240	TR	A0A8C4KSN6	Serine/threonine-protein kinase TOR OS=Dromaius novaehollandiae OX=8790 GN=MTOR PE=3 SV=1	Dromaius novaehollandiae	2535	12675	96.1	97.7	0.0
+241	TR	A0A7K8W2W9	Serine/threonine-protein kinase TOR (Fragment) OS=Sclerurus mexicanus OX=265632 GN=Mtor PE=3 SV=1	Sclerurus mexicanus	2518	12675	96.6	98.3	0.0
+242	TR	A0A7K9VZ59	Serine/threonine-protein kinase TOR (Fragment) OS=Rhipidura dahli OX=667186 GN=Mtor PE=3 SV=1	Rhipidura dahli	2518	12674	96.6	98.3	0.0
+243	TR	A0A7K5JU41	Serine/threonine-protein kinase TOR (Fragment) OS=Mionectes macconnelli OX=254557 GN=Mtor PE=3 SV=1	Mionectes macconnelli	2518	12674	96.6	98.3	0.0
+244	TR	A0A7K6JPY2	Serine/threonine-protein kinase TOR (Fragment) OS=Oreocharis arfaki OX=979223 GN=Mtor PE=3 SV=1	Oreocharis arfaki	2518	12674	96.6	98.2	0.0
+245	TR	A0A7K7CD71	Serine/threonine-protein kinase TOR (Fragment) OS=Aphelocoma coerulescens OX=39617 GN=Mtor PE=3 SV=1	Aphelocoma coerulescens	2518	12674	96.6	98.3	0.0
+246	TR	A0A7L0XI35	Serine/threonine-protein kinase TOR (Fragment) OS=Tyrannus savana OX=137541 GN=Mtor PE=3 SV=1	Tyrannus savana	2518	12674	96.6	98.3	0.0
+247	TR	A0A7L0MLU1	Serine/threonine-protein kinase TOR (Fragment) OS=Amazona guildingii OX=175529 GN=Mtor PE=3 SV=1	Amazona guildingii	2517	12673	96.7	98.3	0.0
+248	TR	A0A7K5XY67	Serine/threonine-protein kinase TOR (Fragment) OS=Dromas ardeola OX=458190 GN=Mtor PE=3 SV=1	Dromas ardeola	2518	12673	96.7	98.3	0.0
+249	TR	A0A7L0HHV0	Serine/threonine-protein kinase TOR (Fragment) OS=Arenaria interpres OX=54971 GN=Mtor PE=3 SV=1	Arenaria interpres	2517	12673	96.7	98.3	0.0
+250	TR	A0A7L2Z4I4	Serine/threonine-protein kinase TOR (Fragment) OS=Jacana jacana OX=54508 GN=Mtor PE=3 SV=1	Jacana jacana	2517	12673	96.7	98.3	0.0
