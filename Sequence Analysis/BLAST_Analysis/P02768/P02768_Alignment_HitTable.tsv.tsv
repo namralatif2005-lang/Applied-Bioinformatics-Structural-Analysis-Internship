@@ -1,0 +1,251 @@
+Hit	DB	Accession	Description	Organism	Length	Score(Bits)	Identities(%)	Positives(%)	E()
+1	SP	P02768	Albumin OS=Homo sapiens OX=9606 GN=ALB PE=1 SV=2	Homo sapiens	609	3225	100.0	100.0	0.0
+2	TR	B2RBS8	Albumin OS=Homo sapiens OX=9606 PE=2 SV=1	Homo sapiens	609	3213	99.7	99.7	0.0
+3	TR	A0ACI8PUZ9	Albumin OS=Homo sapiens OX=9606 GN=ALB PE=4 SV=1	Homo sapiens	617	3206	98.7	98.7	0.0
+4	TR	G3S791	Albumin OS=Gorilla gorilla gorilla OX=9595 GN=ALB PE=4 SV=2	Gorilla gorilla gorilla	609	3202	99.0	99.3	0.0
+5	TR	A0A2R9CFC1	Albumin OS=Pan paniscus OX=9597 PE=4 SV=1	Pan paniscus	609	3200	98.9	99.7	0.0
+6	TR	H2RBT1	Albumin OS=Pan troglodytes OX=9598 GN=ALB PE=4 SV=1	Pan troglodytes	609	3200	98.9	99.7	0.0
+7	TR	A8K9P0	Albumin OS=Homo sapiens OX=9606 PE=2 SV=1	Homo sapiens	608	3200	99.7	99.7	0.0
+8	TR	Q56G89	Albumin OS=Homo sapiens OX=9606 PE=2 SV=1	Homo sapiens	609	3190	99.2	99.2	0.0
+9	TR	A0ACI8PTL4	Albumin OS=Homo sapiens OX=9606 GN=ALB PE=4 SV=1	Homo sapiens	630	3189	96.5	96.5	0.0
+10	SP	Q5NVH5	Albumin OS=Pongo abelii OX=9601 GN=ALB PE=2 SV=2	Pongo abelii	609	3185	98.5	99.2	0.0
+11	TR	B4DPP6	Albumin OS=Homo sapiens OX=9606 PE=2 SV=1	Homo sapiens	618	3180	98.1	98.1	0.0
+12	TR	A0ACI8R7Q0	Albumin OS=Homo sapiens OX=9606 GN=ALB PE=4 SV=1	Homo sapiens	601	3163	98.7	98.7	0.0
+13	TR	A0A0C4DGB6	Albumin OS=Homo sapiens OX=9606 GN=ALB PE=1 SV=1	Homo sapiens	604	3162	100.0	100.0	0.0
+14	TR	A0A2I3H4J6	Albumin OS=Nomascus leucogenys OX=61853 GN=ALB PE=4 SV=1	Nomascus leucogenys	609	3158	97.2	98.7	0.0
+15	TR	A0ACI8S6P5	Albumin OS=Homo sapiens OX=9606 GN=ALB PE=4 SV=1	Homo sapiens	599	3152	98.4	98.4	0.0
+16	TR	G3RE98	Albumin OS=Gorilla gorilla gorilla OX=9595 GN=ALB PE=4 SV=2	Gorilla gorilla gorilla	604	3139	99.0	99.3	0.0
+17	TR	A0A2R9CPV2	Albumin OS=Pan paniscus OX=9597 PE=4 SV=1	Pan paniscus	604	3137	98.8	99.7	0.0
+18	TR	A0A2I3RJI3	Albumin OS=Pan troglodytes OX=9598 GN=ALB PE=4 SV=1	Pan troglodytes	604	3137	98.8	99.7	0.0
+19	TR	A0ACI8Q4V7	Albumin OS=Homo sapiens OX=9606 GN=ALB PE=4 SV=1	Homo sapiens	594	3127	97.5	97.5	0.0
+20	TR	A0A2J8UTX5	Albumin OS=Pongo abelii OX=9601 GN=ALB PE=4 SV=1	Pongo abelii	604	3122	98.5	99.2	0.0
+21	TR	A0ACI8PTI6	Albumin OS=Homo sapiens OX=9606 GN=ALB PE=4 SV=1	Homo sapiens	600	3104	97.2	97.4	0.0
+22	TR	A0ACI8RZF8	Albumin OS=Homo sapiens OX=9606 GN=ALB PE=4 SV=1	Homo sapiens	590	3100	96.9	96.9	0.0
+23	TR	G1R8T8	Albumin OS=Nomascus leucogenys OX=61853 GN=ALB PE=4 SV=2	Nomascus leucogenys	604	3095	97.1	98.7	0.0
+24	TR	F6KPG5	Albumin (Fragment) OS=Homo sapiens OX=9606 PE=2 SV=1	Homo sapiens	585	3094	99.8	99.8	0.0
+25	TR	A0A2I2Z0F7	Albumin OS=Gorilla gorilla gorilla OX=9595 GN=ALB PE=4 SV=1	Gorilla gorilla gorilla	597	3090	96.4	96.7	0.0
+26	TR	A0ACI8QI41	Albumin OS=Homo sapiens OX=9606 GN=ALB PE=4 SV=1	Homo sapiens	596	3089	97.0	97.4	0.0
+27	TR	A0ACI8PTI3	Albumin OS=Homo sapiens OX=9606 GN=ALB PE=4 SV=1	Homo sapiens	589	3085	96.7	96.7	0.0
+28	TR	A0ACI8S0E5	Albumin OS=Homo sapiens OX=9606 GN=ALB PE=4 SV=1	Homo sapiens	588	3084	96.6	96.6	0.0
+29	TR	A0A2I3RFK4	Albumin OS=Pan troglodytes OX=9598 GN=ALB PE=4 SV=1	Pan troglodytes	597	3081	95.9	96.9	0.0
+30	TR	F7HCH0	Albumin OS=Macaca mulatta OX=9544 GN=ALB PE=4 SV=2	Macaca mulatta	608	3064	93.7	97.5	0.0
+31	SP	A2V9Z4	Albumin OS=Macaca fascicularis OX=9541 GN=ALB PE=2 SV=1	Macaca fascicularis	608	3064	93.7	97.5	0.0
+32	TR	A0A2K5TS45	Albumin OS=Macaca fascicularis OX=9541 PE=4 SV=2	Macaca fascicularis	608	3061	93.6	97.5	0.0
+33	TR	A0ACF8J286	Uncharacterized protein OS=Pygathrix nigripes OX=310352 GN=H8959_002075 PE=4 SV=1	Pygathrix nigripes	608	3058	93.4	97.5	0.0
+34	TR	A0A2K6E6L1	Albumin OS=Macaca nemestrina OX=9545 PE=4 SV=1	Macaca nemestrina	608	3057	93.4	97.4	0.0
+35	TR	A0A096MVE5	Albumin OS=Papio anubis OX=9555 PE=4 SV=3	Papio anubis	608	3054	93.2	97.5	0.0
+36	TR	A0A2K5MVS7	Albumin OS=Cercocebus atys OX=9531 PE=4 SV=1	Cercocebus atys	608	3052	93.2	97.5	0.0
+37	TR	A0ACI8RCV5	Albumin OS=Homo sapiens OX=9606 GN=ALB PE=4 SV=1	Homo sapiens	582	3050	95.6	95.6	0.0
+38	TR	A0ACI8PZD8	Albumin OS=Homo sapiens OX=9606 GN=ALB PE=4 SV=1	Homo sapiens	583	3049	95.6	95.7	0.0
+39	TR	A0A8C9LLV6	Albumin OS=Piliocolobus tephrosceles OX=591936 GN=ALB PE=4 SV=1	Piliocolobus tephrosceles	608	3041	92.8	97.2	0.0
+40	TR	A0ACF8IWA3	Uncharacterized protein OS=Semnopithecus entellus OX=88029 GN=H8957_007354 PE=4 SV=1	Semnopithecus entellus	608	3040	92.9	96.9	0.0
+41	TR	A0ACF8PXD3	Uncharacterized protein OS=Nasalis larvatus OX=43780 GN=H8958_000586 PE=4 SV=1	Nasalis larvatus	608	3035	92.9	96.5	0.0
+42	TR	A0A2I3HTD4	Albumin OS=Nomascus leucogenys OX=61853 GN=ALB PE=4 SV=1	Nomascus leucogenys	605	3031	94.3	96.1	0.0
+43	TR	A0A2K5DPG3	Albumin OS=Aotus nancymaae OX=37293 PE=4 SV=1	Aotus nancymaae	608	3020	91.6	96.9	0.0
+44	SP	Q28522	Albumin (Fragment) OS=Macaca mulatta OX=9544 GN=ALB PE=2 SV=1	Macaca mulatta	600	3020	93.7	97.5	0.0
+45	TR	G7P5L7	Albumin OS=Macaca fascicularis OX=9541 PE=4 SV=2	Macaca fascicularis	604	3018	93.8	97.8	0.0
+46	TR	A0A8D2FEU5	Albumin OS=Theropithecus gelada OX=9565 PE=4 SV=1	Theropithecus gelada	604	3017	93.8	97.8	0.0
+47	TR	A0A2K6E6L0	Albumin OS=Macaca nemestrina OX=9545 PE=4 SV=1	Macaca nemestrina	604	3014	93.6	97.6	0.0
+48	TR	A0A2I3LVU7	Albumin OS=Papio anubis OX=9555 PE=4 SV=2	Papio anubis	604	3011	93.4	97.8	0.0
+49	TR	A0A2K5IRP6	Albumin OS=Colobus angolensis palliatus OX=336983 PE=4 SV=1	Colobus angolensis palliatus	604	3009	93.6	97.6	0.0
+50	TR	A0A2K6A6R3	Albumin OS=Mandrillus leucophaeus OX=9568 PE=4 SV=1	Mandrillus leucophaeus	604	3009	93.4	97.8	0.0
+51	TR	A0A2K5MVX4	Albumin OS=Cercocebus atys OX=9531 PE=4 SV=1	Cercocebus atys	604	3009	93.4	97.8	0.0
+52	TR	A0A2K6PQM6	Albumin OS=Rhinopithecus roxellana OX=61622 GN=ALB PE=4 SV=1	Rhinopithecus roxellana	604	2998	93.1	97.3	0.0
+53	TR	A0A2K5DPK0	Albumin OS=Aotus nancymaae OX=37293 PE=4 SV=1	Aotus nancymaae	604	2973	91.6	97.0	0.0
+54	TR	A0A2K6TMC5	Albumin OS=Saimiri boliviensis boliviensis OX=39432 PE=4 SV=1	Saimiri boliviensis boliviensis	608	2954	89.5	96.0	0.0
+55	TR	F7CSG0	Albumin OS=Callithrix jacchus OX=9483 GN=ALB PE=4 SV=2	Callithrix jacchus	608	2952	89.1	95.6	0.0
+56	TR	A0A6J3GGD4	Albumin OS=Sapajus apella OX=9515 GN=ALB PE=4 SV=1	Sapajus apella	608	2939	88.8	96.0	0.0
+57	TR	A0A2K6A6R8	Albumin OS=Mandrillus leucophaeus OX=9568 PE=4 SV=1	Mandrillus leucophaeus	588	2917	92.9	97.6	0.0
+58	TR	A0A2R8MJI3	Albumin OS=Callithrix jacchus OX=9483 GN=ALB PE=4 SV=1	Callithrix jacchus	604	2912	89.4	95.8	0.0
+59	TR	A0A2K5QA72	Albumin OS=Cebus imitator OX=2715852 GN=ALB PE=4 SV=1	Cebus imitator	600	2904	89.4	96.3	0.0
+60	TR	A0ACI8PTK6	Albumin OS=Homo sapiens OX=9606 GN=ALB PE=4 SV=1	Homo sapiens	585	2882	91.8	92.3	0.0
+61	TR	H0X1I5	Albumin OS=Otolemur garnettii OX=30611 GN=ALB PE=4 SV=1	Otolemur garnettii	608	2826	86.3	92.8	0.0
+62	TR	A0A2K6MJ29	Albumin OS=Rhinopithecus bieti OX=61621 PE=4 SV=1	Rhinopithecus bieti	577	2735	86.0	90.5	0.0
+63	SP	P49064	Albumin OS=Felis catus OX=9685 GN=ALB PE=1 SV=1	Felis catus	608	2728	82.4	90.9	0.0
+64	TR	A0A3Q0DSV4	Albumin OS=Carlito syrichta OX=1868482 GN=ALB PE=4 SV=1	Carlito syrichta	613	2715	83.0	92.3	0.0
+65	TR	A0A485NYL5	Albumin OS=Lynx pardinus OX=191816 GN=LYPA_23C009076 PE=4 SV=1	Lynx pardinus	608	2715	81.9	90.8	0.0
+66	TR	A0A667GZT5	Albumin OS=Lynx canadensis OX=61383 GN=ALB PE=4 SV=1	Lynx canadensis	608	2715	81.9	90.8	0.0
+67	TR	A0A6P6HQ00	Albumin OS=Puma concolor OX=9696 GN=ALB PE=4 SV=1	Puma concolor	608	2711	82.0	90.4	0.0
+68	TR	A0A8C9L0G4	Albumin OS=Panthera tigris altaica OX=74533 PE=4 SV=1	Panthera tigris altaica	608	2708	81.5	90.6	0.0
+69	TR	A0A9V1GJY1	Albumin OS=Panthera pardus OX=9691 GN=ALB PE=4 SV=1	Panthera pardus	608	2704	81.5	90.6	0.0
+70	TR	A0A6J0A2J9	Albumin OS=Acinonyx jubatus OX=32536 GN=ALB PE=4 SV=1	Acinonyx jubatus	608	2703	81.7	90.3	0.0
+71	TR	A0A8C5V9V8	Albumin OS=Microcebus murinus OX=30608 GN=ALB PE=4 SV=1	Microcebus murinus	604	2699	82.7	91.4	0.0
+72	TR	A0A2K6MIX5	Albumin OS=Rhinopithecus bieti OX=61621 PE=4 SV=1	Rhinopithecus bieti	573	2692	86.1	90.6	0.0
+73	TR	A0A811Y094	Albumin OS=Nyctereutes procyonoides OX=34880 GN=NYPRO_LOCUS1840 PE=4 SV=1	Nyctereutes procyonoides	608	2692	80.9	89.8	0.0
+74	TR	A0A3Q7R3P8	Albumin OS=Vulpes vulpes OX=9627 GN=ALB PE=4 SV=2	Vulpes vulpes	608	2687	80.7	89.5	0.0
+75	TR	A0A671G3Z4	Albumin OS=Rhinolophus ferrumequinum OX=59479 GN=ALB PE=4 SV=1	Rhinolophus ferrumequinum	608	2680	80.4	90.4	0.0
+76	TR	A0A384C9B0	Albumin OS=Ursus maritimus OX=29073 GN=ALB PE=4 SV=1	Ursus maritimus	608	2679	80.6	89.8	0.0
+77	TR	F7HCH2	Albumin OS=Macaca mulatta OX=9544 GN=ALB PE=4 SV=3	Macaca mulatta	593	2678	89.7	93.4	0.0
+78	SP	P49822	Albumin OS=Canis lupus familiaris OX=9615 GN=ALB PE=1 SV=3	Canis lupus familiaris	608	2676	80.4	89.6	0.0
+79	TR	A0A667G9T6	Albumin OS=Lynx canadensis OX=61383 GN=ALB PE=4 SV=1	Lynx canadensis	605	2675	82.0	90.9	0.0
+80	TR	A0ABM0QQN7	Albumin OS=Galeopterus variegatus OX=482537 GN=ALB PE=4 SV=1	Galeopterus variegatus	608	2668	79.2	90.8	0.0
+81	TR	A0A2Y9I240	Albumin OS=Neomonachus schauinslandi OX=29088 GN=ALB PE=4 SV=1	Neomonachus schauinslandi	608	2667	79.4	89.5	0.0
+82	TR	A0A673SV09	Albumin OS=Suricata suricatta OX=37032 GN=ALB PE=4 SV=1	Suricata suricatta	605	2665	81.3	89.7	0.0
+83	TR	G1LEJ5	Albumin OS=Ailuropoda melanoleuca OX=9646 GN=ALB PE=4 SV=2	Ailuropoda melanoleuca	608	2663	79.7	89.5	0.0
+84	TR	A0A3Q7Q8L5	Albumin OS=Callorhinus ursinus OX=34884 GN=ALB PE=4 SV=1	Callorhinus ursinus	608	2661	79.4	89.1	0.0
+85	TR	A0A9X9Q3V0	Albumin OS=Gulo gulo OX=48420 GN=BN2614_LOCUS2 PE=4 SV=1	Gulo gulo	608	2659	79.9	89.6	0.0
+86	TR	M3YD14	Albumin OS=Mustela putorius furo OX=9669 GN=ALB PE=4 SV=1	Mustela putorius furo	608	2657	80.1	89.5	0.0
+87	TR	A0A671FUU9	Albumin OS=Rhinolophus ferrumequinum OX=59479 GN=ALB PE=4 SV=1	Rhinolophus ferrumequinum	620	2657	78.8	88.7	0.0
+88	TR	A0A6J2DJK1	Albumin OS=Zalophus californianus OX=9704 GN=ALB PE=4 SV=1	Zalophus californianus	608	2653	79.2	88.8	0.0
+89	TR	A0A2U3XEF9	Albumin OS=Leptonychotes weddellii OX=9713 GN=ALB PE=4 SV=1	Leptonychotes weddellii	608	2653	79.1	89.0	0.0
+90	TR	A0A667FQY8	Albumin OS=Lynx canadensis OX=61383 GN=ALB PE=4 SV=1	Lynx canadensis	618	2651	79.6	89.4	0.0
+91	TR	A0A2U3VEQ8	Albumin OS=Odobenus rosmarus divergens OX=9708 GN=ALB PE=4 SV=1	Odobenus rosmarus divergens	608	2649	79.1	89.1	0.0
+92	TR	A0A673SN32	Albumin OS=Suricata suricatta OX=37032 GN=ALB PE=4 SV=1	Suricata suricatta	608	2648	81.1	89.7	0.0
+93	TR	A0A7J8JPQ5	Albumin OS=Molossus molossus OX=27622 GN=HJG59_000573 PE=4 SV=1	Molossus molossus	608	2644	78.6	88.6	0.0
+94	TR	A0A8C7BD35	Albumin OS=Neogale vison OX=452646 GN=ALB PE=4 SV=1	Neogale vison	609	2641	79.6	89.0	0.0
+95	TR	A0A671FUZ0	Albumin OS=Rhinolophus ferrumequinum OX=59479 GN=ALB PE=4 SV=1	Rhinolophus ferrumequinum	599	2636	80.3	90.4	0.0
+96	TR	A0A341C5T8	Albumin OS=Neophocaena asiaeorientalis asiaeorientalis OX=1706337 GN=ALB PE=4 SV=1	Neophocaena asiaeorientalis asiaeorientalis	607	2635	79.4	89.6	0.0
+97	TR	F6WIM0	Albumin OS=Macaca mulatta OX=9544 GN=ALB PE=4 SV=3	Macaca mulatta	589	2635	89.8	93.6	0.0
+98	TR	A0A8C9DZV4	Albumin OS=Phocoena sinus OX=42100 GN=ALB PE=4 SV=1	Phocoena sinus	641	2634	79.4	89.6	0.0
+99	TR	A0AB34H806	Albumin OS=Eschrichtius robustus OX=9764 GN=J1605_023352 PE=4 SV=1	Eschrichtius robustus	607	2630	79.4	89.3	0.0
+100	TR	A0A8B8XLP1	Albumin OS=Balaenoptera musculus OX=9771 GN=ALB PE=4 SV=1	Balaenoptera musculus	607	2625	79.2	89.3	0.0
+101	TR	A0A2Y9JLE8	Albumin OS=Enhydra lutris kenyoni OX=391180 GN=LOC111148905 PE=4 SV=1	Enhydra lutris kenyoni	608	2624	78.9	88.8	0.0
+102	TR	A0A8C8ZVP6	Albumin OS=Prolemur simus OX=1328070 GN=ALB PE=4 SV=1	Prolemur simus	603	2621	79.4	89.1	0.0
+103	TR	A0A383ZXR0	Albumin OS=Balaenoptera acutorostrata OX=9767 GN=ALB PE=4 SV=1	Balaenoptera acutorostrata	607	2620	79.1	89.3	0.0
+104	TR	A0A2Y9QJ69	Albumin OS=Delphinapterus leucas OX=9749 GN=ALB PE=4 SV=1	Delphinapterus leucas	607	2618	78.7	89.3	0.0
+105	TR	A0A384C9D9	Albumin OS=Ursus maritimus OX=29073 GN=ALB PE=4 SV=1	Ursus maritimus	608	2618	80.1	89.4	0.0
+106	TR	A0A2U3V5M2	Albumin OS=Tursiops truncatus OX=9739 GN=ALB PE=4 SV=2	Tursiops truncatus	607	2616	78.9	89.1	0.0
+107	TR	A0AA40LW65	Albumin OS=Cnephaeus nilssonii OX=3371016 GN=QTO34_008307 PE=4 SV=1	Cnephaeus nilssonii	608	2615	78.6	88.6	0.0
+108	TR	A0A8C6FCK8	Albumin OS=Monodon monoceros OX=40151 GN=ALB PE=4 SV=1	Monodon monoceros	607	2611	78.6	89.1	0.0
+109	TR	A0A8C9BHA2	Albumin OS=Phocoena sinus OX=42100 GN=ALB PE=4 SV=1	Phocoena sinus	605	2608	80.2	89.9	0.0
+110	TR	A0AAU9ZUC0	Albumin OS=Phodopus roborovskii OX=109678 GN=Alb PE=4 SV=1	Phodopus roborovskii	608	2607	77.1	89.0	0.0
+111	TR	A0A340Y7Z8	Albumin OS=Lipotes vexillifer OX=118797 GN=ALB PE=4 SV=1	Lipotes vexillifer	607	2607	78.4	88.8	0.0
+112	TR	A0A2Y9S5I3	Albumin OS=Physeter macrocephalus OX=9755 GN=ALB PE=4 SV=1	Physeter macrocephalus	607	2606	78.7	88.6	0.0
+113	TR	A0A8B7T8C0	Albumin OS=Hipposideros armiger OX=186990 GN=ALB PE=4 SV=1	Hipposideros armiger	608	2605	77.6	88.0	0.0
+114	TR	A0AC58JZM1	Albumin OS=Castor canadensis OX=51338 GN=LOC109678590 PE=4 SV=1	Castor canadensis	608	2602	76.1	88.6	0.0
+115	SP	Q5XLE4	Albumin OS=Equus asinus OX=9793 GN=ALB PE=1 SV=1	Equus asinus	607	2601	77.1	88.8	0.0
+116	TR	A0A8C7BM47	Albumin OS=Neogale vison OX=452646 GN=ALB PE=4 SV=1	Neogale vison	604	2597	79.5	88.9	0.0
+117	TR	A0A1U7Q2I1	Albumin OS=Mesocricetus auratus OX=10036 GN=Alb PE=4 SV=1	Mesocricetus auratus	608	2596	76.1	89.8	0.0
+118	TR	A0ABU6F0B7	Albumin (Fragment) OS=Streptomyces endophyticus OX=714166 GN=OKJ99_07885 PE=4 SV=1	Streptomyces endophyticus	614	2596	76.1	89.8	0.0
+119	TR	A0A3Q2H333	Albumin OS=Equus caballus OX=9796 GN=ALB PE=1 SV=3	Equus caballus	637	2596	77.1	88.8	0.0
+120	TR	A0ABM2EX64	Albumin OS=Equus przewalskii OX=9798 GN=ALB PE=4 SV=1	Equus przewalskii	607	2596	77.1	88.8	0.0
+121	TR	Q95VB7	Albumin OS=Schistosoma mansoni OX=6183 PE=2 SV=1	Schistosoma mansoni	608	2596	76.1	89.8	0.0
+122	SP	A6YF56	Albumin OS=Mesocricetus auratus OX=10036 GN=ALB PE=1 SV=1	Mesocricetus auratus	608	2596	76.1	89.8	0.0
+123	TR	A0AC58JZL9	Albumin OS=Castor canadensis OX=51338 GN=LOC109680286 PE=4 SV=1	Castor canadensis	608	2592	76.6	88.8	0.0
+124	TR	A0A7J8AIM6	Albumin OS=Myotis myotis OX=51298 GN=mMyoMyo1_000565 PE=4 SV=1	Myotis myotis	608	2591	77.3	88.3	0.0
+125	SP	P35747	Albumin OS=Equus caballus OX=9796 GN=ALB PE=1 SV=1	Equus caballus	607	2589	76.9	88.5	0.0
+126	TR	A0A8C6C7Q1	Albumin OS=Monodon monoceros OX=40151 GN=ALB PE=4 SV=1	Monodon monoceros	605	2585	79.3	89.4	0.0
+127	TR	G1U9S2	Albumin OS=Oryctolagus cuniculus OX=9986 GN=ALB PE=1 SV=1	Oryctolagus cuniculus	608	2584	75.3	88.5	0.0
+128	SP	P49065	Albumin OS=Oryctolagus cuniculus OX=9986 GN=ALB PE=1 SV=2	Oryctolagus cuniculus	608	2579	75.3	88.2	0.0
+129	TR	A0A6I9LWC9	Albumin OS=Peromyscus maniculatus bairdii OX=230844 GN=Alb PE=4 SV=1	Peromyscus maniculatus bairdii	608	2578	75.9	88.1	0.0
+130	TR	A0A8C8ZJ63	Albumin OS=Prolemur simus OX=1328070 GN=ALB PE=4 SV=1	Prolemur simus	612	2574	79.2	89.1	0.0
+131	TR	G1P2E8	Albumin OS=Myotis lucifugus OX=59463 GN=ALB PE=4 SV=1	Myotis lucifugus	608	2573	76.9	87.3	0.0
+132	TR	A0A6P3Q8N8	Albumin OS=Pteropus vampyrus OX=132908 GN=ALB PE=4 SV=1	Pteropus vampyrus	608	2573	74.5	87.8	0.0
+133	TR	A0A6P5BYS0	Albumin OS=Bos indicus OX=9915 GN=ALB PE=4 SV=2	Bos indicus	607	2570	76.8	88.5	0.0
+134	TR	A0A6P3FUI6	Albumin OS=Octodon degus OX=10160 GN=Alb PE=4 SV=1	Octodon degus	608	2565	75.1	88.8	0.0
+135	TR	A0ABM0L5S7	Albumin OS=Microtus ochrogaster OX=79684 GN=Alb PE=4 SV=1	Microtus ochrogaster	608	2565	75.9	87.6	0.0
+136	SP	P02769	Albumin OS=Bos taurus OX=9913 GN=ALB PE=1 SV=4	Bos taurus	607	2565	76.6	88.3	0.0
+137	TR	A0ABN9Z8Q8	Albumin OS=Pipistrellus nathusii OX=59473 GN=MPIPNATIZW_LOCUS1395 PE=4 SV=1	Pipistrellus nathusii	608	2563	77.1	87.3	0.0
+138	TR	A0A140T897	Albumin OS=Bos taurus OX=9913 GN=ALB PE=4 SV=1	Bos taurus	607	2561	76.4	88.1	0.0
+139	TR	A0ACI8RV46	Albumin OS=Homo sapiens OX=9606 GN=ALB PE=4 SV=1	Homo sapiens	530	2561	83.4	84.1	0.0
+140	TR	L5K939	Albumin OS=Pteropus alecto OX=9402 GN=PAL_GLEAN10004316 PE=4 SV=1	Pteropus alecto	597	2560	76.1	88.6	0.0
+141	TR	A0ABM0H4A0	Albumin OS=Ceratotherium simum simum OX=73337 GN=LOC101392314 PE=4 SV=1	Ceratotherium simum simum	607	2560	76.9	87.6	0.0
+142	TR	A0A8M1FLE0	Albumin OS=Ursus maritimus OX=29073 GN=ALB PE=4 SV=1	Ursus maritimus	588	2559	80.2	89.7	0.0
+143	TR	A0A6P3HBK1	Albumin OS=Bison bison bison OX=43346 GN=ALB PE=4 SV=1	Bison bison bison	607	2559	76.4	88.0	0.0
+144	TR	Q5EG48	Albumin OS=Alexandromys fortis calamorum OX=3241090 PE=2 SV=1	Alexandromys fortis calamorum	608	2556	75.9	87.3	0.0
+145	TR	A0A8C5K0T6	Albumin OS=Jaculus jaculus OX=51337 GN=Alb PE=4 SV=1	Jaculus jaculus	608	2554	75.1	88.5	0.0
+146	TR	A0A1S2ZRW6	Albumin OS=Erinaceus europaeus OX=9365 GN=ALB PE=4 SV=1	Erinaceus europaeus	608	2554	75.5	87.3	0.0
+147	TR	A0A8C6QPG5	Albumin OS=Nannospalax galili OX=1026970 GN=Alb PE=4 SV=1	Nannospalax galili	609	2552	76.5	87.5	0.0
+148	TR	B0JYQ0	Albumin OS=Bos taurus OX=9913 GN=ALB PE=2 SV=1	Bos taurus	607	2552	76.4	88.0	0.0
+149	TR	A0A452F7K4	Albumin OS=Capra hircus OX=9925 GN=ALB PE=1 SV=1	Capra hircus	607	2550	75.6	88.1	0.0
+150	TR	A0A9L0J2Z1	Albumin OS=Equus asinus OX=9793 GN=ALB PE=4 SV=1	Equus asinus	598	2549	76.8	88.6	0.0
+151	TR	Q5EG49	Albumin OS=Alexandromys fortis fortis OX=3241091 PE=2 SV=1	Alexandromys fortis fortis	608	2547	75.6	87.1	0.0
+152	TR	A0A452QRR5	Albumin OS=Ursus americanus OX=9643 GN=ALB PE=4 SV=1	Ursus americanus	605	2547	77.0	85.6	0.0
+153	TR	A0A5F9CE05	Albumin OS=Oryctolagus cuniculus OX=9986 GN=ALB PE=4 SV=1	Oryctolagus cuniculus	604	2547	75.6	88.7	0.0
+154	SP	P14639	Albumin OS=Ovis aries OX=9940 GN=ALB PE=1 SV=1	Ovis aries	607	2547	75.8	87.8	0.0
+155	TR	A0A6J0WT46	Albumin OS=Odocoileus virginianus OX=9874 GN=ALB PE=4 SV=2	Odocoileus virginianus	607	2546	75.9	88.3	0.0
+156	TR	A0ACI6RIR3	Albumin OS=Ovis aries OX=9940 GN=ALB PE=4 SV=1	Ovis aries	607	2546	75.8	87.8	0.0
+157	TR	A0A2U4B5B1	Albumin OS=Tursiops truncatus OX=9739 GN=ALB PE=4 SV=2	Tursiops truncatus	596	2546	78.6	88.9	0.0
+158	TR	A0ACI8R7S3	Albumin OS=Homo sapiens OX=9606 GN=ALB PE=4 SV=1	Homo sapiens	524	2546	94.2	95.3	0.0
+159	TR	A0A9W3F988	Albumin OS=Camelus bactrianus OX=9837 GN=ALB PE=4 SV=1	Camelus bactrianus	607	2545	76.1	87.3	0.0
+160	TR	A0A8B6YJ85	Albumin OS=Camelus ferus OX=419612 GN=ALB PE=4 SV=1	Camelus ferus	607	2545	76.1	87.3	0.0
+161	TR	A0A2Y9FLM7	Albumin OS=Physeter macrocephalus OX=9755 GN=ALB PE=4 SV=1	Physeter macrocephalus	596	2544	78.6	88.5	0.0
+162	TR	A0ABN8ZDW5	Albumin OS=Rangifer tarandus platyrhynchus OX=3082113 GN=MRATA1EN1_LOCUS21064 PE=4 SV=1	Rangifer tarandus platyrhynchus	607	2542	75.5	88.0	0.0
+163	TR	A0A9L0K0B1	Albumin OS=Equus asinus OX=9793 GN=ALB PE=4 SV=1	Equus asinus	611	2541	77.1	88.7	0.0
+164	TR	A0A9L0IRU5	Albumin OS=Equus asinus OX=9793 GN=ALB PE=4 SV=1	Equus asinus	596	2541	77.1	88.7	0.0
+165	TR	A0A3Q2H477	Albumin OS=Equus caballus OX=9796 GN=ALB PE=1 SV=2	Equus caballus	600	2539	77.0	88.6	0.0
+166	TR	A0A9L0JCI2	Albumin OS=Equus asinus OX=9793 GN=ALB PE=4 SV=1	Equus asinus	598	2538	76.9	88.7	0.0
+167	TR	A0A8C4PRE0	Albumin OS=Equus asinus OX=9793 GN=ALB PE=4 SV=2	Equus asinus	620	2538	76.9	88.7	0.0
+168	TR	A0A9L0J259	Albumin OS=Equus asinus OX=9793 GN=ALB PE=4 SV=1	Equus asinus	617	2538	76.9	88.7	0.0
+169	TR	A0A4W2EVR9	Albumin OS=Bos indicus x Bos taurus OX=30522 GN=ALB PE=4 SV=1	Bos indicus x Bos taurus	608	2538	76.6	88.3	0.0
+170	TR	A0ACI8PTG7	Albumin OS=Homo sapiens OX=9606 GN=ALB PE=4 SV=1	Homo sapiens	490	2538	100.0	100.0	0.0
+171	TR	A0A1S3FHD6	Albumin OS=Dipodomys ordii OX=10020 GN=LOC105988594 PE=4 SV=1	Dipodomys ordii	608	2537	75.5	87.0	0.0
+172	TR	A0A9L0JJB6	Albumin OS=Equus asinus OX=9793 GN=ALB PE=4 SV=1	Equus asinus	599	2537	77.1	88.7	0.0
+173	TR	A0A452F7Y5	Albumin OS=Capra hircus OX=9925 GN=ALB PE=4 SV=1	Capra hircus	608	2537	75.0	87.3	0.0
+174	TR	A0A9B0WYD1	Albumin OS=Chrysochloris asiatica OX=185453 GN=ALB PE=4 SV=1	Chrysochloris asiatica	608	2535	75.1	87.5	0.0
+175	TR	F7BAY6	Albumin OS=Equus caballus OX=9796 GN=ALB PE=1 SV=3	Equus caballus	598	2534	76.8	88.6	0.0
+176	TR	A0A9L0S4R9	Albumin OS=Equus caballus OX=9796 PE=1 SV=1	Equus caballus	596	2533	76.9	88.6	0.0
+177	TR	A0A3Q2HN20	Albumin OS=Equus caballus OX=9796 GN=ALB PE=1 SV=3	Equus caballus	603	2533	76.9	88.6	0.0
+178	TR	A0A287AMK0	Albumin OS=Sus scrofa OX=9823 GN=ALB PE=1 SV=2	Sus scrofa	607	2532	77.0	88.2	0.0
+179	TR	A0A286ZT13	Albumin OS=Sus scrofa OX=9823 GN=ALB PE=1 SV=2	Sus scrofa	608	2532	77.0	88.2	0.0
+180	TR	A0A9L0TQ53	Albumin OS=Equus caballus OX=9796 PE=1 SV=1	Equus caballus	620	2530	76.8	88.6	0.0
+181	TR	A0A3Q2I2E9	Albumin OS=Equus caballus OX=9796 GN=ALB PE=1 SV=2	Equus caballus	644	2530	76.8	88.6	0.0
+182	TR	A0A9L0RNC6	Albumin OS=Equus caballus OX=9796 PE=1 SV=1	Equus caballus	598	2530	76.8	88.6	0.0
+183	TR	A0A0G2JSH5	Albumin OS=Rattus norvegicus OX=10116 GN=Alb PE=1 SV=2	Rattus norvegicus	622	2529	73.6	87.6	0.0
+184	TR	A0A9L0RKM1	Albumin OS=Equus caballus OX=9796 PE=1 SV=1	Equus caballus	599	2529	76.9	88.5	0.0
+185	TR	A0A4W2EW60	Albumin OS=Bos indicus x Bos taurus OX=30522 GN=ALB PE=4 SV=1	Bos indicus x Bos taurus	646	2528	76.8	88.4	0.0
+186	TR	A0A6J2L4J1	Albumin OS=Phyllostomus discolor OX=89673 GN=ALB PE=4 SV=1	Phyllostomus discolor	608	2527	75.8	88.0	0.0
+187	TR	A0A2S1M4Y6	Albumin OS=Cervus nippon OX=9863 PE=2 SV=1	Cervus nippon	607	2527	75.6	87.3	0.0
+188	SP	P02770	Albumin OS=Rattus norvegicus OX=10116 GN=Alb PE=1 SV=2	Rattus norvegicus	608	2525	73.5	87.6	0.0
+189	SP	P08835	Albumin OS=Sus scrofa OX=9823 GN=ALB PE=1 SV=2	Sus scrofa	607	2525	76.8	88.0	0.0
+190	TR	A0ACF6H5D0	Serum albumin OS=Sigmodon hispidus OX=42415 GN=HispidOSU_018531 PE=4 SV=1	Sigmodon hispidus	1229	2524	74.7	86.6	0.0
+191	TR	A0A6I9IHM8	Albumin OS=Vicugna pacos OX=30538 GN=ALB PE=4 SV=1	Vicugna pacos	607	2524	75.6	87.3	0.0
+192	TR	A0A6B0S215	Albumin OS=Bos mutus OX=72004 GN=E5288_WYG019244 PE=4 SV=1	Bos mutus	2106	2524	76.6	88.2	0.0
+193	TR	S7PWY9	Albumin OS=Myotis brandtii OX=109478 GN=D623_10008572 PE=4 SV=1	Myotis brandtii	1114	2522	77.0	87.4	0.0
+194	TR	A2THZ2	Albumin (Fragment) OS=Sus scrofa domesticus OX=9825 PE=2 SV=1	Sus scrofa domesticus	607	2521	76.7	88.0	0.0
+195	TR	A0A6G1BCZ4	Albumin (Fragment) OS=Crocuta crocuta OX=9678 GN=Alb_0 PE=4 SV=1	Crocuta crocuta	562	2520	84.0	91.4	0.0
+196	TR	A0A8W4FAX8	Albumin OS=Sus scrofa OX=9823 GN=ALB PE=1 SV=1	Sus scrofa	603	2518	77.1	88.4	0.0
+197	TR	A0A5N4EFP0	Albumin OS=Camelus dromedarius OX=9838 GN=Cadr_000001877 PE=4 SV=1	Camelus dromedarius	618	2516	76.5	87.6	0.0
+198	TR	A0A8C3YPG2	Albumin OS=Catagonus wagneri OX=51154 GN=ALB PE=4 SV=1	Catagonus wagneri	608	2509	74.8	87.3	0.0
+199	TR	A0A452QRW5	Albumin OS=Ursus americanus OX=9643 GN=ALB PE=4 SV=1	Ursus americanus	609	2507	77.0	85.6	0.0
+200	TR	H0V004	Albumin OS=Cavia porcellus OX=10141 GN=ALB PE=4 SV=1	Cavia porcellus	608	2505	73.1	87.5	0.0
+201	TR	Q6WDN9	Albumin OS=Cavia porcellus OX=10141 PE=2 SV=1	Cavia porcellus	608	2505	73.1	87.5	0.0
+202	TR	A0A212D5P0	Albumin OS=Cervus elaphus hippelaphus OX=46360 GN=Celaphus_00017423 PE=4 SV=1	Cervus elaphus hippelaphus	605	2503	75.8	87.9	0.0
+203	TR	A0A4W2D8T3	Albumin OS=Bos indicus x Bos taurus OX=30522 GN=ALB PE=4 SV=1	Bos indicus x Bos taurus	655	2501	75.2	87.3	0.0
+204	TR	A0A4W2DDL5	Albumin OS=Bos indicus x Bos taurus OX=30522 GN=ALB PE=4 SV=1	Bos indicus x Bos taurus	598	2499	76.1	88.0	0.0
+205	TR	G3SMX8	Albumin OS=Loxodonta africana OX=9785 GN=ALB PE=4 SV=1	Loxodonta africana	609	2498	74.5	85.7	0.0
+206	TR	A0A8B9Y843	Albumin OS=Bos grunniens OX=30521 GN=ALB PE=4 SV=1	Bos grunniens	655	2497	75.0	87.1	0.0
+207	TR	A0A9J7KCD7	Albumin OS=Cricetulus griseus OX=10029 GN=Alb PE=4 SV=1	Cricetulus griseus	586	2495	76.9	89.8	0.0
+208	TR	A0A8B9YAE3	Albumin OS=Bos grunniens OX=30521 GN=ALB PE=4 SV=1	Bos grunniens	616	2495	75.9	87.9	0.0
+209	TR	A0A6I9MG68	Albumin OS=Peromyscus maniculatus bairdii OX=230844 GN=LOC102916574 PE=4 SV=1	Peromyscus maniculatus bairdii	608	2493	73.6	85.5	0.0
+210	TR	A0A2K6PQL3	Albumin OS=Rhinopithecus roxellana OX=61622 GN=ALB PE=4 SV=1	Rhinopithecus roxellana	498	2486	92.6	96.6	0.0
+211	TR	A0A8C0LT66	Albumin OS=Canis lupus dingo OX=286419 GN=ALB PE=4 SV=1	Canis lupus dingo	595	2485	75.7	84.3	0.0
+212	TR	A0A8C3YP16	Albumin OS=Catagonus wagneri OX=51154 GN=ALB PE=4 SV=1	Catagonus wagneri	604	2481	75.1	87.7	0.0
+213	TR	A0A6P7R6R3	Albumin OS=Mus caroli OX=10089 GN=Alb PE=4 SV=1	Mus caroli	608	2480	72.7	86.3	0.0
+214	TR	A0A1S3FI52	Albumin OS=Dipodomys ordii OX=10020 GN=LOC105988593 PE=4 SV=1	Dipodomys ordii	608	2477	73.9	86.1	0.0
+215	SP	O35090	Albumin OS=Meriones unguiculatus OX=10047 GN=ALB PE=2 SV=1	Meriones unguiculatus	609	2476	73.8	85.0	0.0
+216	TR	Q546G4	Albumin OS=Mus musculus OX=10090 GN=Alb PE=1 SV=1	Mus musculus	608	2473	72.5	86.2	0.0
+217	SP	P07724	Albumin OS=Mus musculus OX=10090 GN=Alb PE=1 SV=3	Mus musculus	608	2473	72.5	86.2	0.0
+218	TR	A0A0D9QXP9	Albumin OS=Chlorocebus sabaeus OX=60711 PE=4 SV=1	Chlorocebus sabaeus	512	2466	90.2	94.5	0.0
+219	TR	A0AAW0JWU9	Albumin OS=Myodes glareolus OX=447135 GN=U0070_018434 PE=4 SV=1	Myodes glareolus	594	2456	73.3	85.2	0.0
+220	TR	A0A7J8E5X0	Albumin OS=Rousettus aegyptiacus OX=9407 GN=HJG63_000557 PE=4 SV=1	Rousettus aegyptiacus	608	2455	71.5	85.8	0.0
+221	TR	A0ABM5E835	Albumin OS=Vicugna pacos OX=30538 GN=ALB PE=4 SV=1	Vicugna pacos	596	2452	75.0	87.0	0.0
+222	TR	L9L5M3	Albumin OS=Tupaia chinensis OX=246437 GN=TREES_T100019247 PE=4 SV=1	Tupaia chinensis	1505	2452	73.3	83.8	0.0
+223	TR	A0A2Y9RIZ4	Albumin OS=Trichechus manatus latirostris OX=127582 GN=ALB PE=4 SV=1	Trichechus manatus latirostris	609	2452	72.2	84.9	0.0
+224	TR	A0A287BAY9	Albumin OS=Sus scrofa OX=9823 GN=ALB PE=1 SV=2	Sus scrofa	659	2450	76.6	88.1	0.0
+225	TR	A0A8C6HGN1	Albumin OS=Mus spicilegus OX=10103 PE=4 SV=1	Mus spicilegus	639	2447	71.8	85.3	0.0
+226	TR	A0A7J8AXV9	Albumin OS=Pipistrellus kuhlii OX=59472 GN=mPipKuh1_000553 PE=4 SV=1	Pipistrellus kuhlii	608	2447	73.6	84.7	0.0
+227	TR	X2GM95	Albumin (Fragment) OS=Cervus nippon OX=9863 PE=2 SV=1	Cervus nippon	583	2443	75.5	88.2	0.0
+228	TR	A0AAD4Y9E4	Albumin OS=Ovis ammon polii OX=230172 GN=MG293_006971 PE=4 SV=1	Ovis ammon polii	1737	2440	75.4	87.6	0.0
+229	TR	B3VHM9	Albumin (Fragment) OS=Capra hircus OX=9925 PE=1 SV=1	Capra hircus	583	2434	74.8	87.8	0.0
+230	TR	A0A8C6HI21	Albumin OS=Mus spicilegus OX=10103 PE=4 SV=1	Mus spicilegus	644	2428	72.4	86.1	0.0
+231	TR	A0AAX6NVW4	Albumin OS=Heterocephalus glaber OX=10181 GN=Alb PE=4 SV=1	Heterocephalus glaber	622	2426	71.3	85.4	0.0
+232	TR	F1RUN2	Albumin OS=Sus scrofa OX=9823 GN=ALB PE=1 SV=2	Sus scrofa	608	2403	76.1	87.8	0.0
+233	TR	A0A9L0IFA1	Albumin OS=Equus asinus OX=9793 GN=ALB PE=4 SV=1	Equus asinus	563	2401	77.0	88.8	0.0
+234	TR	B4DPR2	Albumin OS=Homo sapiens OX=9606 PE=2 SV=1	Homo sapiens	523	2397	99.8	99.8	0.0
+235	TR	A0A643C8P3	Albumin (Fragment) OS=Balaenoptera physalus OX=9770 GN=E2I00_013440 PE=4 SV=1	Balaenoptera physalus	590	2393	74.6	83.7	0.0
+236	TR	A0A9L0S6J2	Albumin OS=Equus caballus OX=9796 PE=1 SV=1	Equus caballus	563	2393	76.8	88.6	0.0
+237	TR	A0A8W4FBS3	Albumin OS=Sus scrofa OX=9823 GN=ALB PE=1 SV=1	Sus scrofa	646	2388	76.4	88.0	0.0
+238	TR	Q6B3Z0	Albumin (Fragment) OS=Elephas maximus OX=9783 GN=ESA PE=2 SV=1	Elephas maximus	583	2378	73.7	85.2	0.0
+239	TR	B7WNR0	Albumin OS=Homo sapiens OX=9606 GN=ALB PE=1 SV=1	Homo sapiens	494	2374	99.1	99.1	0.0
+240	TR	A0AAW0JXG1	Albumin OS=Myodes glareolus OX=447135 GN=U0070_018438 PE=4 SV=1	Myodes glareolus	594	2370	71.3	83.7	0.0
+241	TR	H0YA55	Albumin (Fragment) OS=Homo sapiens OX=9606 GN=ALB PE=1 SV=1	Homo sapiens	454	2365	99.8	100.0	0.0
+242	TR	A0ABQ0ESU0	Albumin OS=Apodemus speciosus OX=105296 GN=APTSU1_000505600 PE=4 SV=1	Apodemus speciosus	660	2363	71.9	86.1	0.0
+243	TR	A0A2I2ZN02	Albumin OS=Gorilla gorilla gorilla OX=9595 GN=ALB PE=4 SV=1	Gorilla gorilla gorilla	494	2363	98.5	98.7	0.0
+244	TR	A0A2R9CF95	Albumin OS=Pan paniscus OX=9597 PE=4 SV=1	Pan paniscus	494	2363	98.2	99.1	0.0
+245	TR	A0A2I3SLG3	Albumin OS=Pan troglodytes OX=9598 GN=ALB PE=4 SV=1	Pan troglodytes	494	2363	98.2	99.1	0.0
+246	TR	D6RHD5	Albumin OS=Homo sapiens OX=9606 GN=ALB PE=1 SV=1	Homo sapiens	459	2363	100.0	100.0	0.0
+247	TR	A0A2R9CHX6	Albumin OS=Pan paniscus OX=9597 PE=4 SV=1	Pan paniscus	459	2352	99.1	100.0	0.0
+248	TR	A0A2I3SMW6	Albumin OS=Pan troglodytes OX=9598 GN=ALB PE=4 SV=1	Pan troglodytes	459	2352	99.1	100.0	0.0
+249	TR	A0A2I3SDV3	Albumin OS=Pan troglodytes OX=9598 GN=ALB PE=4 SV=1	Pan troglodytes	482	2352	99.1	100.0	0.0
+250	TR	A0A2I2ZLS6	Albumin OS=Gorilla gorilla gorilla OX=9595 GN=ALB PE=4 SV=1	Gorilla gorilla gorilla	482	2347	99.1	99.3	0.0
