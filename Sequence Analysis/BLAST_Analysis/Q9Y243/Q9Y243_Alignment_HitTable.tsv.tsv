@@ -1,0 +1,251 @@
+Hit	DB	Accession	Description	Organism	Length	Score(Bits)	Identities(%)	Positives(%)	E()
+1	TR	A0A8D2I767	non-specific serine/threonine protein kinase OS=Urocitellus parryii OX=9999 GN=AKT3 PE=3 SV=1	Urocitellus parryii	479	2558	100.0	100.0	0.0
+2	TR	A0A8C2VFM2	non-specific serine/threonine protein kinase OS=Chinchilla lanigera OX=34839 GN=Akt3 PE=3 SV=1	Chinchilla lanigera	479	2558	100.0	100.0	0.0
+3	TR	A0A0P6K622	non-specific serine/threonine protein kinase OS=Heterocephalus glaber OX=10181 GN=Akt3 PE=3 SV=1	Heterocephalus glaber	479	2558	100.0	100.0	0.0
+4	TR	A0A8C6ABZ2	non-specific serine/threonine protein kinase OS=Marmota marmota marmota OX=9994 GN=AKT3 PE=3 SV=1	Marmota marmota marmota	479	2558	100.0	100.0	0.0
+5	TR	A0A8C6QZP2	non-specific serine/threonine protein kinase OS=Nannospalax galili OX=1026970 GN=Akt3 PE=3 SV=1	Nannospalax galili	479	2558	100.0	100.0	0.0
+6	TR	I3MFT2	non-specific serine/threonine protein kinase OS=Ictidomys tridecemlineatus OX=43179 GN=AKT3 PE=3 SV=2	Ictidomys tridecemlineatus	479	2558	100.0	100.0	0.0
+7	TR	A0A1U7QFZ6	non-specific serine/threonine protein kinase OS=Mesocricetus auratus OX=10036 GN=Akt3 PE=3 SV=1	Mesocricetus auratus	479	2558	100.0	100.0	0.0
+8	TR	A0A8C9QNE0	non-specific serine/threonine protein kinase OS=Spermophilus dauricus OX=99837 PE=3 SV=1	Spermophilus dauricus	479	2558	100.0	100.0	0.0
+9	TR	A0A8C8TYT7	non-specific serine/threonine protein kinase OS=Peromyscus maniculatus bairdii OX=230844 GN=Akt3 PE=3 SV=1	Peromyscus maniculatus bairdii	479	2558	100.0	100.0	0.0
+10	TR	A0A8D2DSM3	non-specific serine/threonine protein kinase OS=Sciurus vulgaris OX=55149 GN=AKT3 PE=3 SV=1	Sciurus vulgaris	479	2558	100.0	100.0	0.0
+11	TR	A0ABM1U0X4	non-specific serine/threonine protein kinase OS=Microtus ochrogaster OX=79684 GN=Akt3 PE=3 SV=1	Microtus ochrogaster	479	2558	100.0	100.0	0.0
+12	TR	A0A8D2FJE8	non-specific serine/threonine protein kinase OS=Theropithecus gelada OX=9565 GN=AKT3 PE=3 SV=1	Theropithecus gelada	479	2558	100.0	100.0	0.0
+13	TR	A0ABM3TVJ4	non-specific serine/threonine protein kinase OS=Balaenoptera acutorostrata OX=9767 GN=AKT3 PE=3 SV=1	Balaenoptera acutorostrata	479	2558	100.0	100.0	0.0
+14	TR	A0A8C4PGW8	non-specific serine/threonine protein kinase OS=Equus asinus OX=9793 GN=AKT3 PE=3 SV=1	Equus asinus	479	2558	100.0	100.0	0.0
+15	TR	A0AC58PCX7	non-specific serine/threonine protein kinase OS=Camelus bactrianus OX=9837 GN=AKT3 PE=3 SV=1	Camelus bactrianus	479	2558	100.0	100.0	0.0
+16	TR	A0A2K6GQN6	non-specific serine/threonine protein kinase OS=Propithecus coquereli OX=379532 PE=3 SV=1	Propithecus coquereli	479	2558	100.0	100.0	0.0
+17	TR	A0A2K6U3Q1	non-specific serine/threonine protein kinase OS=Saimiri boliviensis boliviensis OX=39432 PE=3 SV=1	Saimiri boliviensis boliviensis	479	2558	100.0	100.0	0.0
+18	TR	A0A8B8RWV3	non-specific serine/threonine protein kinase OS=Camelus ferus OX=419612 GN=AKT3 PE=3 SV=1	Camelus ferus	479	2558	100.0	100.0	0.0
+19	TR	A0ACF8IC16	Uncharacterized protein OS=Pygathrix nigripes OX=310352 GN=H8959_017218 PE=4 SV=1	Pygathrix nigripes	479	2558	100.0	100.0	0.0
+20	TR	A0A2K6DSR7	non-specific serine/threonine protein kinase OS=Macaca nemestrina OX=9545 PE=3 SV=1	Macaca nemestrina	479	2558	100.0	100.0	0.0
+21	TR	A0A8C0CHT2	non-specific serine/threonine protein kinase OS=Balaenoptera musculus OX=9771 GN=AKT3 PE=3 SV=1	Balaenoptera musculus	479	2558	100.0	100.0	0.0
+22	TR	A0A2K5V8I8	non-specific serine/threonine protein kinase OS=Macaca fascicularis OX=9541 PE=3 SV=2	Macaca fascicularis	479	2558	100.0	100.0	0.0
+23	TR	G3QXL5	non-specific serine/threonine protein kinase OS=Gorilla gorilla gorilla OX=9595 GN=AKT3 PE=3 SV=1	Gorilla gorilla gorilla	479	2558	100.0	100.0	0.0
+24	TR	A0ABM4QNT8	non-specific serine/threonine protein kinase OS=Bos indicus OX=9915 GN=AKT3 PE=3 SV=1	Bos indicus	479	2558	100.0	100.0	0.0
+25	TR	A0A6J0YHM1	non-specific serine/threonine protein kinase OS=Odocoileus virginianus OX=9874 GN=AKT3 PE=3 SV=1	Odocoileus virginianus	479	2558	100.0	100.0	0.0
+26	TR	A0A8B9X382	non-specific serine/threonine protein kinase OS=Bos grunniens OX=30521 GN=AKT3 PE=3 SV=1	Bos grunniens	479	2558	100.0	100.0	0.0
+27	TR	M3ZB09	non-specific serine/threonine protein kinase OS=Nomascus leucogenys OX=61853 GN=AKT3 PE=3 SV=2	Nomascus leucogenys	479	2558	100.0	100.0	0.0
+28	TR	A0A8B7RPW1	non-specific serine/threonine protein kinase OS=Hipposideros armiger OX=186990 GN=AKT3 PE=3 SV=1	Hipposideros armiger	479	2558	100.0	100.0	0.0
+29	TR	G9BWQ3	non-specific serine/threonine protein kinase OS=Sus scrofa OX=9823 GN=AKT3 PE=1 SV=1	Sus scrofa	479	2558	100.0	100.0	0.0
+30	TR	A0A2K6AA78	non-specific serine/threonine protein kinase OS=Mandrillus leucophaeus OX=9568 PE=3 SV=1	Mandrillus leucophaeus	479	2558	100.0	100.0	0.0
+31	TR	A0ACM8R425	AKT serine/threonine kinase 3 OS=Sus scrofa OX=9823 GN=AKT3 PE=4 SV=1	Sus scrofa	479	2558	100.0	100.0	0.0
+32	TR	A0A452G164	non-specific serine/threonine protein kinase OS=Capra hircus OX=9925 GN=AKT3 PE=3 SV=1	Capra hircus	479	2558	100.0	100.0	0.0
+33	TR	F7CRF1	non-specific serine/threonine protein kinase OS=Equus caballus OX=9796 GN=AKT3 PE=3 SV=4	Equus caballus	542	2558	100.0	100.0	0.0
+34	TR	A0A9L0RQW6	non-specific serine/threonine protein kinase OS=Equus caballus OX=9796 PE=3 SV=1	Equus caballus	479	2558	100.0	100.0	0.0
+35	TR	A0A2R9BCQ8	non-specific serine/threonine protein kinase OS=Pan paniscus OX=9597 PE=3 SV=1	Pan paniscus	479	2558	100.0	100.0	0.0
+36	TR	A0A8C3VQP0	non-specific serine/threonine protein kinase OS=Catagonus wagneri OX=51154 GN=AKT3 PE=3 SV=1	Catagonus wagneri	479	2558	100.0	100.0	0.0
+37	TR	A0A8B7FED9	non-specific serine/threonine protein kinase OS=Microcebus murinus OX=30608 GN=AKT3 PE=3 SV=1	Microcebus murinus	479	2558	100.0	100.0	0.0
+38	TR	A0A096MRG7	non-specific serine/threonine protein kinase OS=Papio anubis OX=9555 PE=3 SV=1	Papio anubis	479	2558	100.0	100.0	0.0
+39	TR	A0A2K5E2U4	non-specific serine/threonine protein kinase OS=Aotus nancymaae OX=37293 PE=3 SV=1	Aotus nancymaae	479	2558	100.0	100.0	0.0
+40	TR	A0A2Y9TEP8	non-specific serine/threonine protein kinase OS=Physeter macrocephalus OX=9755 GN=AKT3 PE=3 SV=1	Physeter macrocephalus	479	2558	100.0	100.0	0.0
+41	TR	A0A2K5M316	non-specific serine/threonine protein kinase OS=Cercocebus atys OX=9531 PE=3 SV=1	Cercocebus atys	479	2558	100.0	100.0	0.0
+42	TR	A0A2I3T9Y4	non-specific serine/threonine protein kinase OS=Pan troglodytes OX=9598 GN=AKT3 PE=3 SV=1	Pan troglodytes	479	2558	100.0	100.0	0.0
+43	TR	A0A4W2ELK4	non-specific serine/threonine protein kinase OS=Bos indicus x Bos taurus OX=30522 GN=AKT3 PE=3 SV=1	Bos indicus x Bos taurus	479	2558	100.0	100.0	0.0
+44	TR	A0A6D2XXA8	non-specific serine/threonine protein kinase OS=Pongo abelii OX=9601 GN=AKT3 PE=3 SV=1	Pongo abelii	479	2558	100.0	100.0	0.0
+45	TR	A0ABM0I3Q1	non-specific serine/threonine protein kinase OS=Ceratotherium simum simum OX=73337 GN=LOC101394761 PE=3 SV=1	Ceratotherium simum simum	479	2558	100.0	100.0	0.0
+46	TR	A0ACI6RQC1	Uncharacterized protein OS=Ovis aries OX=9940 GN=AKT3 PE=4 SV=1	Ovis aries	479	2558	100.0	100.0	0.0
+47	TR	A0AAA9RVP0	non-specific serine/threonine protein kinase OS=Bos taurus OX=9913 GN=AKT3 PE=3 SV=2	Bos taurus	479	2558	100.0	100.0	0.0
+48	TR	A0ACM8QY47	AKT serine/threonine kinase 3 OS=Macaca mulatta OX=9544 GN=AKT3 PE=4 SV=1	Macaca mulatta	479	2558	100.0	100.0	0.0
+49	TR	U3E808	RAC-gamma serine/threonine-protein kinase isoform 1 OS=Callithrix jacchus OX=9483 GN=AKT3 PE=2 SV=1	Callithrix jacchus	479	2558	100.0	100.0	0.0
+50	TR	F7IF11	non-specific serine/threonine protein kinase OS=Callithrix jacchus OX=9483 GN=AKT3 PE=3 SV=3	Callithrix jacchus	479	2558	100.0	100.0	0.0
+51	TR	K7WQT1	non-specific serine/threonine protein kinase OS=Bubalus bubalis OX=89462 PE=2 SV=1	Bubalus bubalis	479	2558	100.0	100.0	0.0
+52	TR	A0A2K6PXT7	non-specific serine/threonine protein kinase OS=Rhinopithecus roxellana OX=61622 GN=AKT3 PE=3 SV=1	Rhinopithecus roxellana	479	2558	100.0	100.0	0.0
+53	TR	A0ABM4N002	non-specific serine/threonine protein kinase OS=Equus przewalskii OX=9798 GN=AKT3 PE=3 SV=1	Equus przewalskii	479	2558	100.0	100.0	0.0
+54	TR	H9FNA9	non-specific serine/threonine protein kinase OS=Macaca mulatta OX=9544 GN=AKT3 PE=2 SV=1	Macaca mulatta	479	2558	100.0	100.0	0.0
+55	TR	K7B607	V-akt murine thymoma viral oncogene homolog 3 (Protein kinase B, gamma) OS=Pan troglodytes OX=9598 GN=AKT3 PE=2 SV=1	Pan troglodytes	479	2558	100.0	100.0	0.0
+56	TR	A0A6J3EY93	non-specific serine/threonine protein kinase OS=Sapajus apella OX=9515 GN=AKT3 PE=3 SV=1	Sapajus apella	479	2558	100.0	100.0	0.0
+57	TR	A0ABM5C7R4	non-specific serine/threonine protein kinase OS=Vicugna pacos OX=30538 GN=AKT3 PE=3 SV=1	Vicugna pacos	479	2558	100.0	100.0	0.0
+58	SP	Q9Y243	RAC-gamma serine/threonine-protein kinase OS=Homo sapiens OX=9606 GN=AKT3 PE=1 SV=1	Homo sapiens	479	2558	100.0	100.0	0.0
+59	TR	A0A9B0U0P7	non-specific serine/threonine protein kinase OS=Chrysochloris asiatica OX=185453 GN=AKT3 PE=3 SV=1	Chrysochloris asiatica	479	2557	99.8	100.0	0.0
+60	TR	A0AA35P359	non-specific serine/threonine protein kinase OS=Podarcis lilfordi OX=74358 GN=PODLI_1B019789 PE=3 SV=1	Podarcis lilfordi	781	2555	99.8	100.0	0.0
+61	TR	A0A151MH49	non-specific serine/threonine protein kinase OS=Alligator mississippiensis OX=8496 GN=Y1Q_0015827 PE=3 SV=1	Alligator mississippiensis	479	2555	99.8	100.0	0.0
+62	TR	A0A7M4F7X7	non-specific serine/threonine protein kinase OS=Crocodylus porosus OX=8502 GN=AKT3 PE=3 SV=1	Crocodylus porosus	479	2555	99.8	100.0	0.0
+63	TR	A0A6J0T408	non-specific serine/threonine protein kinase OS=Pogona vitticeps OX=103695 GN=AKT3 PE=3 SV=1	Pogona vitticeps	479	2555	99.8	100.0	0.0
+64	TR	A0A8D2J4A9	non-specific serine/threonine protein kinase OS=Varanus komodoensis OX=61221 GN=AKT3 PE=3 SV=1	Varanus komodoensis	479	2554	99.6	100.0	0.0
+65	TR	A0A9F2KU22	non-specific serine/threonine protein kinase OS=Python bivittatus OX=176946 GN=AKT3 PE=3 SV=1	Python bivittatus	479	2554	99.6	100.0	0.0
+66	TR	H9GBX3	non-specific serine/threonine protein kinase OS=Anolis carolinensis OX=28377 GN=AKT3 PE=3 SV=2	Anolis carolinensis	479	2554	99.6	100.0	0.0
+67	TR	A0A6P6E1R0	non-specific serine/threonine protein kinase OS=Octodon degus OX=10160 GN=Akt3 PE=3 SV=1	Octodon degus	479	2554	99.8	100.0	0.0
+68	TR	A0ABM3XGV1	non-specific serine/threonine protein kinase OS=Erinaceus europaeus OX=9365 GN=AKT3 PE=3 SV=1	Erinaceus europaeus	479	2554	99.8	100.0	0.0
+69	TR	A0A2K5JHB5	non-specific serine/threonine protein kinase OS=Colobus angolensis palliatus OX=336983 PE=3 SV=1	Colobus angolensis palliatus	479	2554	99.8	100.0	0.0
+70	TR	K9ISX3	non-specific serine/threonine protein kinase (Fragment) OS=Desmodus rotundus OX=9430 PE=2 SV=1	Desmodus rotundus	507	2554	99.8	100.0	0.0
+71	TR	A0A6J2N9Z9	non-specific serine/threonine protein kinase OS=Phyllostomus discolor OX=89673 GN=AKT3 PE=3 SV=1	Phyllostomus discolor	479	2554	99.8	100.0	0.0
+72	TR	G3THW8	non-specific serine/threonine protein kinase OS=Loxodonta africana OX=9785 GN=AKT3 PE=3 SV=1	Loxodonta africana	479	2554	99.8	100.0	0.0
+73	TR	A0A8C9LGR0	non-specific serine/threonine protein kinase OS=Piliocolobus tephrosceles OX=591936 GN=AKT3 PE=3 SV=1	Piliocolobus tephrosceles	479	2554	99.8	100.0	0.0
+74	TR	A0A8C9AQF6	non-specific serine/threonine protein kinase OS=Prolemur simus OX=1328070 GN=AKT3 PE=3 SV=1	Prolemur simus	479	2554	99.8	100.0	0.0
+75	TR	A0A2U3VY63	non-specific serine/threonine protein kinase OS=Odobenus rosmarus divergens OX=9708 GN=AKT3 PE=3 SV=1	Odobenus rosmarus divergens	479	2553	99.6	100.0	0.0
+76	TR	G1LRV9	non-specific serine/threonine protein kinase OS=Ailuropoda melanoleuca OX=9646 GN=AKT3 PE=3 SV=1	Ailuropoda melanoleuca	479	2553	99.6	100.0	0.0
+77	TR	A0A8I3MV00	non-specific serine/threonine protein kinase OS=Canis lupus familiaris OX=9615 GN=AKT3 PE=3 SV=1	Canis lupus familiaris	479	2553	99.6	100.0	0.0
+78	TR	A0A8C0JH30	non-specific serine/threonine protein kinase OS=Canis lupus dingo OX=286419 GN=AKT3 PE=3 SV=1	Canis lupus dingo	479	2553	99.6	100.0	0.0
+79	TR	A0A8C7EJT0	non-specific serine/threonine protein kinase OS=Neogale vison OX=452646 GN=AKT3 PE=3 SV=1	Neogale vison	479	2553	99.6	100.0	0.0
+80	TR	A0A6J2EBI5	non-specific serine/threonine protein kinase OS=Zalophus californianus OX=9704 GN=AKT3 PE=3 SV=1	Zalophus californianus	479	2553	99.6	100.0	0.0
+81	TR	A0A3Q7PI02	non-specific serine/threonine protein kinase OS=Callorhinus ursinus OX=34884 GN=AKT3 PE=3 SV=1	Callorhinus ursinus	479	2553	99.6	100.0	0.0
+82	TR	A0A2Y9JT87	non-specific serine/threonine protein kinase OS=Enhydra lutris kenyoni OX=391180 GN=LOC111150885 PE=3 SV=1	Enhydra lutris kenyoni	479	2553	99.6	100.0	0.0
+83	TR	A0ABM4YF89	non-specific serine/threonine protein kinase OS=Vulpes vulpes OX=9627 GN=AKT3 PE=3 SV=1	Vulpes vulpes	479	2553	99.6	100.0	0.0
+84	TR	A0A384CDT1	non-specific serine/threonine protein kinase OS=Ursus maritimus OX=29073 GN=AKT3 PE=3 SV=1	Ursus maritimus	479	2553	99.6	100.0	0.0
+85	TR	A0A452R0K8	non-specific serine/threonine protein kinase OS=Ursus americanus OX=9643 GN=AKT3 PE=3 SV=1	Ursus americanus	479	2553	99.6	100.0	0.0
+86	TR	A0A8U0SG63	non-specific serine/threonine protein kinase OS=Mustela putorius furo OX=9669 GN=AKT3 PE=3 SV=1	Mustela putorius furo	479	2553	99.6	100.0	0.0
+87	TR	A0A8C3Q9A2	non-specific serine/threonine protein kinase OS=Geospiza parvula OX=87175 GN=AKT3 PE=3 SV=1	Geospiza parvula	479	2552	99.6	100.0	0.0
+88	TR	A0A670ICZ7	non-specific serine/threonine protein kinase OS=Podarcis muralis OX=64176 GN=AKT3 PE=3 SV=1	Podarcis muralis	479	2552	99.6	100.0	0.0
+89	TR	A0A669P2P8	non-specific serine/threonine protein kinase OS=Phasianus colchicus OX=9054 GN=AKT3 PE=3 SV=1	Phasianus colchicus	479	2552	99.6	100.0	0.0
+90	TR	A0A8C3XET2	non-specific serine/threonine protein kinase OS=Cyanoderma ruficeps OX=181631 PE=3 SV=1	Cyanoderma ruficeps	479	2552	99.6	100.0	0.0
+91	TR	A0A8C8A8W3	non-specific serine/threonine protein kinase OS=Otus sunia OX=257818 PE=3 SV=1	Otus sunia	479	2552	99.6	100.0	0.0
+92	TR	A0A8C6K6R0	non-specific serine/threonine protein kinase OS=Melopsittacus undulatus OX=13146 GN=LOC101869818 PE=3 SV=1	Melopsittacus undulatus	479	2552	99.6	100.0	0.0
+93	TR	A0A8C5JB54	non-specific serine/threonine protein kinase OS=Junco hyemalis OX=40217 PE=3 SV=1	Junco hyemalis	479	2552	99.6	100.0	0.0
+94	TR	A0A2I0UPR0	non-specific serine/threonine protein kinase OS=Limosa lapponica baueri OX=1758121 GN=llap_1665 PE=3 SV=1	Limosa lapponica baueri	489	2552	99.6	100.0	0.0
+95	TR	A0A663N6K9	non-specific serine/threonine protein kinase OS=Athene cunicularia OX=194338 GN=AKT3 PE=3 SV=1	Athene cunicularia	479	2552	99.6	100.0	0.0
+96	TR	A0A8B9DXP9	non-specific serine/threonine protein kinase OS=Anser cygnoides OX=8845 GN=AKT3 PE=3 SV=1	Anser cygnoides	479	2552	99.6	100.0	0.0
+97	TR	A0A8C4JTS9	non-specific serine/threonine protein kinase OS=Dromaius novaehollandiae OX=8790 GN=AKT3 PE=3 SV=1	Dromaius novaehollandiae	479	2552	99.6	100.0	0.0
+98	TR	A0A8T1SRN0	non-specific serine/threonine protein kinase OS=Chelydra serpentina OX=8475 GN=AKT3 PE=3 SV=1	Chelydra serpentina	515	2552	99.8	99.8	0.0
+99	TR	A0A8D2MYK2	non-specific serine/threonine protein kinase OS=Zonotrichia albicollis OX=44394 GN=AKT3 PE=3 SV=1	Zonotrichia albicollis	479	2552	99.6	100.0	0.0
+100	TR	A0A6I9HBP7	non-specific serine/threonine protein kinase OS=Geospiza fortis OX=48883 GN=AKT3 PE=3 SV=1	Geospiza fortis	479	2552	99.6	100.0	0.0
+101	TR	A0A218V273	non-specific serine/threonine protein kinase OS=Lonchura striata OX=40157 GN=AKT3 PE=3 SV=1	Lonchura striata	479	2552	99.6	100.0	0.0
+102	TR	U3IVJ2	non-specific serine/threonine protein kinase OS=Anas platyrhynchos platyrhynchos OX=8840 GN=AKT3 PE=3 SV=2	Anas platyrhynchos platyrhynchos	479	2552	99.6	100.0	0.0
+103	TR	A0A8C9NK58	non-specific serine/threonine protein kinase OS=Serinus canaria OX=9135 GN=AKT3 PE=3 SV=1	Serinus canaria	479	2552	99.6	100.0	0.0
+104	TR	K7FBR2	non-specific serine/threonine protein kinase OS=Pelodiscus sinensis OX=13735 GN=AKT3 PE=3 SV=1	Pelodiscus sinensis	479	2552	99.8	99.8	0.0
+105	TR	A0A8C3JJR4	non-specific serine/threonine protein kinase OS=Calidris pygmaea OX=425635 PE=3 SV=1	Calidris pygmaea	479	2552	99.6	100.0	0.0
+106	TR	A0A8B9ZS18	non-specific serine/threonine protein kinase OS=Anas zonorhyncha OX=75864 PE=3 SV=1	Anas zonorhyncha	479	2552	99.6	100.0	0.0
+107	TR	A0A8B9QI00	non-specific serine/threonine protein kinase OS=Apteryx owenii OX=8824 PE=3 SV=1	Apteryx owenii	479	2552	99.6	100.0	0.0
+108	TR	A0A1D5NTY9	non-specific serine/threonine protein kinase OS=Gallus gallus OX=9031 GN=AKT3 PE=3 SV=1	Gallus gallus	479	2552	99.6	100.0	0.0
+109	TR	A0A8U7N384	non-specific serine/threonine protein kinase OS=Corvus moneduloides OX=1196302 GN=AKT3 PE=3 SV=1	Corvus moneduloides	479	2552	99.6	100.0	0.0
+110	TR	A0A8B9FF41	non-specific serine/threonine protein kinase OS=Amazona collaria OX=241587 PE=3 SV=1	Amazona collaria	479	2552	99.6	100.0	0.0
+111	TR	A0A2I0MTK2	non-specific serine/threonine protein kinase OS=Columba livia OX=8932 GN=AKT3 PE=3 SV=1	Columba livia	479	2552	99.6	100.0	0.0
+112	TR	A0A8C0EWH5	non-specific serine/threonine protein kinase OS=Bubo bubo OX=30461 PE=3 SV=1	Bubo bubo	479	2552	99.6	100.0	0.0
+113	TR	A0A672VCT7	non-specific serine/threonine protein kinase OS=Strigops habroptila OX=2489341 GN=AKT3 PE=3 SV=1	Strigops habroptila	479	2552	99.6	100.0	0.0
+114	TR	A0A663EKM5	non-specific serine/threonine protein kinase OS=Aquila chrysaetos chrysaetos OX=223781 GN=AKT3 PE=3 SV=1	Aquila chrysaetos chrysaetos	479	2552	99.6	100.0	0.0
+115	TR	A0A1V4JKN4	non-specific serine/threonine protein kinase OS=Patagioenas fasciata monilis OX=372326 GN=AKT3 PE=3 SV=1	Patagioenas fasciata monilis	479	2552	99.6	100.0	0.0
+116	TR	A0A8C4XVH3	non-specific serine/threonine protein kinase OS=Falco tinnunculus OX=100819 PE=3 SV=1	Falco tinnunculus	479	2552	99.6	100.0	0.0
+117	TR	A0A8C3FVM9	non-specific serine/threonine protein kinase OS=Chrysemys picta bellii OX=8478 GN=AKT3 PE=3 SV=1	Chrysemys picta bellii	479	2552	99.8	99.8	0.0
+118	TR	A0A6J2GSP5	non-specific serine/threonine protein kinase OS=Pipra filicauda OX=649802 GN=AKT3 PE=3 SV=1	Pipra filicauda	479	2552	99.6	100.0	0.0
+119	TR	A0A8C0U2X8	non-specific serine/threonine protein kinase OS=Cyanistes caeruleus OX=156563 GN=AKT3 PE=3 SV=1	Cyanistes caeruleus	479	2552	99.6	100.0	0.0
+120	TR	A0A6J3CSS2	non-specific serine/threonine protein kinase OS=Aythya fuligula OX=219594 GN=AKT3 PE=3 SV=1	Aythya fuligula	479	2552	99.6	100.0	0.0
+121	TR	A0A6J0GJV5	non-specific serine/threonine protein kinase OS=Lepidothrix coronata OX=321398 GN=AKT3 PE=3 SV=1	Lepidothrix coronata	479	2552	99.6	100.0	0.0
+122	TR	G3HY42	non-specific serine/threonine protein kinase OS=Cricetulus griseus OX=10029 GN=Akt3 PE=3 SV=1	Cricetulus griseus	479	2552	99.6	100.0	0.0
+123	TR	A0A6P5JU25	non-specific serine/threonine protein kinase OS=Phascolarctos cinereus OX=38626 GN=AKT3 PE=3 SV=1	Phascolarctos cinereus	479	2552	99.8	99.8	0.0
+124	TR	F7GEK1	non-specific serine/threonine protein kinase OS=Monodelphis domestica OX=13616 GN=AKT3 PE=3 SV=1	Monodelphis domestica	479	2552	99.8	99.8	0.0
+125	TR	A0A4X2LHZ4	non-specific serine/threonine protein kinase OS=Vombatus ursinus OX=29139 GN=LOC114049642 PE=3 SV=1	Vombatus ursinus	479	2552	99.8	99.8	0.0
+126	TR	A0A6J1UBN7	non-specific serine/threonine protein kinase OS=Notechis scutatus OX=8663 GN=AKT3 PE=3 SV=1	Notechis scutatus	479	2551	99.6	99.8	0.0
+127	TR	A0A670Y6E1	non-specific serine/threonine protein kinase OS=Pseudonaja textilis OX=8673 GN=AKT3 PE=3 SV=1	Pseudonaja textilis	479	2551	99.6	99.8	0.0
+128	TR	A0A8C6VER3	non-specific serine/threonine protein kinase OS=Naja naja OX=35670 GN=AKT3 PE=3 SV=1	Naja naja	479	2551	99.6	99.8	0.0
+129	TR	A0A6P6CYH6	non-specific serine/threonine protein kinase OS=Pteropus vampyrus OX=132908 GN=AKT3 PE=3 SV=1	Pteropus vampyrus	479	2549	99.6	100.0	0.0
+130	TR	A0A7J8B8J3	non-specific serine/threonine protein kinase OS=Rousettus aegyptiacus OX=9407 GN=HJG63_000532 PE=3 SV=1	Rousettus aegyptiacus	479	2549	99.6	100.0	0.0
+131	TR	A0A8C2TQB7	non-specific serine/threonine protein kinase OS=Coturnix japonica OX=93934 GN=AKT3 PE=3 SV=1	Coturnix japonica	479	2548	99.4	99.8	0.0
+132	TR	A0A8D0C215	non-specific serine/threonine protein kinase OS=Salvator merianae OX=96440 PE=3 SV=1	Salvator merianae	479	2548	99.6	99.8	0.0
+133	TR	A0A1U7RFZ2	non-specific serine/threonine protein kinase OS=Alligator sinensis OX=38654 GN=AKT3 PE=3 SV=1	Alligator sinensis	479	2547	99.6	99.8	0.0
+134	TR	A0A8B7IKA7	non-specific serine/threonine protein kinase OS=Apteryx mantelli OX=2696672 GN=AKT3 PE=3 SV=1	Apteryx mantelli	479	2547	99.4	100.0	0.0
+135	TR	A0A8C9B896	non-specific serine/threonine protein kinase OS=Phocoena sinus OX=42100 GN=AKT3 PE=3 SV=1	Phocoena sinus	479	2547	99.6	99.8	0.0
+136	TR	A0A341C6P4	non-specific serine/threonine protein kinase OS=Neophocaena asiaeorientalis asiaeorientalis OX=1706337 GN=AKT3 PE=3 SV=1	Neophocaena asiaeorientalis asiaeorientalis	479	2547	99.6	99.8	0.0
+137	TR	A0A340XMT5	non-specific serine/threonine protein kinase OS=Lipotes vexillifer OX=118797 GN=AKT3 PE=3 SV=1	Lipotes vexillifer	479	2547	99.6	99.8	0.0
+138	TR	A0A8C6APJ5	non-specific serine/threonine protein kinase OS=Monodon monoceros OX=40151 GN=AKT3 PE=3 SV=1	Monodon monoceros	479	2547	99.6	99.8	0.0
+139	TR	A0ABM0IH94	non-specific serine/threonine protein kinase OS=Echinops telfairi OX=9371 GN=AKT3 PE=3 SV=1	Echinops telfairi	479	2546	99.4	100.0	0.0
+140	TR	G2HGV7	non-specific serine/threonine protein kinase OS=Pan troglodytes OX=9598 PE=2 SV=1	Pan troglodytes	479	2546	99.6	99.8	0.0
+141	TR	A0A7J8BMQ7	non-specific serine/threonine protein kinase OS=Molossus molossus OX=27622 GN=HJG59_000548 PE=3 SV=1	Molossus molossus	479	2546	99.8	99.8	0.0
+142	TR	A0A0Q3PHT8	non-specific serine/threonine protein kinase OS=Amazona aestiva OX=12930 GN=AAES_93610 PE=3 SV=1	Amazona aestiva	479	2545	99.4	99.8	0.0
+143	TR	A0A8C5NX74	non-specific serine/threonine protein kinase OS=Jaculus jaculus OX=51337 GN=Akt3 PE=3 SV=1	Jaculus jaculus	479	2545	99.6	99.8	0.0
+144	TR	A0AC58KIZ2	non-specific serine/threonine protein kinase OS=Castor canadensis OX=51338 GN=Akt3 PE=3 SV=1	Castor canadensis	479	2545	99.4	99.8	0.0
+145	TR	A0A6P5PWN2	non-specific serine/threonine protein kinase OS=Mus caroli OX=10089 GN=Akt3 PE=3 SV=1	Mus caroli	479	2543	99.6	99.8	0.0
+146	TR	A0ABQ0EF49	non-specific serine/threonine protein kinase OS=Apodemus speciosus OX=105296 GN=APTSU1_000099900 PE=3 SV=1	Apodemus speciosus	479	2543	99.6	99.8	0.0
+147	TR	A0A8C6GQU1	non-specific serine/threonine protein kinase OS=Mus spicilegus OX=10103 PE=3 SV=1	Mus spicilegus	479	2543	99.6	99.8	0.0
+148	SP	Q9WUA6	RAC-gamma serine/threonine-protein kinase OS=Mus musculus OX=10090 GN=Akt3 PE=1 SV=1	Mus musculus	479	2543	99.6	99.8	0.0
+149	TR	A0A6I8NWL0	non-specific serine/threonine protein kinase OS=Ornithorhynchus anatinus OX=9258 GN=AKT3 PE=3 SV=1	Ornithorhynchus anatinus	479	2541	99.2	99.6	0.0
+150	TR	A0A8C6CZ39	non-specific serine/threonine protein kinase OS=Moschus moschiferus OX=68415 GN=AKT3 PE=3 SV=1	Moschus moschiferus	479	2541	99.6	99.8	0.0
+151	TR	A0A8C9KQE6	non-specific serine/threonine protein kinase OS=Panthera tigris altaica OX=74533 PE=3 SV=1	Panthera tigris altaica	479	2537	99.4	99.8	0.0
+152	TR	A0A9W2W399	non-specific serine/threonine protein kinase OS=Panthera pardus OX=9691 GN=AKT3 PE=3 SV=1	Panthera pardus	479	2537	99.4	99.8	0.0
+153	TR	A0A6P6I2P9	non-specific serine/threonine protein kinase OS=Puma concolor OX=9696 GN=AKT3 PE=3 SV=1	Puma concolor	479	2537	99.4	99.8	0.0
+154	TR	A0A667I174	non-specific serine/threonine protein kinase OS=Lynx canadensis OX=61383 GN=AKT3 PE=3 SV=1	Lynx canadensis	479	2537	99.4	99.8	0.0
+155	TR	A0A8M1MET2	non-specific serine/threonine protein kinase OS=Neomonachus schauinslandi OX=29088 GN=AKT3 PE=3 SV=1	Neomonachus schauinslandi	484	2537	98.6	99.0	0.0
+156	TR	A0ABI7WVA3	non-specific serine/threonine protein kinase OS=Felis catus OX=9685 GN=AKT3 PE=3 SV=1	Felis catus	479	2537	99.4	99.8	0.0
+157	TR	A0A8C8X3Y6	non-specific serine/threonine protein kinase OS=Panthera leo OX=9689 GN=AKT3 PE=3 SV=1	Panthera leo	479	2537	99.4	99.8	0.0
+158	TR	A0A6J1YBT8	non-specific serine/threonine protein kinase OS=Acinonyx jubatus OX=32536 GN=AKT3 PE=3 SV=1	Acinonyx jubatus	479	2537	99.4	99.8	0.0
+159	TR	A0A6P5JUM9	non-specific serine/threonine protein kinase OS=Phascolarctos cinereus OX=38626 GN=AKT3 PE=3 SV=1	Phascolarctos cinereus	486	2534	98.4	98.4	0.0
+160	TR	Q6NXW0	non-specific serine/threonine protein kinase OS=Mus musculus OX=10090 GN=Akt3 PE=2 SV=1	Mus musculus	479	2533	99.2	99.6	0.0
+161	TR	A0A5F9D4W9	non-specific serine/threonine protein kinase OS=Oryctolagus cuniculus OX=9986 GN=AKT3 PE=3 SV=1	Oryctolagus cuniculus	511	2533	99.8	100.0	0.0
+162	SP	Q63484	RAC-gamma serine/threonine-protein kinase OS=Rattus norvegicus OX=10116 GN=Akt3 PE=2 SV=2	Rattus norvegicus	479	2533	99.2	99.4	0.0
+163	TR	A0A673T342	non-specific serine/threonine protein kinase OS=Suricata suricatta OX=37032 GN=AKT3 PE=3 SV=1	Suricata suricatta	479	2532	99.2	99.6	0.0
+164	TR	A0A1S3FA88	non-specific serine/threonine protein kinase OS=Dipodomys ordii OX=10020 GN=Akt3 PE=3 SV=1	Dipodomys ordii	479	2530	99.2	99.6	0.0
+165	TR	A0A670ICS1	non-specific serine/threonine protein kinase OS=Podarcis muralis OX=64176 GN=AKT3 PE=3 SV=1	Podarcis muralis	499	2521	95.6	96.0	0.0
+166	TR	A0ACE2VUZ1	Uncharacterized protein OS=Lepidochelys olivacea OX=27788 GN=ACLRTO_LOCUS5341 PE=4 SV=1	Lepidochelys olivacea	499	2521	95.8	95.8	0.0
+167	TR	A0ACE2ZSM3	Uncharacterized protein OS=Lepidochelys kempii OX=8472 GN=ACLRTL_LOCUS17078 PE=4 SV=1	Lepidochelys kempii	499	2521	95.8	95.8	0.0
+168	TR	A0ACE2WB23	Uncharacterized protein OS=Caretta caretta OX=8467 GN=ACLRTB_LOCUS6872 PE=4 SV=1	Caretta caretta	499	2521	95.8	95.8	0.0
+169	TR	A0AA97JAU7	non-specific serine/threonine protein kinase OS=Eublepharis macularius OX=481883 GN=AKT3 PE=3 SV=1	Eublepharis macularius	499	2521	95.8	95.8	0.0
+170	TR	A0A4D9E4R4	non-specific serine/threonine protein kinase OS=Platysternon megacephalum OX=55544 GN=DR999_PMT14389 PE=3 SV=1	Platysternon megacephalum	499	2521	95.8	95.8	0.0
+171	TR	A0A9D3X487	non-specific serine/threonine protein kinase OS=Mauremys mutica OX=74926 GN=KIL84_016425 PE=3 SV=1	Mauremys mutica	499	2521	95.8	95.8	0.0
+172	TR	A0A8C3C6A8	non-specific serine/threonine protein kinase OS=Cairina moschata OX=8855 PE=3 SV=1	Cairina moschata	482	2518	98.1	99.0	0.0
+173	TR	A0AAD8GBL3	non-specific serine/threonine protein kinase OS=Acipenser oxyrinchus oxyrinchus OX=40147 GN=AKT3 PE=3 SV=1	Acipenser oxyrinchus oxyrinchus	479	2510	97.7	98.7	0.0
+174	TR	A0ABR0ZVI7	non-specific serine/threonine protein kinase OS=Huso huso OX=61971 GN=HHUSO_G7759 PE=3 SV=1	Huso huso	479	2503	97.1	98.5	0.0
+175	TR	A0AAD8LLU4	non-specific serine/threonine protein kinase OS=Acipenser oxyrinchus oxyrinchus OX=40147 GN=AKT3 PE=3 SV=1	Acipenser oxyrinchus oxyrinchus	479	2503	97.1	98.5	0.0
+176	TR	A0ACF8NRC1	Uncharacterized protein (Fragment) OS=Nasalis larvatus OX=43780 GN=H8958_014984 PE=4 SV=1	Nasalis larvatus	479	2496	98.1	99.4	0.0
+177	TR	A0A9L0QZY4	non-specific serine/threonine protein kinase OS=Equus caballus OX=9796 PE=3 SV=1	Equus caballus	495	2495	98.1	99.2	0.0
+178	TR	A0A9W2WLZ7	non-specific serine/threonine protein kinase OS=Physeter macrocephalus OX=9755 GN=AKT3 PE=3 SV=1	Physeter macrocephalus	531	2495	90.2	90.2	0.0
+179	TR	A0A9L0T870	non-specific serine/threonine protein kinase OS=Equus caballus OX=9796 PE=3 SV=1	Equus caballus	496	2490	97.9	98.5	0.0
+180	TR	W5K689	non-specific serine/threonine protein kinase OS=Astyanax mexicanus OX=7994 PE=3 SV=1	Astyanax mexicanus	479	2489	96.7	98.5	0.0
+181	TR	A0A8C9AFH9	non-specific serine/threonine protein kinase OS=Prolemur simus OX=1328070 GN=AKT3 PE=3 SV=1	Prolemur simus	475	2489	98.5	99.2	0.0
+182	TR	A0ABN9ZX24	non-specific serine/threonine protein kinase OS=Pipistrellus nathusii OX=59473 GN=MPIPNATIZW_LOCUS10484 PE=3 SV=1	Pipistrellus nathusii	477	2488	97.9	98.5	0.0
+183	TR	A0A7J7TNX1	non-specific serine/threonine protein kinase OS=Pipistrellus kuhlii OX=59472 GN=mPipKuh1_000527 PE=3 SV=1	Pipistrellus kuhlii	477	2488	97.9	98.5	0.0
+184	TR	A0A2K6DT01	non-specific serine/threonine protein kinase OS=Macaca nemestrina OX=9545 PE=3 SV=1	Macaca nemestrina	471	2488	98.7	99.4	0.0
+185	TR	A0A8D1TZL5	non-specific serine/threonine protein kinase OS=Sus scrofa OX=9823 GN=AKT3 PE=1 SV=1	Sus scrofa	500	2488	99.1	99.6	0.0
+186	TR	A0A2K6AA83	non-specific serine/threonine protein kinase OS=Mandrillus leucophaeus OX=9568 PE=3 SV=1	Mandrillus leucophaeus	471	2488	98.7	99.4	0.0
+187	TR	A0A2K5M326	non-specific serine/threonine protein kinase OS=Cercocebus atys OX=9531 PE=3 SV=1	Cercocebus atys	471	2488	98.7	99.4	0.0
+188	TR	F6R8M1	non-specific serine/threonine protein kinase OS=Macaca mulatta OX=9544 GN=AKT3 PE=3 SV=2	Macaca mulatta	473	2488	99.1	99.6	0.0
+189	TR	A0A8C9WL33	non-specific serine/threonine protein kinase OS=Scleropages formosus OX=113540 GN=akt3a PE=3 SV=1	Scleropages formosus	479	2487	96.2	98.7	0.0
+190	TR	A0A7J7RTZ6	non-specific serine/threonine protein kinase OS=Myotis myotis OX=51298 GN=mMyoMyo1_000538 PE=3 SV=1	Myotis myotis	477	2487	97.9	98.5	0.0
+191	TR	A0A8C5T1Q4	non-specific serine/threonine protein kinase OS=Malurus cyaneus samueli OX=2593467 PE=3 SV=1	Malurus cyaneus samueli	475	2486	97.9	98.3	0.0
+192	TR	A0AAN9H268	non-specific serine/threonine protein kinase OS=Phoxinus phoxinus OX=58324 GN=R3I93_012938 PE=3 SV=1	Phoxinus phoxinus	479	2485	96.0	98.5	0.0
+193	TR	A0A4W5NX33	non-specific serine/threonine protein kinase OS=Hucho hucho OX=62062 PE=3 SV=1	Hucho hucho	480	2485	96.2	98.8	0.0
+194	TR	A0A9W3HBS5	non-specific serine/threonine protein kinase OS=Camelus bactrianus OX=9837 GN=AKT3 PE=3 SV=1	Camelus bactrianus	514	2485	100.0	100.0	0.0
+195	TR	A0A8B8RY51	non-specific serine/threonine protein kinase OS=Camelus ferus OX=419612 GN=AKT3 PE=3 SV=1	Camelus ferus	498	2485	100.0	100.0	0.0
+196	TR	A0A8B8RWU6	non-specific serine/threonine protein kinase OS=Camelus ferus OX=419612 GN=AKT3 PE=3 SV=1	Camelus ferus	514	2485	100.0	100.0	0.0
+197	TR	A0A8C9AJF9	non-specific serine/threonine protein kinase OS=Prolemur simus OX=1328070 GN=AKT3 PE=3 SV=1	Prolemur simus	491	2485	98.5	98.7	0.0
+198	TR	A0A8T0BYC4	non-specific serine/threonine protein kinase OS=Silurus meridionalis OX=175797 GN=HF521_009508 PE=3 SV=1	Silurus meridionalis	479	2484	96.5	98.5	0.0
+199	TR	A0A2D0QMC9	non-specific serine/threonine protein kinase OS=Ictalurus punctatus OX=7998 GN=akt3a PE=3 SV=1	Ictalurus punctatus	479	2484	96.5	98.5	0.0
+200	TR	A0ACC5Y4S8	non-specific serine/threonine protein kinase OS=Pangasius djambal OX=1691987 GN=PDJAM_G00188010 PE=3 SV=1	Pangasius djambal	479	2484	96.5	98.5	0.0
+201	TR	A0A5N5PQD1	non-specific serine/threonine protein kinase OS=Pangasianodon hypophthalmus OX=310915 GN=PHYPO_G00180820 PE=3 SV=1	Pangasianodon hypophthalmus	479	2484	96.5	98.5	0.0
+202	TR	X5D2W7	non-specific serine/threonine protein kinase OS=Ctenopharyngodon idella OX=7959 PE=2 SV=1	Ctenopharyngodon idella	479	2484	96.0	98.5	0.0
+203	TR	A0ACC5WCI2	non-specific serine/threonine protein kinase OS=Pangasianodon gigas OX=30993 GN=PGIGA_G00190140 PE=3 SV=1	Pangasianodon gigas	479	2484	96.5	98.5	0.0
+204	TR	A0A2K5JHB9	non-specific serine/threonine protein kinase OS=Colobus angolensis palliatus OX=336983 PE=3 SV=1	Colobus angolensis palliatus	471	2484	98.5	99.4	0.0
+205	TR	D9IL79	non-specific serine/threonine protein kinase OS=Danio rerio OX=7955 GN=akt3a PE=2 SV=1	Danio rerio	479	2483	95.8	98.5	0.0
+206	TR	A0ACM8QM32	RAC-gamma serine/threonine-protein kinase OS=Danio rerio OX=7955 GN=akt3a PE=4 SV=1	Danio rerio	479	2483	95.8	98.5	0.0
+207	TR	A0A8B9FHE4	non-specific serine/threonine protein kinase OS=Amazona collaria OX=241587 PE=3 SV=1	Amazona collaria	487	2483	98.9	100.0	0.0
+208	TR	A0A452G1K3	non-specific serine/threonine protein kinase OS=Capra hircus OX=9925 GN=AKT3 PE=3 SV=1	Capra hircus	481	2483	97.5	97.9	0.0
+209	TR	A0A2I3M3E9	non-specific serine/threonine protein kinase OS=Papio anubis OX=9555 PE=3 SV=2	Papio anubis	472	2483	99.6	99.6	0.0
+210	TR	A0A2I3T6D0	non-specific serine/threonine protein kinase OS=Pan troglodytes OX=9598 GN=AKT3 PE=3 SV=1	Pan troglodytes	467	2482	99.8	100.0	0.0
+211	TR	H0XFB6	non-specific serine/threonine protein kinase OS=Otolemur garnettii OX=30611 PE=3 SV=1	Otolemur garnettii	479	2482	97.1	98.7	0.0
+212	TR	A0ACI6S1M8	Uncharacterized protein OS=Ovis aries OX=9940 GN=AKT3 PE=4 SV=1	Ovis aries	481	2482	99.8	100.0	0.0
+213	TR	A0A7L1GAC5	non-specific serine/threonine protein kinase (Fragment) OS=Indicator maculatus OX=545262 GN=Akt3 PE=3 SV=1	Indicator maculatus	479	2481	97.5	98.5	0.0
+214	TR	A0ACE3CIH1	Uncharacterized protein OS=Leuciscus chuanchicus OX=3231064 GN=LCH_LOCUS27740 PE=4 SV=1	Leuciscus chuanchicus	479	2481	95.8	98.5	0.0
+215	TR	A0AAX6PJ91	non-specific serine/threonine protein kinase OS=Heterocephalus glaber OX=10181 GN=Akt3 PE=3 SV=1	Heterocephalus glaber	490	2481	99.6	99.8	0.0
+216	TR	A0AAX6TJ86	non-specific serine/threonine protein kinase OS=Heterocephalus glaber OX=10181 GN=Akt3 PE=3 SV=1	Heterocephalus glaber	474	2481	99.8	100.0	0.0
+217	TR	A0A6J3BN79	non-specific serine/threonine protein kinase OS=Vicugna pacos OX=30538 GN=AKT3 PE=3 SV=1	Vicugna pacos	555	2481	99.6	99.8	0.0
+218	TR	A0ABM3TVJ7	non-specific serine/threonine protein kinase OS=Balaenoptera acutorostrata OX=9767 GN=AKT3 PE=3 SV=1	Balaenoptera acutorostrata	501	2481	99.6	99.8	0.0
+219	TR	A0A384CDR6	non-specific serine/threonine protein kinase OS=Ursus maritimus OX=29073 GN=AKT3 PE=3 SV=1	Ursus maritimus	474	2481	98.7	99.6	0.0
+220	TR	A0A6B0QYW4	non-specific serine/threonine protein kinase OS=Bos mutus OX=72004 GN=E5288_WYG004852 PE=3 SV=1	Bos mutus	577	2481	99.8	100.0	0.0
+221	TR	A0ABN8ZZC6	non-specific serine/threonine protein kinase OS=Rangifer tarandus platyrhynchus OX=3082113 GN=MRATA1EN1_LOCUS28304 PE=3 SV=1	Rangifer tarandus platyrhynchus	514	2481	98.9	99.6	0.0
+222	TR	A0ABC9WNU6	non-specific serine/threonine protein kinase OS=Grus japonensis OX=30415 GN=GRJ2_001178900 PE=3 SV=1	Grus japonensis	512	2480	98.9	99.8	0.0
+223	TR	A0A9D3QHM5	non-specific serine/threonine protein kinase OS=Megalops atlanticus OX=7932 GN=MATL_G00020210 PE=3 SV=1	Megalops atlanticus	479	2480	96.2	98.5	0.0
+224	TR	A0A7K7UUA3	non-specific serine/threonine protein kinase (Fragment) OS=Eudromia elegans OX=8805 GN=Akt3 PE=3 SV=1	Eudromia elegans	476	2480	97.7	98.7	0.0
+225	TR	A0A7K5HLJ4	non-specific serine/threonine protein kinase (Fragment) OS=Crotophaga sulcirostris OX=33598 GN=Akt3 PE=3 SV=1	Crotophaga sulcirostris	475	2480	97.5	98.5	0.0
+226	TR	A0A3P8Y9Q5	non-specific serine/threonine protein kinase OS=Esox lucius OX=8010 PE=3 SV=1	Esox lucius	480	2480	96.0	98.8	0.0
+227	TR	A0A9L0JEV0	non-specific serine/threonine protein kinase OS=Equus asinus OX=9793 GN=AKT3 PE=3 SV=1	Equus asinus	468	2480	100.0	100.0	0.0
+228	TR	A0A2K6DSY8	non-specific serine/threonine protein kinase OS=Macaca nemestrina OX=9545 PE=3 SV=1	Macaca nemestrina	464	2480	100.0	100.0	0.0
+229	TR	A0ABM4QNT6	non-specific serine/threonine protein kinase OS=Bos indicus OX=9915 GN=AKT3 PE=3 SV=1	Bos indicus	466	2480	100.0	100.0	0.0
+230	TR	A0A2K6AA77	non-specific serine/threonine protein kinase OS=Mandrillus leucophaeus OX=9568 PE=3 SV=1	Mandrillus leucophaeus	464	2480	100.0	100.0	0.0
+231	TR	A0A0D9RAE4	non-specific serine/threonine protein kinase OS=Chlorocebus sabaeus OX=60711 PE=3 SV=1	Chlorocebus sabaeus	473	2480	100.0	100.0	0.0
+232	TR	A0A9L0SPA7	non-specific serine/threonine protein kinase OS=Equus caballus OX=9796 PE=3 SV=1	Equus caballus	499	2480	100.0	100.0	0.0
+233	TR	A0A8C3VNF9	non-specific serine/threonine protein kinase OS=Catagonus wagneri OX=51154 GN=AKT3 PE=3 SV=1	Catagonus wagneri	492	2480	100.0	100.0	0.0
+234	TR	A0A2I3SF21	non-specific serine/threonine protein kinase OS=Pan troglodytes OX=9598 GN=AKT3 PE=3 SV=1	Pan troglodytes	464	2480	100.0	100.0	0.0
+235	TR	A0A8I5T6X8	non-specific serine/threonine protein kinase OS=Pongo abelii OX=9601 GN=AKT3 PE=3 SV=1	Pongo abelii	477	2480	100.0	100.0	0.0
+236	TR	A0AAA9SPW6	non-specific serine/threonine protein kinase OS=Bos taurus OX=9913 GN=AKT3 PE=3 SV=1	Bos taurus	469	2480	100.0	100.0	0.0
+237	TR	A0AAA9T7A6	non-specific serine/threonine protein kinase OS=Bos taurus OX=9913 GN=AKT3 PE=3 SV=1	Bos taurus	466	2480	100.0	100.0	0.0
+238	TR	A0A674IV52	non-specific serine/threonine protein kinase OS=Terrapene triunguis OX=2587831 GN=AKT3 PE=3 SV=1	Terrapene triunguis	474	2479	99.1	99.6	0.0
+239	TR	A0A7K9YYA3	non-specific serine/threonine protein kinase (Fragment) OS=Odontophorus gujanensis OX=886794 GN=Akt3 PE=3 SV=1	Odontophorus gujanensis	479	2479	97.5	98.7	0.0
+240	TR	A0A099ZAC9	non-specific serine/threonine protein kinase (Fragment) OS=Tinamus guttatus OX=94827 GN=N309_02502 PE=3 SV=1	Tinamus guttatus	475	2478	97.7	98.7	0.0
+241	TR	A0A9D3P856	non-specific serine/threonine protein kinase OS=Hemibagrus wyckioides OX=337641 GN=KOW79_002639 PE=3 SV=1	Hemibagrus wyckioides	479	2478	96.2	98.3	0.0
+242	TR	A0A7K8XWH7	non-specific serine/threonine protein kinase (Fragment) OS=Eubucco bourcierii OX=91767 GN=Akt3 PE=3 SV=1	Eubucco bourcierii	474	2478	97.9	98.5	0.0
+243	TR	A0ACM7HDA6	RAC-gamma serine/threonine-protein kinase isoform X1 OS=Callorhinus ursinus OX=34884 GN=AKT3 PE=4 SV=1	Callorhinus ursinus	489	2478	98.9	99.6	0.0
+244	TR	A0A2K5E2U9	non-specific serine/threonine protein kinase OS=Aotus nancymaae OX=37293 PE=3 SV=1	Aotus nancymaae	468	2478	99.1	99.6	0.0
+245	TR	A0A7M4G0G1	non-specific serine/threonine protein kinase OS=Crocodylus porosus OX=8502 GN=AKT3 PE=3 SV=1	Crocodylus porosus	493	2477	99.8	100.0	0.0
+246	TR	A0A7M4F786	non-specific serine/threonine protein kinase OS=Crocodylus porosus OX=8502 GN=AKT3 PE=3 SV=1	Crocodylus porosus	474	2477	99.8	100.0	0.0
+247	TR	A0A9D3RHV7	non-specific serine/threonine protein kinase OS=Anguilla anguilla OX=7936 GN=ANANG_G00300730 PE=3 SV=1	Anguilla anguilla	598	2477	95.6	98.5	0.0
+248	TR	A0A2K6U3V6	non-specific serine/threonine protein kinase OS=Saimiri boliviensis boliviensis OX=39432 PE=3 SV=1	Saimiri boliviensis boliviensis	465	2477	99.8	99.8	0.0
+249	TR	A0ACB9URZ3	non-specific serine/threonine protein kinase OS=Ovis ammon polii x Ovis aries OX=2918886 GN=MJG53_011040 PE=3 SV=1	Ovis ammon polii x Ovis aries	503	2477	99.6	99.6	0.0
+250	TR	A0A8C5VAP3	non-specific serine/threonine protein kinase OS=Microcebus murinus OX=30608 GN=AKT3 PE=3 SV=1	Microcebus murinus	472	2477	99.2	99.4	0.0
