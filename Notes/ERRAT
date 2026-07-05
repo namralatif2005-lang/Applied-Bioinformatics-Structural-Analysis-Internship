@@ -1,0 +1,21 @@
+## DEFINITION
+ERRAT is a protein structure validation tool that evaluates the quality of a 3D protein model by analyzing non-bonded atomic interactions.
+
+## PURPOSE
+- Assess the quality of protein structures.
+- Identify regions with structural errors.
+- Validate predicted protein models.
+- Improve model reliability before further analysis.
+
+## KEY METRIC
+- **Overall Quality Factor:** Indicates the overall accuracy of the protein structure. Higher values represent better-quality models
+(generally >90% for high-resolution structures).
+
+## FILES TO UPLOAD
+- PDB (.pdb) protein structure file.
+
+## IMPORTANT POINTS
+- Used after protein structure prediction or modeling.
+- Detects regions with abnormal atomic interactions.
+- Generates a quality score and error plot.
+- Commonly used alongside other validation tools such as PROCHECK and Verify3D.
