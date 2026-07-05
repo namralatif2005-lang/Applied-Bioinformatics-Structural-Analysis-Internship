@@ -1,1 +1,48 @@
+# Structure Refinement and Validation
+
+## Overview
+
+Structure refinement and validation are essential steps in protein modeling to improve the quality of predicted three-dimensional (3D) 
+structures and assess their reliability. Refinement optimizes the protein model by improving its geometry, while validation evaluates the
+accuracy and stereochemical quality of the refined structure. In this project, GalaxyRefine was used for structure refinement, and the
+refined models were validated using PROCHECK, ERRAT, and Verify3D.
+
+## Objective
+
+To refine the predicted protein structure and evaluate its quality using multiple validation tools.
+
+## Methodology
+
+The predicted protein structure was first refined using GalaxyRefine to improve its structural quality. The refined model was then 
+validated using PROCHECK for stereochemical analysis, ERRAT for non-bonded interaction assessment, and Verify3D for sequence–structure 
+compatibility evaluation.
+
+## Input
+
+* Predicted protein structure (.pdb).
+
+## Output
+
+* Refined protein structure (.pdb).
+* Ramachandran plot.
+* ERRAT quality factor.
+* Verify3D assessment report.
+
+## Applications
+
+* Protein model refinement.
+* Structure quality assessment.
+* Preparation for molecular docking.
+* Structural biology research.
+
+## Files Included
+
+* Predicted protein structure (.pdb).
+* Refined protein structure (.pdb).
+* PROCHECK, ERRAT, and Verify3D reports.
+
+## Conclusion
+
+Structure refinement and validation improved the quality of the predicted protein model and confirmed its reliability through multiple
+validation metrics, making it suitable for downstream structural and functional analyses.
 
