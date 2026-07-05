@@ -1,0 +1,26 @@
+## ## DEFINITION
+iTOL (Interactive Tree Of Life) is an online tool used to visualize, annotate, customize, and share phylogenetic trees.
+
+## PURPOSE
+- Visualize phylogenetic trees.
+- Annotate tree data.
+- Customize tree appearance.
+- Share and export publication-quality trees.
+
+## FEATURES
+- Interactive tree visualization.
+- Color-coding and annotation of branches and labels.
+- Supports multiple dataset overlays (heatmaps, bar charts, symbols, etc.).
+- Export trees in various image formats.
+
+## FILES TO UPLOAD
+- Newick (.nwk, .tree, .tre)
+- Nexus (.nex)
+- PhyloXML (.xml)
+- Annotation files (TXT/CSV format)
+
+## IMPORTANT POINTS
+- Web-based and easy to use.
+- Supports large phylogenetic trees.
+- Produces publication-quality figures.
+- Widely used for phylogenetic tree visualization and annotation.
