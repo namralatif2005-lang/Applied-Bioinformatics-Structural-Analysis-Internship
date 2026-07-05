@@ -1,1 +1,45 @@
+# Physicochemical Properties Analysis
+
+## Overview
+
+Physicochemical property analysis is a preliminary step in protein structure prediction that evaluates the physical and chemical 
+characteristics of a protein from its amino acid sequence. In this project, ExPASy ProtParam was used to calculate properties that aid 
+in protein characterization and structural analysis.
+
+## Objective
+
+To determine the physicochemical properties of the target protein and assess its stability before structure prediction.
+
+## Methodology
+
+The protein sequence in FASTA format was analyzed using ExPASy ProtParam to calculate key physicochemical parameters.
+
+## Input
+
+* Protein sequence (FASTA).
+
+## Output
+
+* Molecular weight.
+* Theoretical pI.
+* Amino acid composition.
+* Instability index.
+* Aliphatic index.
+* GRAVY score.
+
+## Applications
+
+* Protein characterization.
+* Stability assessment.
+* Support for protein structure prediction.
+
+## Files Included
+
+* Protein sequence (FASTA).
+* ProtParam results.
+
+## Conclusion
+
+The analysis provided important physicochemical properties of the target protein, offering insights into its stability and biochemical 
+characteristics to support subsequent protein structure prediction.
 
