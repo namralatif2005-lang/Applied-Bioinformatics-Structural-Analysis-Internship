@@ -1,0 +1,23 @@
+## DEFINITION
+GalaxyRefine is an online protein structure refinement tool that improves the quality and accuracy of predicted 3D protein models.
+
+## PURPOSE
+- Refine predicted protein structures.
+- Improve structural accuracy.
+- Optimize side-chain conformations.
+- Enhance overall model quality.
+
+## APPLICATIONS
+- Protein structure refinement.
+- Structural biology research.
+- Preparation for molecular docking.
+- Improving models before validation.
+
+## FILES TO UPLOAD
+- PDB (.pdb) protein structure file.
+
+## IMPORTANT POINTS
+- Accepts predicted or experimentally determined protein structures.
+- Produces refined protein models with improved quality.
+- Commonly used before validation tools such as ERRAT and PROCHECK.
+- Freely available for academic research.
