@@ -1,0 +1,29 @@
+## DEFINITION
+PSIPRED is a bioinformatics tool used to predict the secondary structure of proteins from their amino acid sequences.
+
+## PURPOSE
+- Predict protein secondary structure.
+- Identify structural elements.
+- Support protein function analysis.
+- Assist in protein structure modeling.
+
+## STRUCTURE PREDICTED
+- Alpha helices (α-helices)
+- Beta strands (β-sheets)
+- Random coils (loops)
+
+## APPLICATIONS
+- Secondary structure prediction.
+- Protein function prediction.
+- Protein structure modeling.
+- Comparative protein analysis.
+
+## FILES TO UPLOAD
+- Protein FASTA (.fasta, .fa)
+- Protein sequence (.txt)
+
+## IMPORTANT POINTS
+- Accepts amino acid sequences only.
+- Uses sequence-based prediction methods.
+- Provides confidence scores for each predicted residue.
+- Widely used before tertiary structure prediction.
