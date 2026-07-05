@@ -1,0 +1,30 @@
+## DEFINITION
+I-TASSER (Iterative Threading ASSEmbly Refinement) is an online tool used to predict the three-dimensional (3D) structure and function
+of proteins from their amino acid sequences.
+
+## PURPOSE
+- Predict 3D protein structures.
+- Predict protein function.
+- Identify structural templates.
+- Support protein modeling studies.
+
+## FEATURES
+- Protein structure prediction.
+- Function and ligand-binding site prediction.
+- Template-based modeling.
+- Structure refinement and confidence estimation.
+
+## IMPORTANT SCORES
+- **C-score:** Confidence of the predicted model (higher is better).
+- **TM-score:** Measures structural similarity (values >0.5 generally indicate a correct fold).
+- **RMSD:** Estimates structural deviation from the native structure (lower is better).
+
+## FILES TO UPLOAD
+- Protein FASTA (.fasta, .fa)
+- Protein sequence (.txt)
+
+## IMPORTANT POINTS
+- Accepts amino acid sequences only.
+- Generates multiple predicted 3D models.
+- Provides confidence scores for model evaluation.
+- Widely used for protein structure and function prediction.
