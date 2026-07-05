@@ -1,0 +1,23 @@
+## DEFINITION
+Verify3D is a protein structure validation tool that evaluates the compatibility of a 3D protein model with its amino acid sequence.
+
+## PURPOSE
+- Validate 3D protein structures.
+- Assess sequence–structure compatibility.
+- Identify poorly modeled regions.
+- Improve confidence in predicted structures.
+
+## APPLICATIONS
+- Protein structure validation.
+- Quality assessment of predicted models.
+- Comparison of refined protein structures.
+- Structural biology and bioinformatics research.
+
+## FILES TO UPLOAD
+- PDB (.pdb) protein structure file.
+
+## IMPORTANT POINTS
+- Evaluates each residue based on its 3D environment.
+- Reports the percentage of residues with acceptable scores.
+- Commonly used with ERRAT and PROCHECK for comprehensive validation.
+- Higher Verify3D scores indicate better model quality.
