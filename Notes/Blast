@@ -1,0 +1,48 @@
+BLAST (Basic Local Alignment Search Tool)
+
+*DEFINITION:
+BLAST is a bioinformatics tool used to compare DNA, RNA, or protein sequences with biological databases to identify sequence similarity
+and predict function.
+
+*PURPOSE:
+Identify similar sequences.
+Predict gene/protein function.
+Find homologous sequences.
+Study evolutionary relationships.
+
+*TYPES:
+BLASTN
+BLASTP
+BLASTX
+TBLASTN
+TBLASTX
+
+*KEY PARAMETERS:
+E-value: Lower value indicates a more significant match.
+Percent Identity: Measures sequence similarity.
+Query Coverage: Percentage of the query sequence aligned.
+Bit Score: Higher score indicates a better alignment.
+
+*APPLICATIONS:
+Gene and protein identification.
+Function prediction.
+Comparative genomics.
+Phylogenetic analysis.
+
+*IMPORTANT OUTPUTS:
+Hit List: Best matching sequences.
+Pairwise Alignment: Detailed sequence comparison.
+Graphical Summary: Visual representation of alignments.
+Taxonomy Report: Matching organisms.
+
+*FILES TO UPLOAD:
+FASTA (.fasta, .fa, .fna) – Standard input format.
+Text (.txt) – Raw sequence or FASTA format.
+Protein FASTA – For protein searches.
+Nucleotide FASTA – For DNA/RNA searches.
+
+*IMPORTANT POINTS:
+Performs local sequence alignment.
+Lower E-value and higher bit score indicate better matches.
+Choose the appropriate BLAST type based on the query sequence.
+FASTA is the most commonly used input format.
