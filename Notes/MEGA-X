@@ -1,0 +1,39 @@
+## DEFINITION
+MEGA X (Molecular Evolutionary Genetics Analysis X) is a software package used for sequence alignment, evolutionary analysis, and
+phylogenetic tree construction.
+
+## PURPOSE
+- Perform evolutionary analysis.
+- Construct phylogenetic trees.
+- Analyze DNA and protein sequences.
+- Estimate evolutionary distances.
+
+## APPLICATIONS
+- Phylogenetic analysis.
+- Sequence alignment.
+- Evolutionary studies.
+- Comparative genomics.
+
+## TREE TYPES
+- Neighbor-Joining (NJ)
+- Maximum Likelihood (ML)
+- Maximum Parsimony (MP)
+- UPGMA
+
+## OUTPUT FILES
+- Newick (.nwk)
+- MEGA Session (.meg)
+- Tree files (.mtsx)
+- Image files (.png, .jpg, .pdf)
+
+## FILES TO UPLOAD
+- FASTA (.fasta, .fa)
+- MEGA (.meg)
+- Nexus (.nex)
+- Phylip (.phy)
+
+## IMPORTANT POINTS
+- Supports both DNA and protein sequence analysis.
+- Provides multiple methods for phylogenetic tree construction.
+- Includes statistical tools such as bootstrap analysis.
+- Widely used in evolutionary biology and bioinformatics.
