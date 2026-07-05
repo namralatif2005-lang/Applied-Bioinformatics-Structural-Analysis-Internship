@@ -1,1 +1,7 @@
+### NCBI
+
+The National Center for Biotechnology Information (NCBI) is one of the largest repositories of biological data. It provides access to 
+nucleotide and protein sequences, gene information, genomes, scientific literature, and a variety of bioinformatics tools such as BLAST.
+In this project, NCBI was used to retrieve the required biological sequences using accession numbers or gene/protein names, which were
+then used for downstream analyses including sequence alignment, structure prediction, and phylogenetic studies.
 
