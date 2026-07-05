@@ -1,1 +1,52 @@
+# Protein Structure Prediction
+
+## Overview
+
+Protein structure prediction is an essential step in bioinformatics that helps understand the structural organization and functional
+properties of proteins. It involves analyzing the protein sequence to determine its physicochemical characteristics and predict its
+primary, secondary, and tertiary structures. These analyses provide valuable insights into protein stability, folding, biological
+function, and molecular interactions, serving as the basis for structural refinement, validation, and downstream computational studies.
+
+## Objective
+
+To characterize the target protein by analyzing its physicochemical properties and predicting its primary, secondary, and tertiary
+structures.
+
+## Methodology
+
+The protein sequence was first analyzed to determine its physicochemical properties using ExPASy ProtParam. Secondary structure prediction
+was then performed using PSIPRED to identify α-helices, β-strands, and random coils. Tertiary structure prediction was carried out using
+a protein structure prediction server, followed by refinement and validation using appropriate bioinformatics tools.
+
+## Input
+
+* Protein sequence (FASTA).
+
+## Output
+
+* Physicochemical properties.
+* Predicted secondary structure.
+* Predicted 3D protein structure.
+* Refined and validated protein model.
+
+## Applications
+
+* Protein characterization.
+* Structure-function analysis.
+* Drug discovery and molecular docking.
+* Structural biology research.
+
+## Files Included
+
+* Protein sequence (FASTA).
+* Physicochemical analysis results.
+* Secondary structure prediction results.
+* Predicted 3D structure (.pdb).
+* Structure refinement and validation reports.
+
+## Conclusion
+
+Protein structure prediction provided comprehensive information about the physicochemical characteristics and structural organization of
+the target protein. The generated results formed the foundation for understanding protein function and supported further structural
+refinement, validation, and computational analyses.
 
