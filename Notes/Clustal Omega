@@ -1,0 +1,39 @@
+## DEFINITION
+Clustal Omega is a multiple sequence alignment (MSA) tool used to align DNA, RNA, or protein sequences and identify conserved regions
+and evolutionary relationships.
+
+## PURPOSE
+- Perform multiple sequence alignment.
+- Identify conserved regions.
+- Study evolutionary relationships.
+- Prepare sequences for phylogenetic analysis.
+
+## WORKFLOW
+- Upload input sequences.
+- Perform multiple sequence alignment.
+- Generate alignment.
+- Download and analyze results.
+
+## APPLICATIONS
+- Multiple sequence alignment.
+- Phylogenetic analysis.
+- Protein family analysis.
+- Conserved motif identification.
+
+## OUTPUT FILES
+- Alignment file (.aln)
+- FASTA alignment (.fasta)
+- Clustal format (.clustal/.aln)
+- Phylogenetic guide tree (.dnd/.nwk)
+
+## FILES TO UPLOAD
+- FASTA (.fasta, .fa)
+- Text (.txt) with FASTA-formatted sequences
+- Protein sequences
+- DNA/RNA sequences
+
+## IMPORTANT POINTS
+- Supports DNA, RNA, and protein sequences.
+- Produces high-quality multiple sequence alignments.
+- Generates a guide tree for phylogenetic analysis.
+- Commonly used before phylogenetic tree construction.
