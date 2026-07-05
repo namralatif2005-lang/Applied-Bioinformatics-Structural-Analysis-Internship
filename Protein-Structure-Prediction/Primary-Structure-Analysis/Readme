@@ -1,1 +1,47 @@
+# Primary Structure Analysis
+
+## Overview
+
+Primary structure analysis involves examining the amino acid sequence of a protein to understand its fundamental composition and 
+physicochemical characteristics. Since the primary sequence determines the higher levels of protein structure, its analysis provides
+essential information for protein characterization and subsequent structural studies.
+
+## Objective
+
+To analyze the amino acid sequence and determine the physicochemical properties of the target protein.
+
+## Methodology
+
+The protein sequence in FASTA format was analyzed using ExPASy ProtParam to calculate key physicochemical properties, including molecular
+weight, theoretical pI, amino acid composition, instability index, aliphatic index, and GRAVY score.
+
+## Input
+
+* Protein sequence (FASTA).
+
+## Output
+
+* Molecular weight.
+* Theoretical pI.
+* Amino acid composition.
+* Instability index.
+* Aliphatic index.
+* GRAVY score.
+
+## Applications
+
+* Protein characterization.
+* Stability assessment.
+* Functional studies.
+* Support for higher-order structure prediction.
+
+## Files Included
+
+* Protein sequence (FASTA).
+* ProtParam analysis results.
+
+## Conclusion
+
+Primary structure analysis provided valuable information about the physicochemical characteristics of the target protein, serving as 
+the basis for secondary and tertiary structure prediction.
 
