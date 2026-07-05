@@ -1,0 +1,38 @@
+## DEFINITION
+UniProt (Universal Protein Resource) is a comprehensive protein database that provides protein sequences, functional information, and annotations.
+
+## PURPOSE
+- Store protein sequence and functional data.
+- Provide curated protein annotations.
+- Support protein identification and analysis.
+- Facilitate biological and biomedical research.
+
+## FEATURES
+- Reviewed (Swiss-Prot) and unreviewed (TrEMBL) entries.
+- Functional, structural, and sequence information.
+- Cross-references to other biological databases.
+- Advanced search and analysis tools.
+
+## COMMON USES
+- Protein function prediction.
+- Protein sequence retrieval.
+- Homology and evolutionary studies.
+- Functional annotation of proteins.
+
+## FILE TYPES
+- FASTA (.fasta, .fa)
+- TXT (.txt)
+- XML (.xml)
+- RDF (.rdf)
+- GFF (.gff)
+
+## FILES TO UPLOAD
+- Protein FASTA (.fasta, .fa)
+- Protein sequence (.txt)
+- UniProt accession ID or protein name
+
+## IMPORTANT POINTS
+- Contains both reviewed (Swiss-Prot) and unreviewed (TrEMBL) records.
+- One of the largest and most reliable protein databases.
+- Integrates data from multiple biological resources.
+- Freely accessible for research and education.
