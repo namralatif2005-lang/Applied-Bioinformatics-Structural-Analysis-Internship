@@ -1,1 +1,44 @@
+# Secondary Structure Prediction
+
+## Overview
+
+Secondary structure prediction is the process of identifying the local structural elements of a protein from its amino acid sequence.
+It predicts the arrangement of α-helices, β-strands, and random coils, providing insights into protein folding and serving as an important
+step toward tertiary structure prediction. In this project, PSIPRED was used for secondary structure prediction.
+
+## Objective
+
+To predict the secondary structural elements of the target protein and understand its structural organization.
+
+## Methodology
+
+The protein sequence in FASTA format was submitted to the PSIPRED server, which analyzed the sequence and predicted the positions of
+α-helices, β-strands, and random coils along with confidence scores.
+
+## Input
+
+* Protein sequence (FASTA).
+
+## Output
+
+* Predicted α-helices, β-strands, and coils.
+* Confidence scores.
+* Graphical representation of the secondary structure.
+
+## Applications
+
+* Protein structure analysis.
+* Function prediction.
+* Support for tertiary structure prediction.
+* Comparative protein studies.
+
+## Files Included
+
+* Protein sequence (FASTA).
+* PSIPRED prediction results.
+
+## Conclusion
+
+Secondary structure prediction identified the structural elements of the target protein, providing valuable insights into its folding
+pattern and supporting subsequent tertiary structure prediction and structural analysis.
 
