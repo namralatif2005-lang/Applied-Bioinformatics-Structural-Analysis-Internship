@@ -1,0 +1,38 @@
+## DEFINITION
+PDB (Protein Data Bank) is a global database that stores the three-dimensional (3D) structures of proteins, nucleic acids, and other biological macromolecules.
+
+## PURPOSE
+- Store and share 3D macromolecular structures.
+- Support structural biology research.
+- Analyze protein structure and function.
+- Aid in drug discovery and molecular modeling.
+
+## COMMON USES
+- Protein structure visualization.
+- Structure-function analysis.
+- Drug and ligand interaction studies.
+- Comparative structural analysis.
+
+## INFORMATION AVAILABLE
+- 3D molecular structures.
+- Protein and nucleic acid sequences.
+- Experimental methods (X-ray, NMR, Cryo-EM).
+- Ligand and functional annotations.
+
+## IMPORTANT FILE FORMATS
+- PDB (.pdb)
+- mmCIF (.cif)
+- PDBx/mmCIF (.cif)
+- XML (.xml)
+
+## FILES TO UPLOAD
+- PDB (.pdb)
+- mmCIF (.cif)
+- Protein structure files.
+- PDB ID (e.g., 1CRN).
+
+## IMPORTANT POINTS
+- World's primary repository for 3D biomolecular structures.
+- Contains experimentally determined structures.
+- Freely accessible for research and education.
+- Widely used in structural biology and bioinformatics.
