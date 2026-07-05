@@ -1,1 +1,13 @@
+## Sequence Analysis
+
+Sequence analysis is a fundamental step in bioinformatics that helps identify similarities, conserved regions, and evolutionary
+relationships among biological sequences. It provides valuable insights into the structure, function, and evolutionary history of genes
+and proteins, making it an essential component of biological research.
+
+In this project, sequence analysis was carried out using a combination of bioinformatics tools. The analysis began with BLAST 
+(Basic Local Alignment Search Tool), which was used to compare the query protein sequence against biological databases to identify 
+homologous sequences with significant similarity. The retrieved sequences were then subjected to Multiple Sequence Alignment (MSA)
+using Clustal Omega, allowing the identification of conserved amino acid residues and regions shared among different species. Finally, 
+phylogenetic analysis was performed using the aligned sequences to infer evolutionary relationships and construct a phylogenetic tree, 
+providing a graphical representation of the evolutionary divergence and relatedness of the selected protein sequences.
 
