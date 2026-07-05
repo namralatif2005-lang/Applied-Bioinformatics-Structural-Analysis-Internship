@@ -1,1 +1,46 @@
+# Tertiary Structure Prediction
+
+## Overview
+
+Tertiary structure prediction involves determining the three-dimensional (3D) conformation of a protein from its amino acid sequence. 
+The predicted structure provides insights into protein folding, stability, function, and molecular interactions. In this project, a
+protein structure prediction server was used to generate the 3D model, which was subsequently refined and validated using appropriate 
+bioinformatics tools.
+
+## Objective
+
+To predict the three-dimensional structure of the target protein for structural analysis and validation.
+
+## Methodology
+
+The protein sequence in FASTA format was submitted to a protein structure prediction server to generate a 3D model. The predicted
+structure was then refined to improve its quality and validated using structure assessment tools.
+
+## Input
+
+* Protein sequence (FASTA).
+
+## Output
+
+* Predicted 3D protein model.
+* Protein structure file (.pdb).
+* Model confidence scores.
+
+## Applications
+
+* Structure-function analysis.
+* Molecular docking studies.
+* Drug discovery.
+* Structural biology research.
+
+## Files Included
+
+* Protein sequence (FASTA).
+* Predicted protein structure (.pdb).
+* Structure prediction results.
+
+## Conclusion
+
+Tertiary structure prediction generated a three-dimensional model of the target protein, providing a structural basis for refinement, 
+validation, and further computational analyses.
 
