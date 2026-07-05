@@ -1,1 +1,58 @@
+# Multiple Sequence Alignment (MSA)
+
+## Overview
+
+Multiple Sequence Alignment (MSA) is a bioinformatics technique used to align three or more biological sequences to identify conserved
+regions, sequence variations, and evolutionary relationships. In this project, Clustal Omega was used to perform the alignment of
+homologous protein sequences obtained from BLAST analysis.
+
+## Objective
+
+The objective of this analysis was to identify conserved amino acid residues, compare sequence similarities and differences among
+homologous proteins, and generate an aligned dataset for phylogenetic analysis.
+
+## Methodology
+
+Protein sequences retrieved from BLAST were collected in FASTA format and submitted to Clustal Omega for multiple sequence alignment.
+The aligned sequences were analyzed to identify conserved regions and sequence variations. The resulting alignment was then used as the
+input for phylogenetic tree construction.
+
+## Input
+
+* Homologous protein sequences in FASTA format.
+* Clustal Omega alignment tool.
+
+## Output
+
+* Multiple sequence alignment (.aln).
+* Aligned FASTA file.
+* Conserved and variable sequence regions.
+* Guide tree generated during alignment (if applicable).
+
+## Key Features
+
+* Aligns multiple protein sequences simultaneously.
+* Identifies conserved amino acid residues.
+* Detects sequence variations and gaps.
+* Produces alignment files for downstream analyses.
+
+## Applications
+
+* Conserved region identification.
+* Comparative sequence analysis.
+* Protein family studies.
+* Preparation for phylogenetic tree construction.
+
+## Files Included
+
+* Input protein sequences (FASTA).
+* Multiple sequence alignment file (.aln).
+* Aligned FASTA file.
+* Guide tree (if generated).
+
+## Conclusion
+
+Multiple sequence alignment successfully aligned the homologous protein sequences and identified conserved and variable regions among 
+them. The alignment provided valuable insights into sequence conservation and served as the foundation for subsequent phylogenetic
+analysis.
 
