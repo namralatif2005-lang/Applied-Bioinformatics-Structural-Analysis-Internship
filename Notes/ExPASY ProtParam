@@ -1,0 +1,34 @@
+## DEFINITION
+ExPASy ProtParam is an online tool that computes the physical and chemical properties of a protein from its amino acid sequence.
+
+## PURPOSE
+- Analyze protein physicochemical properties.
+- Estimate protein stability and composition.
+- Support protein characterization.
+- Assist in protein research and bioinformatics studies.
+
+## PARAMETERS CALCULATED
+- Molecular weight
+- Theoretical isoelectric point (pI)
+- Amino acid composition
+- Extinction coefficient
+- Instability index
+- Aliphatic index
+- GRAVY (Grand Average of Hydropathicity)
+
+## APPLICATIONS
+- Protein characterization.
+- Stability prediction.
+- Comparative protein analysis.
+- Recombinant protein research.
+
+## FILES TO UPLOAD
+- Protein FASTA (.fasta, .fa)
+- Protein sequence (.txt)
+- UniProt accession ID
+
+## IMPORTANT POINTS
+- Accepts protein sequences only.
+- Calculates properties without requiring a 3D structure.
+- Fast and freely accessible.
+- Commonly used before protein structure and function analysis.
