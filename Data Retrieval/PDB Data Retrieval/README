@@ -1,1 +1,7 @@
+### PDB
+
+The Protein Data Bank (PDB) is the primary database for experimentally determined three-dimensional structures of proteins, nucleic acids,
+and other biological macromolecules. It provides structural files in formats such as PDB and mmCIF, along with detailed information about
+molecular architecture and experimental methods. In this project, PDB was used to obtain protein structure files for visualization,
+refinement, and structural validation using different bioinformatics tools.
 
