@@ -1,1 +1,55 @@
+# BLAST Analysis
+
+## Overview
+
+BLAST (Basic Local Alignment Search Tool) is a widely used bioinformatics tool for comparing a query sequence against biological databases to identify regions of similarity. It helps detect homologous sequences, predict protein or gene function, and provides the foundation for comparative and evolutionary analyses.
+
+## Objective
+
+The objective of this analysis was to identify homologous protein sequences related to the query sequence and retrieve significant
+matches for downstream multiple sequence alignment and phylogenetic analysis.
+
+## Methodology
+
+The query protein sequence was submitted to the NCBI BLAST server and searched against the appropriate protein database. 
+Search results were evaluated based on key parameters such as E-value, percent identity, query coverage, and bit score.
+The top homologous sequences from different organisms were selected and downloaded in FASTA format for subsequent analyses.
+
+## Input
+
+* Protein sequence in FASTA format.
+* NCBI protein database.
+
+## Output
+
+* List of homologous protein sequences.
+* Pairwise sequence alignments.
+* Hit summary with E-value, percent identity, query coverage, and bit score.
+* Protein sequences downloaded in FASTA format.
+
+## Key Parameters
+
+* **E-value:** Measures the statistical significance of a match.
+* **Percent Identity:** Indicates sequence similarity.
+* **Query Coverage:** Percentage of the query sequence aligned.
+* **Bit Score:** Reflects the quality of the alignment.
+
+## Applications
+
+* Identification of homologous proteins.
+* Functional annotation.
+* Comparative sequence analysis.
+* Preparation of datasets for multiple sequence alignment and phylogenetic analysis.
+
+## Files Included
+
+* Query protein sequence (FASTA).
+* Retrieved homologous sequences (FASTA).
+* BLAST result summary/screenshots (if applicable).
+
+## Conclusion
+
+BLAST analysis successfully identified homologous protein sequences with significant similarity to the query protein. The retrieved
+sequences served as the basis for multiple sequence alignment and phylogenetic analysis, enabling further investigation of sequence
+conservation and evolutionary relationships.
 
