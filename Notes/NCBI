@@ -1,0 +1,56 @@
+## DEFINITION
+NCBI (National Center for Biotechnology Information) is a public bioinformatics resource that provides access to biological databases, 
+sequence analysis tools, and scientific literature.
+
+## PURPOSE
+- Store and retrieve biological data.
+- Provide sequence analysis tools.
+- Support genomics and biomedical research.
+- Integrate biological information from multiple databases.
+
+## MAJOR DATABASES
+- GenBank
+- Gene
+- Protein
+- PubMed
+- RefSeq
+- SNP (dbSNP)
+
+## COMMON USES
+- Retrieve DNA, RNA, and protein sequences.
+- Search scientific literature.
+- Perform BLAST searches.
+- Access gene and genome information.
+
+## IMPORTANT FILE FORMATS
+- FASTA (.fasta, .fa)
+- GenBank (.gb, .gbk)
+- ASN.1
+- XML
+- GFF
+
+## STEPS FOR SEQUENCE RETRIEVAL
+- Open the NCBI website.
+- Select the appropriate database.
+- Search using a gene name, accession number, or organism.
+- Open the desired record.
+- Download the sequence in the required format (e.g., FASTA or GenBank).
+
+## OUTPUT
+- DNA/RNA sequences
+- Protein sequences
+- Gene records
+- Genome information
+- Literature records (PubMed)
+
+## FILES TO UPLOAD
+- FASTA (.fasta, .fa)
+- GenBank (.gb, .gbk)
+- Sequence (.txt)
+- Accession ID or Gene ID
+
+## IMPORTANT POINTS
+- One of the world's largest biological data repositories.
+- Integrates multiple databases and analysis tools.
+- Freely accessible for research and education.
+- Widely used in genomics, proteomics, and molecular biology.
