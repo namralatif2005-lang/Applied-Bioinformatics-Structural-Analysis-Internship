@@ -1,1 +1,9 @@
+## Data Retrieval
+
+Data retrieval is the first step in any bioinformatics workflow, involving the collection of reliable biological data from publicly
+available databases. In this project, biological sequences and structural information were obtained from databases such as NCBI, UniProt,
+and the Protein Data Bank (PDB). NCBI was used to retrieve nucleotide and protein sequences, UniProt provided curated protein sequences and
+functional annotations, and PDB supplied experimentally determined three-dimensional protein structures. The retrieved data served as the
+foundation for subsequent analyses, including sequence alignment, protein characterization, structure prediction, validation, and
+phylogenetic analysis.
 
