@@ -1,1 +1,4 @@
-
+Cystic Fibrosis Transmembrane Conductance Regulator
+Input contains pdb model. 
+Refined output has refined pdb model which is obtained by galaxyrefine.
+Then we have validated output by errat,procheck and verify 3D websites.
