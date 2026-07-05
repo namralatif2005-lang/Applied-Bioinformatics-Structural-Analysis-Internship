@@ -1,0 +1,32 @@
+## DEFINITION
+PyMOL is a molecular visualization software used to view, analyze, and create high-quality 3D images of proteins, nucleic acids, and other biomolecules.
+
+## PURPOSE
+- Visualize 3D molecular structures.
+- Analyze protein and ligand interactions.
+- Create publication-quality molecular images.
+- Study structural features of biomolecules.
+
+## APPLICATIONS
+- Protein structure visualization.
+- Drug and ligand binding analysis.
+- Structural biology research.
+- Molecular modeling and education.
+
+## COMMON FEATURES
+- Interactive 3D visualization.
+- Multiple molecular display styles (cartoon, surface, sticks, spheres).
+- Structure measurement and labeling.
+- Image rendering and animation.
+
+## FILES TO UPLOAD
+- PDB (.pdb)
+- mmCIF (.cif)
+- MOL2 (.mol2)
+- SDF (.sdf)
+
+## IMPORTANT POINTS
+- Widely used in structural biology and bioinformatics.
+- Produces high-quality publication-ready images.
+- Supports scripting for automation.
+- Compatible with multiple molecular structure formats.
