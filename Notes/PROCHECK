@@ -1,0 +1,28 @@
+## DEFINITION
+PROCHECK is a protein structure validation tool that assesses the stereochemical quality of a 3D protein model.
+
+## PURPOSE
+- Validate protein structures.
+- Assess stereochemical quality.
+- Detect structural errors.
+- Improve model reliability.
+
+## MAIN ANALYSIS
+- Ramachandran plot analysis.
+- Bond length and bond angle evaluation.
+- Dihedral angle assessment.
+- Residue geometry validation.
+
+## IMPORTANT RESULT
+- Ramachandran plot showing favored, allowed, and disallowed regions.
+- Percentage of residues in favored regions.
+- Overall stereochemical quality of the protein model.
+
+## FILES TO UPLOAD
+- PDB (.pdb) protein structure file.
+
+## IMPORTANT POINTS
+- Widely used for protein structure validation.
+- Evaluates stereochemical accuracy of protein models.
+- Commonly used with ERRAT and Verify3D.
+- Higher percentage of residues in favored regions indicates a better-quality model.
