@@ -13,13 +13,14 @@ The internship emphasized practical implementation rather than theoretical learn
 
 This repository documents the complete practical work carried out during the internship and serves as a portfolio of my learning journey in structural bioinformatics.
 
-🎓 Internship Details:
+| Information      | Details                                               |
+| ---------------- | ----------------------------------------------------- |
+| **Organization** | Biocode Innovators                                    |
+| **Program**      | Structural Bioinformatics Practical Series Internship |
+| **Batch**        | 03                                                    |
+| **Field**        | Structural Bioinformatics & Computational Biology     |
+| **Instructor**   | Abeera Iftikhar                                       |
 
-Organization:	Biocode Innovators
-Program:	Structural Bioinformatics Practical Series Internship
-Batch:	        03
-Field:	        Structural Bioinformatics & Computational Biology
-Instructor: 	Abeera Iftikhar
 
 🎯 Objectives:
 
